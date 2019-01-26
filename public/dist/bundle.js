@@ -86,6 +86,116 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./dist/assets/TATSU-ITE-BOLD.jpg":
+/*!****************************************!*\
+  !*** ./dist/assets/TATSU-ITE-BOLD.jpg ***!
+  \****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"1096b35f9aa595e9f28eca1366ef5096.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/TATSU-ITE-BOLD.jpg?");
+
+/***/ }),
+
+/***/ "./dist/assets/TATSU-ITE-CHEEKY.jpg":
+/*!******************************************!*\
+  !*** ./dist/assets/TATSU-ITE-CHEEKY.jpg ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"554792231eb4131874dac2cf3c3d440a.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/TATSU-ITE-CHEEKY.jpg?");
+
+/***/ }),
+
+/***/ "./dist/assets/TATSU-ITE-HIPPIE.jpg":
+/*!******************************************!*\
+  !*** ./dist/assets/TATSU-ITE-HIPPIE.jpg ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"09c775da127954c60ed2bc5d88d35c48.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/TATSU-ITE-HIPPIE.jpg?");
+
+/***/ }),
+
+/***/ "./dist/assets/TATSU-ITE-OLD-SKOOL.jpg":
+/*!*********************************************!*\
+  !*** ./dist/assets/TATSU-ITE-OLD-SKOOL.jpg ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"b3f475aad9861c859572ebe7033c5834.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/TATSU-ITE-OLD-SKOOL.jpg?");
+
+/***/ }),
+
+/***/ "./dist/assets/cook.jpg":
+/*!******************************!*\
+  !*** ./dist/assets/cook.jpg ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"9877916d0cb944499d92c54eb34b75a3.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/cook.jpg?");
+
+/***/ }),
+
+/***/ "./dist/assets/octo.jpg":
+/*!******************************!*\
+  !*** ./dist/assets/octo.jpg ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"7ae585fc7190f6d59931cb22c3814768.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/octo.jpg?");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/App/reset.scss":
+/*!**********************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/App/reset.scss ***!
+  \**********************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"/* http://meyerweb.com/eric/tools/css/reset/\\n   v2.0 | 20110126\\n   License: none (public domain)\\n*/\\nhtml, body, div, span, applet, object, iframe,\\nh1, h2, h3, h4, h5, h6, p, blockquote, pre,\\na, abbr, acronym, address, big, cite, code,\\ndel, dfn, em, img, ins, kbd, q, s, samp,\\nsmall, strike, strong, sub, sup, tt, var,\\nb, u, i, center,\\ndl, dt, dd, ol, ul, li,\\nfieldset, form, label, legend,\\ntable, caption, tbody, tfoot, thead, tr, th, td,\\narticle, aside, canvas, details, embed,\\nfigure, figcaption, footer, header, hgroup,\\nmenu, nav, output, ruby, section, summary,\\ntime, mark, audio, video {\\n  margin: 0;\\n  padding: 0;\\n  border: 0;\\n  font-size: 100%;\\n  font: inherit;\\n  vertical-align: baseline; }\\n\\n/* HTML5 display-role reset for older browsers */\\narticle, aside, details, figcaption, figure,\\nfooter, header, hgroup, menu, nav, section {\\n  display: block; }\\n\\nbody {\\n  line-height: 1; }\\n\\nol, ul {\\n  list-style: none; }\\n\\nblockquote, q {\\n  quotes: none; }\\n\\nblockquote:before, blockquote:after,\\nq:before, q:after {\\n  content: '';\\n  content: none; }\\n\\ntable {\\n  border-collapse: collapse;\\n  border-spacing: 0; }\\n\\nhtml, body {\\n  padding: 0;\\n  margin: 0; }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/App/reset.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/Gallery/gallery.scss":
+/*!****************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/Gallery/gallery.scss ***!
+  \****************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Gallery/gallery.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/Landing/landing.scss":
+/*!****************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/Landing/landing.scss ***!
+  \****************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Montserrat);\", \"\"]);\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto:100,400,700);\", \"\"]);\nvar urlEscape = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/url-escape.js */ \"./node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(__webpack_require__(/*! ../../../dist/assets/cook.jpg */ \"./dist/assets/cook.jpg\"));\nvar ___CSS_LOADER_URL___1___ = urlEscape(__webpack_require__(/*! ../../../dist/assets/octo.jpg */ \"./dist/assets/octo.jpg\"));\n\n// Module\nexports.push([module.i, \"/* Montserrat */\\n#landing {\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center; }\\n\\n#home {\\n  background: url(\" + ___CSS_LOADER_URL___0___ + \") 50% 50% no-repeat;\\n  background-size: cover;\\n  width: 100%;\\n  height: 30vh; }\\n\\n.home-container {\\n  width: 100%;\\n  height: 30vh;\\n  background: rgba(0, 0, 0, 0.4);\\n  font-size: 30px;\\n  color: white;\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  font-weight: 100;\\n  display: flex;\\n  justify-content: center;\\n  align-items: center;\\n  padding: 0 4%; }\\n\\n#about {\\n  background: url(\" + ___CSS_LOADER_URL___1___ + \") 50% 50% no-repeat fixed;\\n  background-size: cover;\\n  padding: 5%; }\\n\\n.about-container {\\n  background: rgba(255, 255, 255, 0.4);\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  line-height: 1.5;\\n  padding: 4%;\\n  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15); }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Landing/landing.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/Location/location.scss":
+/*!******************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/Location/location.scss ***!
+  \******************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Location/location.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
+
+/***/ }),
+
 /***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/Menu/menu.scss":
 /*!**********************************************************************************************************************!*\
   !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/Menu/menu.scss ***!
@@ -93,7 +203,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Menu/menu.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
+eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Montserrat);\", \"\"]);\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto:100,400,700);\", \"\"]);\n\n// Module\nexports.push([module.i, \"/* Montserrat */\\n#menu {\\n  background: #ededed;\\n  padding: 5%; }\\n\\n.section-title {\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  font-weight: 400;\\n  text-decoration: uppercase;\\n  font-size: 24px; }\\n\\n.menu-container {\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center; }\\n\\n.ramen {\\n  display: grid;\\n  grid-template-columns: repeat(1, 1fr);\\n  grid-gap: 2%; }\\n\\n.menu-item {\\n  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);\\n  background: white; }\\n\\n.menu-image {\\n  width: 355px;\\n  height: auto; }\\n\\n.menu-title {\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  font-size: 20px;\\n  padding: 2% 4% 0 4%; }\\n\\n.menu-description {\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  line-height: 1.5;\\n  padding: 4%; }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Menu/menu.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
 
 /***/ }),
 
@@ -106,6 +216,18 @@ eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/c
 
 "use strict";
 eval("\n\n/*\n  MIT License http://www.opensource.org/licenses/mit-license.php\n  Author Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function (useSourceMap) {\n  var list = []; // return the list of modules as css string\n\n  list.toString = function toString() {\n    return this.map(function (item) {\n      var content = cssWithMappingToString(item, useSourceMap);\n\n      if (item[2]) {\n        return '@media ' + item[2] + '{' + content + '}';\n      } else {\n        return content;\n      }\n    }).join('');\n  }; // import a list of modules into the list\n\n\n  list.i = function (modules, mediaQuery) {\n    if (typeof modules === 'string') {\n      modules = [[null, modules, '']];\n    }\n\n    var alreadyImportedModules = {};\n\n    for (var i = 0; i < this.length; i++) {\n      var id = this[i][0];\n\n      if (id != null) {\n        alreadyImportedModules[id] = true;\n      }\n    }\n\n    for (i = 0; i < modules.length; i++) {\n      var item = modules[i]; // skip already imported module\n      // this implementation is not 100% perfect for weird media query combinations\n      // when a module is imported multiple times with different media queries.\n      // I hope this will never occur (Hey this way we have smaller bundles)\n\n      if (item[0] == null || !alreadyImportedModules[item[0]]) {\n        if (mediaQuery && !item[2]) {\n          item[2] = mediaQuery;\n        } else if (mediaQuery) {\n          item[2] = '(' + item[2] + ') and (' + mediaQuery + ')';\n        }\n\n        list.push(item);\n      }\n    }\n  };\n\n  return list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n  var content = item[1] || '';\n  var cssMapping = item[3];\n\n  if (!cssMapping) {\n    return content;\n  }\n\n  if (useSourceMap && typeof btoa === 'function') {\n    var sourceMapping = toComment(cssMapping);\n    var sourceURLs = cssMapping.sources.map(function (source) {\n      return '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */';\n    });\n    return [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n  }\n\n  return [content].join('\\n');\n} // Adapted from convert-source-map (MIT)\n\n\nfunction toComment(sourceMap) {\n  // eslint-disable-next-line no-undef\n  var base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n  var data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n  return '/*# ' + data + ' */';\n}\n\n//# sourceURL=webpack:///./node_modules/css-loader/dist/runtime/api.js?");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/runtime/url-escape.js":
+/*!************************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/url-escape.js ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nmodule.exports = function escape(url, needQuotes) {\n  if (typeof url !== 'string') {\n    return url;\n  } // If url is already wrapped in quotes, remove them\n\n\n  if (/^['\"].*['\"]$/.test(url)) {\n    url = url.slice(1, -1);\n  } // Should url be wrapped?\n  // See https://drafts.csswg.org/css-values-3/#urls\n\n\n  if (/[\"'() \\t\\n]/.test(url) || needQuotes) {\n    return '\"' + url.replace(/\"/g, '\\\\\"').replace(/\\n/g, '\\\\n') + '\"';\n  }\n\n  return url;\n};\n\n//# sourceURL=webpack:///./node_modules/css-loader/dist/runtime/url-escape.js?");
 
 /***/ }),
 
@@ -282,7 +404,87 @@ eval("var g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn th
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _Menu__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Menu */ \"./src/components/Menu/index.jsx\");\n\n\n\nvar App = function App() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Menu__WEBPACK_IMPORTED_MODULE_1__[\"default\"], null));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (App);\n\n//# sourceURL=webpack:///./src/components/App/index.jsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _Landing__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../Landing */ \"./src/components/Landing/index.jsx\");\n/* harmony import */ var _Menu__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../Menu */ \"./src/components/Menu/index.jsx\");\n/* harmony import */ var _Location__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../Location */ \"./src/components/Location/index.jsx\");\n/* harmony import */ var _Gallery__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../Gallery */ \"./src/components/Gallery/index.jsx\");\n\n\n\n\n\n\nvar App = function App() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Landing__WEBPACK_IMPORTED_MODULE_1__[\"default\"], null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Menu__WEBPACK_IMPORTED_MODULE_2__[\"default\"], null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Location__WEBPACK_IMPORTED_MODULE_3__[\"default\"], null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Gallery__WEBPACK_IMPORTED_MODULE_4__[\"default\"], null));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (App);\n\n//# sourceURL=webpack:///./src/components/App/index.jsx?");
+
+/***/ }),
+
+/***/ "./src/components/App/reset.scss":
+/*!***************************************!*\
+  !*** ./src/components/App/reset.scss ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("\nvar content = __webpack_require__(/*! !../../../node_modules/css-loader/dist/cjs.js!../../../node_modules/sass-loader/lib/loader.js!./reset.scss */ \"./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/App/reset.scss\");\n\nif(typeof content === 'string') content = [[module.i, content, '']];\n\nvar transform;\nvar insertInto;\n\n\n\nvar options = {\"hmr\":true}\n\noptions.transform = transform\noptions.insertInto = undefined;\n\nvar update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ \"./node_modules/style-loader/lib/addStyles.js\")(content, options);\n\nif(content.locals) module.exports = content.locals;\n\nif(false) {}\n\n//# sourceURL=webpack:///./src/components/App/reset.scss?");
+
+/***/ }),
+
+/***/ "./src/components/Gallery/gallery.scss":
+/*!*********************************************!*\
+  !*** ./src/components/Gallery/gallery.scss ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("\nvar content = __webpack_require__(/*! !../../../node_modules/css-loader/dist/cjs.js!../../../node_modules/sass-loader/lib/loader.js!./gallery.scss */ \"./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/Gallery/gallery.scss\");\n\nif(typeof content === 'string') content = [[module.i, content, '']];\n\nvar transform;\nvar insertInto;\n\n\n\nvar options = {\"hmr\":true}\n\noptions.transform = transform\noptions.insertInto = undefined;\n\nvar update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ \"./node_modules/style-loader/lib/addStyles.js\")(content, options);\n\nif(content.locals) module.exports = content.locals;\n\nif(false) {}\n\n//# sourceURL=webpack:///./src/components/Gallery/gallery.scss?");
+
+/***/ }),
+
+/***/ "./src/components/Gallery/index.jsx":
+/*!******************************************!*\
+  !*** ./src/components/Gallery/index.jsx ***!
+  \******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _gallery_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./gallery.scss */ \"./src/components/Gallery/gallery.scss\");\n/* harmony import */ var _gallery_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_gallery_scss__WEBPACK_IMPORTED_MODULE_1__);\n\n\n\nvar Gallery = function Gallery() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null, \"this is from gallery\");\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Gallery);\n\n//# sourceURL=webpack:///./src/components/Gallery/index.jsx?");
+
+/***/ }),
+
+/***/ "./src/components/Landing/index.jsx":
+/*!******************************************!*\
+  !*** ./src/components/Landing/index.jsx ***!
+  \******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _landing_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./landing.scss */ \"./src/components/Landing/landing.scss\");\n/* harmony import */ var _landing_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_landing_scss__WEBPACK_IMPORTED_MODULE_1__);\n\n\n\nvar Landing = function Landing() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"landing\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"home\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"home-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null, \"Nishi Poke & Ramen\"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"about\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"about-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", null, \"Our Story\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", null, \"At Nishi Poke & Ramen Bistro, we see Japanese cuisine as an art.  In every dish we make, we put our love and passion for food to craft the freshest and tastiest dishes. We simmer our broth for 24 hours and create our dishes from scratch everyday. We also selectively choose sushi grade fresh fish daily to offer only the best to our customers. \"))));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Landing);\n\n//# sourceURL=webpack:///./src/components/Landing/index.jsx?");
+
+/***/ }),
+
+/***/ "./src/components/Landing/landing.scss":
+/*!*********************************************!*\
+  !*** ./src/components/Landing/landing.scss ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("\nvar content = __webpack_require__(/*! !../../../node_modules/css-loader/dist/cjs.js!../../../node_modules/sass-loader/lib/loader.js!./landing.scss */ \"./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/Landing/landing.scss\");\n\nif(typeof content === 'string') content = [[module.i, content, '']];\n\nvar transform;\nvar insertInto;\n\n\n\nvar options = {\"hmr\":true}\n\noptions.transform = transform\noptions.insertInto = undefined;\n\nvar update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ \"./node_modules/style-loader/lib/addStyles.js\")(content, options);\n\nif(content.locals) module.exports = content.locals;\n\nif(false) {}\n\n//# sourceURL=webpack:///./src/components/Landing/landing.scss?");
+
+/***/ }),
+
+/***/ "./src/components/Location/index.jsx":
+/*!*******************************************!*\
+  !*** ./src/components/Location/index.jsx ***!
+  \*******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _location_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./location.scss */ \"./src/components/Location/location.scss\");\n/* harmony import */ var _location_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_location_scss__WEBPACK_IMPORTED_MODULE_1__);\n\n\n\nvar Location = function Location() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null, \"Location;\");\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Location);\n\n//# sourceURL=webpack:///./src/components/Location/index.jsx?");
+
+/***/ }),
+
+/***/ "./src/components/Location/location.scss":
+/*!***********************************************!*\
+  !*** ./src/components/Location/location.scss ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("\nvar content = __webpack_require__(/*! !../../../node_modules/css-loader/dist/cjs.js!../../../node_modules/sass-loader/lib/loader.js!./location.scss */ \"./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js!./src/components/Location/location.scss\");\n\nif(typeof content === 'string') content = [[module.i, content, '']];\n\nvar transform;\nvar insertInto;\n\n\n\nvar options = {\"hmr\":true}\n\noptions.transform = transform\noptions.insertInto = undefined;\n\nvar update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ \"./node_modules/style-loader/lib/addStyles.js\")(content, options);\n\nif(content.locals) module.exports = content.locals;\n\nif(false) {}\n\n//# sourceURL=webpack:///./src/components/Location/location.scss?");
 
 /***/ }),
 
@@ -294,7 +496,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var reac
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _menu_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./menu.scss */ \"./src/components/Menu/menu.scss\");\n/* harmony import */ var _menu_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_menu_scss__WEBPACK_IMPORTED_MODULE_1__);\n\n\n\nvar Menu = function Menu() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null, \"this is from menu\");\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Menu);\n\n//# sourceURL=webpack:///./src/components/Menu/index.jsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _menu_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./menu.scss */ \"./src/components/Menu/menu.scss\");\n/* harmony import */ var _menu_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_menu_scss__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _dist_assets_TATSU_ITE_OLD_SKOOL_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../dist/assets/TATSU-ITE-OLD-SKOOL.jpg */ \"./dist/assets/TATSU-ITE-OLD-SKOOL.jpg\");\n/* harmony import */ var _dist_assets_TATSU_ITE_OLD_SKOOL_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_TATSU_ITE_OLD_SKOOL_jpg__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _dist_assets_TATSU_ITE_BOLD_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../dist/assets/TATSU-ITE-BOLD.jpg */ \"./dist/assets/TATSU-ITE-BOLD.jpg\");\n/* harmony import */ var _dist_assets_TATSU_ITE_BOLD_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_TATSU_ITE_BOLD_jpg__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _dist_assets_TATSU_ITE_HIPPIE_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../dist/assets/TATSU-ITE-HIPPIE.jpg */ \"./dist/assets/TATSU-ITE-HIPPIE.jpg\");\n/* harmony import */ var _dist_assets_TATSU_ITE_HIPPIE_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_TATSU_ITE_HIPPIE_jpg__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _dist_assets_TATSU_ITE_CHEEKY_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../dist/assets/TATSU-ITE-CHEEKY.jpg */ \"./dist/assets/TATSU-ITE-CHEEKY.jpg\");\n/* harmony import */ var _dist_assets_TATSU_ITE_CHEEKY_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_TATSU_ITE_CHEEKY_jpg__WEBPACK_IMPORTED_MODULE_5__);\n\n\n\n\n\n\n\nvar Menu = function Menu() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"menu\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"section-header\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"section-title\"\n  }, \"Our Menu\")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", null, \"Ramen\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"ramen\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-item\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_TATSU_ITE_OLD_SKOOL_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,\n    className: \"menu-image\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"menu-title\"\n  }, \"Tonkotsu\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-slide\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", {\n    className: \"menu-description\"\n  }, \"Our Signature Tonkotsu Ramen Homemade Pork broth, braised pork belly, green onion, shitake mushroom and nori\"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-item\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_TATSU_ITE_BOLD_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,\n    className: \"menu-image\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"menu-title\"\n  }, \"Red Miso\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-slide\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", {\n    className: \"menu-description\"\n  }, \"Spicy Ramen Homemade pork broth, spicy pork, chili garlic sauce, green onion, soft boiled egg, wood ear mushroom, crispy onion and nori \"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-item\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_TATSU_ITE_CHEEKY_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,\n    className: \"menu-image\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"menu-title\"\n  }, \"Shoyu\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-slide\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", {\n    className: \"menu-description\"\n  }, \"Black Ramen Homemade pork broth, black garlic oil, sweet umami sauce, braised pork belly, green onion, shitake mushroom and crispy onion\"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-item\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_TATSU_ITE_HIPPIE_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,\n    className: \"menu-image\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"menu-title\"\n  }, \"Veggie\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-slide\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", {\n    className: \"menu-description\"\n  }, \"Green Ramen Homemade pork broth, house pesto, chicken breast, soft boiled egg, grated garlic and nori\")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"poke\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", null, \"Poke\"))));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Menu);\n\n//# sourceURL=webpack:///./src/components/Menu/index.jsx?");
 
 /***/ }),
 
@@ -317,7 +519,7 @@ eval("\nvar content = __webpack_require__(/*! !../../../node_modules/css-loader/
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_dom__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _components_App__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/App */ \"./src/components/App/index.jsx\");\n\n\n\nObject(react_dom__WEBPACK_IMPORTED_MODULE_1__[\"render\"])(react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_App__WEBPACK_IMPORTED_MODULE_2__[\"default\"], null), document.getElementById('root'));\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-dom */ \"./node_modules/react-dom/index.js\");\n/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_dom__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _components_App_reset_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/App/reset.scss */ \"./src/components/App/reset.scss\");\n/* harmony import */ var _components_App_reset_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_components_App_reset_scss__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _components_App__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components/App */ \"./src/components/App/index.jsx\");\n\n\n\n\nObject(react_dom__WEBPACK_IMPORTED_MODULE_1__[\"render\"])(react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_App__WEBPACK_IMPORTED_MODULE_3__[\"default\"], null), document.getElementById('root'));\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 
