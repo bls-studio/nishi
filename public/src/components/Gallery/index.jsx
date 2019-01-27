@@ -2,7 +2,7 @@ import React from 'react';
 import './gallery.scss';
 
 const Gallery = () => (
-  <div>
+  <div id="page-wrap">
     this is from gallery
   </div>
 );

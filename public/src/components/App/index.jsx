@@ -1,13 +1,14 @@
 import React from 'react';
 
-
+import Navigation from '../Navigation';
 import Landing from '../Landing';
 import Menu from '../Menu';
 import Location from '../Location';
 import Gallery from '../Gallery';
 
 const App = () => (
-  <div>
+  <div id="outer-container">
+    <Navigation />
     <Landing />
     <Menu />
     <Location />
