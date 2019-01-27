@@ -1,4 +1,5 @@
 import React from 'react';
+import 'smoothscroll';
 
 import Navigation from '../Navigation';
 import Landing from '../Landing';

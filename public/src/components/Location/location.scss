@@ -1,0 +1,53 @@
+@import "../App/global.scss";
+
+#location {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.westLA {
+  background: url('../../../dist/assets/location1.jpg') 50% 50% no-repeat;
+}
+.culver {
+  background: url('../../../dist/assets/location2.jpg') 50% 50% no-repeat;
+}
+.location-item {
+  background-size: cover;
+  width: 100%;
+  height: 40vh;
+  margin: 1% 0;
+}
+.location-overlay {
+  background: rgba(0,0,0,0.7);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  h3 {
+    // padding-top: 5%;
+    font-family: $roboto;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: white;
+  }
+  p {
+    color: white;
+    font-family: $montserrat;
+    font-weight: 100;
+    line-height: 1.5;
+  }
+}
+@media only screen and (min-width: 768px) {
+  #location {
+    flex-direction: row;
+  }
+  .location-item {
+    margin: 2px;
+  }
+}
