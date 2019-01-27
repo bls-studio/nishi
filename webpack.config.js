@@ -20,10 +20,10 @@ module.exports = {
         test: [/\.css$/, /\.scss$/],
         loader: ['style-loader', 'css-loader', 'sass-loader']
       },
-      { 
-        test: /\.(png|woff|woff2|eot|ttf|svg|otf)$/, 
-        loader: 'url-loader?limit=100000' 
-      },
+      // { 
+      //   test: /\.(png|woff|woff2|eot|ttf|svg|otf)$/, 
+      //   loader: 'url-loader?limit=100000' 
+      // },
       {
         test: /\.(gif|png|jpe?g|svg|pdf)$/i,
         loader: 'file-loader'

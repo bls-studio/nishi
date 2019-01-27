@@ -1,13 +1,16 @@
 import React from 'react';
 import './landing.scss';
 
+// import hero from '../../../dist/assets/download1.jpg';
+import hero from '../../../dist/assets/logowhite.png';
 import cook from '../../../dist/assets/cook.jpg'
 
 const Landing = () => (
   <div id="page-wrap" className="landing">
     <div id="home">
       <div className="home-container">
-        <div>Nishi Poke & Ramen</div>
+        <img src={hero} alt="" className="hero"/>
+        {/* <div>Nishi Poke & Ramen</div> */}
       </div>
     </div>
     <div id="about">
