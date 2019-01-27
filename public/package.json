@@ -17,6 +17,8 @@
     "react": "^16.7.0",
     "react-burger-menu": "^2.6.1",
     "react-dom": "^16.7.0",
+    "react-image-lightbox": "^5.1.0",
+    "react-modal": "^3.8.1",
     "sass-loader": "^7.1.0",
     "smoothscroll": "^0.4.0",
     "style-loader": "^0.23.1",
