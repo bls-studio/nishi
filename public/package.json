@@ -29,6 +29,7 @@
     "webpack-cli": "^3.2.1"
   },
   "scripts": {
-    "webpack": "webpack -w"
+    "webpack": "webpack -w",
+    "build": "webpack -p"
   }
 }
