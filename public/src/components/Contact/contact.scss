@@ -28,3 +28,24 @@
     margin: 0 2%;
   }
 }
+.icons *:hover {
+  color: #B5D24B;
+}
+.contact-info {
+  text-align: center;
+}
+.plug {
+  margin-top: 5%;
+}
+
+@media only screen and (min-width: 1080px) {
+  .contact-container {
+    padding: 5% 0;
+  }
+  .icons {
+    margin: 3%;
+  }
+  .plug {
+    margin-top: 3%;
+  }
+}

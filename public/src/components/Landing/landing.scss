@@ -7,8 +7,10 @@
   align-items: center;
 }
 #home {
-  background: url('../../../dist/assets/octo.jpg') 50% 10% no-repeat;
-  background-size: cover;
+  // background: url('../../../dist/assets/octo.jpg') 50% 10% no-repeat;
+  background: url('../../../dist/assets/holding.jpg') 50% 0 no-repeat fixed;
+
+  background-size: contain;
   width: 100%;
   height: auto;
 }
@@ -32,14 +34,7 @@
   }
 }
 #about {
-//   background: repeating-linear-gradient(
-//   to right,
-//   #ededed,
-//   #ededed 2px,
-//   #ffffff 10px,
-//   #ffffff 10px
-// );
-  // background: url('../../../dist/assets/cook.jpg') 50% 50% no-repeat fixed;
+  // background: url('../../../dist/assets/cookbw.jpg') 50% 50% no-repeat fixed;
   background-size: cover;
   padding: 5%;
 }
@@ -60,11 +55,17 @@
   padding: 4%;  
   box-shadow: 0 0 3px rgba(0,0,0,.15);
 
+  h3 {
+    font-size: 20px;
+    // font-weight: bold;
+    font-family: $roboto;
+  }
 }
 
 @media only screen and (min-width: 678px) {
   .home-container {
-    height: 50vh;
+    height: 60vh;
+    // height: 50vh;
 
     .hero {
       width: 250px;

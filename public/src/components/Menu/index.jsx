@@ -15,7 +15,7 @@ const Menu = () => (
       </div>
       <div className="menu-container">
         <h3>Ramen</h3>
-        <div className="ramen">
+        <div className="ramen" >
           <div className="menu-item">
             <img src={tonkotsu} className="menu-image"></img>
             <h3 className="menu-title">Tonkotsu</h3>

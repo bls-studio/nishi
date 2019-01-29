@@ -65,8 +65,8 @@ import img8 from '../../../dist/assets/DSC07278.jpg';
 //   }
 // }
 const Gallery = () => (
-  <div id="page-wrap">
-    <div id="gallery">
+  <div id="page-wrap" className="gallery-container">
+    <div id="gallery" >
       <div className="gallery-modal">
         <img src={img1} className="gallery-item" alt=""/>   
         <img src={img4} className="gallery-item" alt=""/>

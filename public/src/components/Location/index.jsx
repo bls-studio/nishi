@@ -3,7 +3,7 @@ import './location.scss';
 
 const Location = () => (
   <div id="page-wrap">
-    <div id="location">
+    <div id="location" >
       <div className="location-item westLA">
         <div className="location-overlay">
           <h3>West LA</h3>
