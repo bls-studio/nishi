@@ -1,10 +1,10 @@
 import React from 'react';
 import './menu.scss';
 
-import tonkotsu from '../../../dist/assets/TATSU-ITE-OLD-SKOOL.jpg';
-import miso from '../../../dist/assets/TATSU-ITE-BOLD.jpg';
-import veggie from '../../../dist/assets/TATSU-ITE-HIPPIE.jpg';
-import shoyu from '../../../dist/assets/TATSU-ITE-CHEEKY.jpg';
+import tonkotsu from '../../../dist/resized/pmton.jpg';
+import miso from '../../../dist/resized/pmmiso.jpg';
+import veggie from '../../../dist/resized/pmveg.jpg';
+import shoyu from '../../../dist/resized/pmshoyu.jpg';
 
 const Menu = () => (
   <div id="page-wrap">
@@ -20,32 +20,28 @@ const Menu = () => (
             <img src={tonkotsu} className="menu-image"></img>
             <h3 className="menu-title">Tonkotsu</h3>
             <div className="menu-slide">
-              <p className="menu-description">Our Signature Tonkotsu Ramen
-                Homemade Pork broth, braised pork belly, green onion, shitake mushroom and nori</p>
+              <p className="menu-description">Pork broth, pork chashu, green onion, spinach, bean sprouts, seaweed.</p>
             </div>
           </div>
           <div className="menu-item">
             <img src={miso} className="menu-image"></img>
             <h3 className="menu-title">Red Miso</h3>
             <div className="menu-slide">
-              <p className="menu-description">Spicy Ramen 
-                Homemade pork broth, spicy pork, chili garlic sauce, green onion, soft boiled egg, wood ear mushroom, crispy onion and nori </p>
+              <p className="menu-description">Miso broth, pork chashu, green onion, spinach, bean sprouts, cabbage, bamboo shoots, seaweed.</p>
             </div>
           </div>
           <div className="menu-item">
             <img src={shoyu} className="menu-image"></img>
             <h3 className="menu-title">Shoyu</h3>
             <div className="menu-slide">
-              <p className="menu-description">Black Ramen 
-                Homemade pork broth, black garlic oil, sweet umami sauce, braised pork belly, green onion, shitake mushroom and crispy onion</p>
+              <p className="menu-description">Chicken Broth, Chasu, White Onions, Bamboo Shoots, Seaweed, Alfalfa Sprouts.</p>
             </div>
           </div>
           <div className="menu-item">
             <img src={veggie} className="menu-image"></img>
             <h3 className="menu-title">Veggie</h3>
             <div className="menu-slide">
-              <p className="menu-description">Green Ramen
-                Homemade pork broth, house pesto, chicken breast, soft boiled egg, grated garlic and nori</p>
+              <p className="menu-description">Sesame miso broth, broccoli, tofu, corn, bean sprouts, spring mix, sesame oil.</p>
             </div>
           </div>
         </div>

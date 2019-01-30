@@ -2,14 +2,14 @@ import React, { Component } from 'react';
 import Lightbox from 'react-image-lightbox';
 import './gallery.scss';
 
-import img1 from '../../../dist/assets/Nishi_13.jpg';
-import img2 from '../../../dist/assets/Nishi_20.jpg';
-import img3 from '../../../dist/assets/IMG_0545.jpg';
-import img4 from '../../../dist/assets/IMG_0537.jpg';
-import img5 from '../../../dist/assets/IMG_0239.jpg';
-import img6 from '../../../dist/assets/DSC07728.jpg';
-import img7 from '../../../dist/assets/DSC07366.jpg';
-import img8 from '../../../dist/assets/DSC07278.jpg';
+import img1 from '../../../dist/resized/miso.jpg';
+import img2 from '../../../dist/resized/poke.jpg';
+import img3 from '../../../dist/resized/ton.jpg';
+import img4 from '../../../dist/resized/karage.jpg';
+import img5 from '../../../dist/resized/station.jpg';
+import img6 from '../../../dist/resized/veggie.jpg';
+import img7 from '../../../dist/resized/soup.jpg';
+import img8 from '../../../dist/resized/gyoza.jpg';
 // // DSC07143.jpg
 // const images = [
 //   '../../../dist/assets/Nishi_13.jpg',

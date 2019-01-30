@@ -86,138 +86,6 @@
 /************************************************************************/
 /******/ ({
 
-/***/ "./dist/assets/DSC07278.jpg":
-/*!**********************************!*\
-  !*** ./dist/assets/DSC07278.jpg ***!
-  \**********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"c15821703d44eac8c5f875275a11eaa8.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/DSC07278.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/DSC07366.jpg":
-/*!**********************************!*\
-  !*** ./dist/assets/DSC07366.jpg ***!
-  \**********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"52fc372ec9ffaa1cfc864b953034c4e4.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/DSC07366.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/DSC07728.jpg":
-/*!**********************************!*\
-  !*** ./dist/assets/DSC07728.jpg ***!
-  \**********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"1a7d107c14f9de1247dc8cfa2ec84c0c.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/DSC07728.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/IMG_0239.jpg":
-/*!**********************************!*\
-  !*** ./dist/assets/IMG_0239.jpg ***!
-  \**********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"714639d37bb0379a332f1152e7196b6c.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/IMG_0239.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/IMG_0537.jpg":
-/*!**********************************!*\
-  !*** ./dist/assets/IMG_0537.jpg ***!
-  \**********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"dce4f7b7283cb7a79385bcea39755b4c.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/IMG_0537.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/IMG_0545.jpg":
-/*!**********************************!*\
-  !*** ./dist/assets/IMG_0545.jpg ***!
-  \**********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"0afaa61351360d05da97747a156fa29f.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/IMG_0545.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/Nishi_13.jpg":
-/*!**********************************!*\
-  !*** ./dist/assets/Nishi_13.jpg ***!
-  \**********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"c4ac04353c7ebeab8d758855d9a3d69e.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/Nishi_13.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/Nishi_20.jpg":
-/*!**********************************!*\
-  !*** ./dist/assets/Nishi_20.jpg ***!
-  \**********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"122d15c96bdee473094f849fac890c3e.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/Nishi_20.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/TATSU-ITE-BOLD.jpg":
-/*!****************************************!*\
-  !*** ./dist/assets/TATSU-ITE-BOLD.jpg ***!
-  \****************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"0862ca49e2c7f46e91e731992e27f4d3.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/TATSU-ITE-BOLD.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/TATSU-ITE-CHEEKY.jpg":
-/*!******************************************!*\
-  !*** ./dist/assets/TATSU-ITE-CHEEKY.jpg ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"06dd12c6d9189c369d8d060c4211a9df.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/TATSU-ITE-CHEEKY.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/TATSU-ITE-HIPPIE.jpg":
-/*!******************************************!*\
-  !*** ./dist/assets/TATSU-ITE-HIPPIE.jpg ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"a82ede5eba429ea90564e15531310ff8.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/TATSU-ITE-HIPPIE.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/TATSU-ITE-OLD-SKOOL.jpg":
-/*!*********************************************!*\
-  !*** ./dist/assets/TATSU-ITE-OLD-SKOOL.jpg ***!
-  \*********************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"39f1cddd08b2ee4daf3f249fbd2e11d3.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/TATSU-ITE-OLD-SKOOL.jpg?");
-
-/***/ }),
-
 /***/ "./dist/assets/cook.jpg":
 /*!******************************!*\
   !*** ./dist/assets/cook.jpg ***!
@@ -225,7 +93,7 @@ eval("module.exports = __webpack_require__.p + \"39f1cddd08b2ee4daf3f249fbd2e11d
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"a47e413ad8a58d0b647da4eefb36c769.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/cook.jpg?");
+eval("module.exports = __webpack_require__.p + \"023532f690a2557ebfe4df0640e71a77.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/cook.jpg?");
 
 /***/ }),
 
@@ -234,42 +102,9 @@ eval("module.exports = __webpack_require__.p + \"a47e413ad8a58d0b647da4eefb36c76
   !*** ./dist/assets/download.png ***!
   \**********************************/
 /*! no static exports found */
-/***/ (function(module, exports) {
-
-eval("module.exports = \"data:image/png;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICJlYWNkZGIzM2I3MThlZjg3M2I5NDRlMGZiNDg0YWU2Ny5wbmciOw==\"\n\n//# sourceURL=webpack:///./dist/assets/download.png?");
-
-/***/ }),
-
-/***/ "./dist/assets/holding.jpg":
-/*!*********************************!*\
-  !*** ./dist/assets/holding.jpg ***!
-  \*********************************/
-/*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"2ba3fd6b9ee3290149843add6dec7c81.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/holding.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/location1.jpg":
-/*!***********************************!*\
-  !*** ./dist/assets/location1.jpg ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"6ed851727939b9f23774dc44d679d802.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/location1.jpg?");
-
-/***/ }),
-
-/***/ "./dist/assets/location2.jpg":
-/*!***********************************!*\
-  !*** ./dist/assets/location2.jpg ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"8db855b3807d95d7c875e70bd1f86b47.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/location2.jpg?");
+eval("module.exports = __webpack_require__.p + \"82b75803a4753bee9a632b9ae850737b.png\";\n\n//# sourceURL=webpack:///./dist/assets/download.png?");
 
 /***/ }),
 
@@ -278,20 +113,185 @@ eval("module.exports = __webpack_require__.p + \"8db855b3807d95d7c875e70bd1f86b4
   !*** ./dist/assets/logowhite.png ***!
   \***********************************/
 /*! no static exports found */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = \"data:image/png;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICIwMzMxNTMzNWJhZjdlZjc0NGJjN2YxNDQwYzQ5NjNkMS5wbmciOw==\"\n\n//# sourceURL=webpack:///./dist/assets/logowhite.png?");
+eval("module.exports = __webpack_require__.p + \"1affcf697a9904a94e3b6bfe757c3cda.png\";\n\n//# sourceURL=webpack:///./dist/assets/logowhite.png?");
 
 /***/ }),
 
-/***/ "./dist/assets/octo.jpg":
+/***/ "./dist/resized/gyoza.jpg":
+/*!********************************!*\
+  !*** ./dist/resized/gyoza.jpg ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"566d52c8a940d357c34faf3cbc396830.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/gyoza.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/holding.jpg":
+/*!**********************************!*\
+  !*** ./dist/resized/holding.jpg ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"afb7393dcaf918175a38c284b9f637ef.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/holding.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/karage.jpg":
+/*!*********************************!*\
+  !*** ./dist/resized/karage.jpg ***!
+  \*********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"367b50504554a0431c53de5a28ac84a8.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/karage.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/location1.jpg":
+/*!************************************!*\
+  !*** ./dist/resized/location1.jpg ***!
+  \************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"eaafe568ad1466d57616f4d7e05cd91e.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/location1.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/location2.jpg":
+/*!************************************!*\
+  !*** ./dist/resized/location2.jpg ***!
+  \************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"ea450f39024a8d939394eab3901c1b73.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/location2.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/miso.jpg":
+/*!*******************************!*\
+  !*** ./dist/resized/miso.jpg ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"6f312c9500f604caacd9399b8b974ad2.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/miso.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/octo.jpg":
+/*!*******************************!*\
+  !*** ./dist/resized/octo.jpg ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"1533591a8136ed942522417c81a33eeb.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/octo.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/pmmiso.jpg":
+/*!*********************************!*\
+  !*** ./dist/resized/pmmiso.jpg ***!
+  \*********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"07ab8f0b2841f24268a9af3f98bdc6f7.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/pmmiso.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/pmshoyu.jpg":
+/*!**********************************!*\
+  !*** ./dist/resized/pmshoyu.jpg ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"3ba2c5060f064b9ed0152d553f5a9e3a.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/pmshoyu.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/pmton.jpg":
+/*!********************************!*\
+  !*** ./dist/resized/pmton.jpg ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"688ab1655f777287aac7f64064054139.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/pmton.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/pmveg.jpg":
+/*!********************************!*\
+  !*** ./dist/resized/pmveg.jpg ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"4e4bf4536b526728589af2e27bed3cc9.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/pmveg.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/poke.jpg":
+/*!*******************************!*\
+  !*** ./dist/resized/poke.jpg ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"542ee6faf781d1cc41d753805596d424.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/poke.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/soup.jpg":
+/*!*******************************!*\
+  !*** ./dist/resized/soup.jpg ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"283298b624cbdc124f146426e2eb3524.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/soup.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/station.jpg":
+/*!**********************************!*\
+  !*** ./dist/resized/station.jpg ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"3ae37fd8745bd258bd24daad6156548c.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/station.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/ton.jpg":
 /*!******************************!*\
-  !*** ./dist/assets/octo.jpg ***!
+  !*** ./dist/resized/ton.jpg ***!
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"60e28e40997e0ded3938c8885e3397d1.jpg\";\n\n//# sourceURL=webpack:///./dist/assets/octo.jpg?");
+eval("module.exports = __webpack_require__.p + \"44dc4517eadead14e6be3cda513348a2.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/ton.jpg?");
+
+/***/ }),
+
+/***/ "./dist/resized/veggie.jpg":
+/*!*********************************!*\
+  !*** ./dist/resized/veggie.jpg ***!
+  \*********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"f24186463c25a51894fe715e38b83e13.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/veggie.jpg?");
 
 /***/ }),
 
@@ -368,7 +368,7 @@ eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/c
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Montserrat);\", \"\"]);\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto:100,400,700);\", \"\"]);\nvar urlEscape = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/url-escape.js */ \"./node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(__webpack_require__(/*! ../../../dist/assets/octo.jpg */ \"./dist/assets/octo.jpg\"));\n\n// Module\nexports.push([module.i, \"/* Montserrat */\\n.gallery-container {\\n  background: url(\" + ___CSS_LOADER_URL___0___ + \") 50% 50% no-repeat fixed; }\\n\\n#gallery {\\n  background: rgba(255, 255, 255, 0.9);\\n  display: flex;\\n  width: 100%;\\n  justify-content: center; }\\n\\n.gallery-modal {\\n  scroll-snap-type: x mandatory;\\n  display: flex;\\n  overflow-x: scroll;\\n  overflow-y: hidden;\\n  -webkit-overflow-scrolling: touch;\\n  height: 40vh; }\\n  .gallery-modal img {\\n    width: 320px;\\n    height: auto; }\\n  .gallery-modal .gallery-item {\\n    flex: 0 0 auto;\\n    margin: 4%;\\n    scroll-snap-align: center; }\\n\\n@media only screen and (min-width: 768px) {\\n  #gallery {\\n    padding: 10% 0; }\\n  .gallery-modal {\\n    display: grid;\\n    grid-template-columns: repeat(4, 1fr);\\n    justify-items: center;\\n    height: auto;\\n    overflow: none; }\\n    .gallery-modal .gallery-item {\\n      margin: 1%; }\\n    .gallery-modal img {\\n      width: 200px; } }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Gallery/gallery.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
+eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Montserrat);\", \"\"]);\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto:100,400,700);\", \"\"]);\nvar urlEscape = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/url-escape.js */ \"./node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(__webpack_require__(/*! ../../../dist/resized/octo.jpg */ \"./dist/resized/octo.jpg\"));\n\n// Module\nexports.push([module.i, \"/* Montserrat */\\n.gallery-container {\\n  background: url(\" + ___CSS_LOADER_URL___0___ + \") 50% 50% no-repeat fixed; }\\n\\n#gallery {\\n  background: rgba(255, 255, 255, 0.9);\\n  display: flex;\\n  width: 100%;\\n  justify-content: center; }\\n\\n.gallery-modal {\\n  scroll-snap-type: x mandatory;\\n  display: flex;\\n  overflow-x: scroll;\\n  overflow-y: hidden;\\n  -webkit-overflow-scrolling: touch;\\n  height: 40vh; }\\n  .gallery-modal img {\\n    width: 320px;\\n    height: auto; }\\n  .gallery-modal .gallery-item {\\n    flex: 0 0 auto;\\n    margin: 4%;\\n    scroll-snap-align: center; }\\n\\n@media only screen and (min-width: 768px) {\\n  #gallery {\\n    padding: 10% 0; }\\n  .gallery-modal {\\n    display: grid;\\n    grid-template-columns: repeat(4, 1fr);\\n    justify-items: center;\\n    height: auto;\\n    overflow: none; }\\n    .gallery-modal .gallery-item {\\n      margin: 1%; }\\n    .gallery-modal img {\\n      width: 200px; } }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Gallery/gallery.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
 
 /***/ }),
 
@@ -379,7 +379,7 @@ eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/c
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Montserrat);\", \"\"]);\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto:100,400,700);\", \"\"]);\nvar urlEscape = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/url-escape.js */ \"./node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(__webpack_require__(/*! ../../../dist/assets/holding.jpg */ \"./dist/assets/holding.jpg\"));\n\n// Module\nexports.push([module.i, \"/* Montserrat */\\n.landing {\\n  display: flex;\\n  width: 100%;\\n  flex-direction: column;\\n  align-items: center; }\\n\\n#home {\\n  background: url(\" + ___CSS_LOADER_URL___0___ + \") 50% 0 no-repeat fixed;\\n  background-size: contain;\\n  width: 100%;\\n  height: auto; }\\n\\n.home-container {\\n  width: 100%;\\n  height: 30vh;\\n  background: white;\\n  background: rgba(0, 0, 0, 0.4);\\n  font-size: 30px;\\n  color: white;\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  font-weight: 100;\\n  display: flex;\\n  justify-content: center;\\n  align-items: center; }\\n  .home-container .hero {\\n    width: 150px;\\n    height: 150px;\\n    color: white; }\\n\\n#about {\\n  background-size: cover;\\n  padding: 5%; }\\n\\n.about-container {\\n  display: flex;\\n  flex-direction: column;\\n  justify-content: center;\\n  width: 100%; }\\n\\n.about-image {\\n  height: 20vh;\\n  width: auto; }\\n\\n.about-left {\\n  background: rgba(255, 255, 255, 0.8);\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  line-height: 1.5;\\n  padding: 4%;\\n  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15); }\\n  .about-left h3 {\\n    font-size: 20px;\\n    font-family: \\\"Roboto\\\", sans-serif; }\\n\\n@media only screen and (min-width: 678px) {\\n  .home-container {\\n    height: 60vh; }\\n    .home-container .hero {\\n      width: 250px;\\n      height: 250px;\\n      color: white; }\\n  .about-container {\\n    flex-direction: row; }\\n  .about-left {\\n    height: 200px;\\n    font-size: 14px;\\n    padding: 2%; }\\n  .about-image {\\n    height: 230px; } }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Landing/landing.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
+eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Montserrat);\", \"\"]);\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto:100,400,700);\", \"\"]);\nvar urlEscape = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/url-escape.js */ \"./node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(__webpack_require__(/*! ../../../dist/resized/holding.jpg */ \"./dist/resized/holding.jpg\"));\n\n// Module\nexports.push([module.i, \"/* Montserrat */\\n.landing {\\n  display: flex;\\n  width: 100%;\\n  flex-direction: column;\\n  align-items: center; }\\n\\n#home {\\n  background: url(\" + ___CSS_LOADER_URL___0___ + \") 50% 0 no-repeat fixed;\\n  background-size: contain;\\n  width: 100%;\\n  height: auto; }\\n\\n.home-container {\\n  width: 100%;\\n  height: 100vh;\\n  background: white;\\n  background: rgba(0, 0, 0, 0.4);\\n  font-size: 30px;\\n  color: white;\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  font-weight: 100;\\n  display: flex;\\n  justify-content: center;\\n  align-items: center; }\\n  .home-container .hero {\\n    width: 150px;\\n    height: 150px;\\n    color: white; }\\n\\n#about {\\n  background-size: cover;\\n  padding: 5%; }\\n\\n.about-container {\\n  display: flex;\\n  flex-direction: column;\\n  justify-content: center;\\n  width: 100%; }\\n\\n.about-image {\\n  height: 20vh;\\n  width: auto; }\\n\\n.about-left {\\n  background: rgba(255, 255, 255, 0.8);\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  line-height: 1.5;\\n  padding: 4%;\\n  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15); }\\n  .about-left h3 {\\n    font-size: 20px;\\n    font-family: \\\"Roboto\\\", sans-serif; }\\n\\n@media only screen and (min-width: 678px) {\\n  .home-container {\\n    height: 60vh; }\\n    .home-container .hero {\\n      width: 250px;\\n      height: 250px;\\n      color: white; }\\n  .about-container {\\n    flex-direction: row; }\\n  .about-left {\\n    height: 200px;\\n    font-size: 14px;\\n    padding: 2%; }\\n  .about-image {\\n    height: 230px; } }\\n\\n@media only screen and (min-width: 1080px) {\\n  #home {\\n    background: url(\" + ___CSS_LOADER_URL___0___ + \") 50% 70% no-repeat fixed;\\n    background-size: cover; }\\n  .home-container {\\n    height: 80vh; } }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Landing/landing.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
 
 /***/ }),
 
@@ -390,7 +390,7 @@ eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/c
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Montserrat);\", \"\"]);\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto:100,400,700);\", \"\"]);\nvar urlEscape = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/url-escape.js */ \"./node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(__webpack_require__(/*! ../../../dist/assets/location1.jpg */ \"./dist/assets/location1.jpg\"));\nvar ___CSS_LOADER_URL___1___ = urlEscape(__webpack_require__(/*! ../../../dist/assets/location2.jpg */ \"./dist/assets/location2.jpg\"));\n\n// Module\nexports.push([module.i, \"/* Montserrat */\\n#location {\\n  width: 100%;\\n  height: auto;\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center; }\\n\\n.westLA {\\n  background: url(\" + ___CSS_LOADER_URL___0___ + \") 50% 50% no-repeat; }\\n\\n.culver {\\n  background: url(\" + ___CSS_LOADER_URL___1___ + \") 50% 50% no-repeat; }\\n\\n.location-item {\\n  background-size: cover;\\n  width: 100%;\\n  height: 40vh;\\n  margin: 1% 0; }\\n\\n.location-overlay {\\n  background: rgba(0, 0, 0, 0.7);\\n  width: 100%;\\n  height: 100%;\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center;\\n  justify-content: center; }\\n  .location-overlay h3 {\\n    font-family: \\\"Roboto\\\", sans-serif;\\n    font-weight: 400;\\n    text-transform: uppercase;\\n    font-size: 20px;\\n    color: white; }\\n  .location-overlay p {\\n    color: white;\\n    font-family: \\\"Montserrat\\\", sans-serif;\\n    font-weight: 100;\\n    line-height: 1.5; }\\n\\n.location-buttons {\\n  display: flex;\\n  flex-direction: row;\\n  width: 100%;\\n  text-align: center;\\n  justify-content: center;\\n  margin: 1% 0; }\\n\\n.location-order, .location-directions {\\n  margin: 0 1%;\\n  border: 1px solid white;\\n  color: white;\\n  padding: 5px;\\n  background: none;\\n  text-decoration: none;\\n  text-transform: uppercase;\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  font-weight: 100;\\n  font-size: 10px;\\n  line-break: none; }\\n\\n.location-order:hover, .location-directions:hover {\\n  background: white;\\n  color: black; }\\n\\n@media only screen and (min-width: 768px) {\\n  #location {\\n    flex-direction: row; }\\n  .location-item {\\n    margin: 2px; } }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Location/location.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
+eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Montserrat);\", \"\"]);\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto:100,400,700);\", \"\"]);\nvar urlEscape = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/url-escape.js */ \"./node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(__webpack_require__(/*! ../../../dist/resized/location1.jpg */ \"./dist/resized/location1.jpg\"));\nvar ___CSS_LOADER_URL___1___ = urlEscape(__webpack_require__(/*! ../../../dist/resized/location2.jpg */ \"./dist/resized/location2.jpg\"));\n\n// Module\nexports.push([module.i, \"/* Montserrat */\\n#location {\\n  width: 100%;\\n  height: auto;\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center; }\\n\\n.westLA {\\n  background: url(\" + ___CSS_LOADER_URL___0___ + \") 50% 50% no-repeat; }\\n\\n.culver {\\n  background: url(\" + ___CSS_LOADER_URL___1___ + \") 50% 50% no-repeat; }\\n\\n.location-item {\\n  background-size: cover;\\n  width: 100%;\\n  height: 40vh;\\n  margin: 1% 0; }\\n\\n.location-overlay {\\n  background: rgba(0, 0, 0, 0.7);\\n  width: 100%;\\n  height: 100%;\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center;\\n  justify-content: center; }\\n  .location-overlay h3 {\\n    font-family: \\\"Roboto\\\", sans-serif;\\n    font-weight: 400;\\n    text-transform: uppercase;\\n    font-size: 20px;\\n    color: white; }\\n  .location-overlay p {\\n    color: white;\\n    font-family: \\\"Montserrat\\\", sans-serif;\\n    font-weight: 100;\\n    line-height: 1.5; }\\n\\n.location-buttons {\\n  display: flex;\\n  flex-direction: row;\\n  width: 100%;\\n  text-align: center;\\n  justify-content: center;\\n  margin: 1% 0; }\\n\\n.location-order, .location-directions {\\n  margin: 0 1%;\\n  border: 1px solid white;\\n  color: white;\\n  padding: 5px;\\n  background: none;\\n  text-decoration: none;\\n  text-transform: uppercase;\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  font-weight: 100;\\n  font-size: 10px;\\n  line-break: none; }\\n\\n.location-order:hover, .location-directions:hover {\\n  background: white;\\n  color: black; }\\n\\n@media only screen and (min-width: 768px) {\\n  #location {\\n    flex-direction: row; }\\n  .location-item {\\n    margin: 2px; } }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Location/location.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
 
 /***/ }),
 
@@ -401,7 +401,7 @@ eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/c
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Montserrat);\", \"\"]);\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto:100,400,700);\", \"\"]);\n\n// Module\nexports.push([module.i, \"/* Montserrat */\\n#menu {\\n  background: #ededed;\\n  padding: 5%;\\n  height: auto; }\\n\\n.section-title {\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  font-weight: 400;\\n  text-decoration: uppercase;\\n  font-size: 24px; }\\n\\n.menu-container {\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center; }\\n  .menu-container h3 {\\n    font-family: \\\"Montserrat\\\", sans-serif;\\n    font-size: 20px; }\\n\\n.ramen {\\n  display: grid;\\n  grid-template-columns: repeat(1, 1fr);\\n  grid-gap: 2%; }\\n\\n.menu-item {\\n  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);\\n  background: white; }\\n\\n.menu-image {\\n  width: 355px;\\n  height: auto; }\\n\\n.menu-title {\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  font-size: 20px;\\n  padding: 2% 4% 0 4%; }\\n\\n.menu-description {\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  line-height: 1.5;\\n  padding: 4%; }\\n\\n@media only screen and (min-width: 768px) {\\n  .ramen {\\n    grid-template-columns: repeat(3, 1fr);\\n    width: 100%;\\n    justify-content: center;\\n    transform: scale(0.75); } }\\n\\n@media only screen and (min-width: 1080px) {\\n  .ramen {\\n    grid-template-columns: repeat(4, 1fr);\\n    transform: scale(0.7); } }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Menu/menu.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
+eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Montserrat);\", \"\"]);\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto:100,400,700);\", \"\"]);\n\n// Module\nexports.push([module.i, \"/* Montserrat */\\n#menu {\\n  background: #ededed;\\n  padding: 5%;\\n  height: auto; }\\n\\n.section-title {\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  font-weight: 400;\\n  text-decoration: uppercase;\\n  font-size: 24px; }\\n\\n.menu-container {\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center; }\\n  .menu-container h3 {\\n    font-family: \\\"Montserrat\\\", sans-serif;\\n    font-size: 20px; }\\n\\n.ramen {\\n  display: grid;\\n  grid-template-columns: repeat(1, 1fr);\\n  grid-gap: 2%; }\\n\\n.menu-item {\\n  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);\\n  background: white; }\\n\\n.menu-image {\\n  width: 350px;\\n  height: auto; }\\n\\n.menu-title {\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  font-size: 20px;\\n  padding: 2% 4% 0 4%; }\\n\\n.menu-description {\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  line-height: 1.5;\\n  padding: 4%; }\\n\\n@media only screen and (min-width: 768px) {\\n  .ramen {\\n    grid-template-columns: repeat(3, 1fr);\\n    width: 100%;\\n    justify-content: center;\\n    transform: scale(0.75); } }\\n\\n@media only screen and (min-width: 1080px) {\\n  .ramen {\\n    grid-template-columns: repeat(4, 1fr);\\n    transform: scale(0.7); } }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Menu/menu.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
 
 /***/ }),
 
@@ -1223,7 +1223,7 @@ eval("\nvar content = __webpack_require__(/*! !../../../node_modules/css-loader/
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react_image_lightbox__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-image-lightbox */ \"./node_modules/react-image-lightbox/dist/index.es.js\");\n/* harmony import */ var _gallery_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./gallery.scss */ \"./src/components/Gallery/gallery.scss\");\n/* harmony import */ var _gallery_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_gallery_scss__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _dist_assets_Nishi_13_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../dist/assets/Nishi_13.jpg */ \"./dist/assets/Nishi_13.jpg\");\n/* harmony import */ var _dist_assets_Nishi_13_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_Nishi_13_jpg__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _dist_assets_Nishi_20_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../dist/assets/Nishi_20.jpg */ \"./dist/assets/Nishi_20.jpg\");\n/* harmony import */ var _dist_assets_Nishi_20_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_Nishi_20_jpg__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _dist_assets_IMG_0545_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../../dist/assets/IMG_0545.jpg */ \"./dist/assets/IMG_0545.jpg\");\n/* harmony import */ var _dist_assets_IMG_0545_jpg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_IMG_0545_jpg__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var _dist_assets_IMG_0537_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../../dist/assets/IMG_0537.jpg */ \"./dist/assets/IMG_0537.jpg\");\n/* harmony import */ var _dist_assets_IMG_0537_jpg__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_IMG_0537_jpg__WEBPACK_IMPORTED_MODULE_7__);\n/* harmony import */ var _dist_assets_IMG_0239_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../../dist/assets/IMG_0239.jpg */ \"./dist/assets/IMG_0239.jpg\");\n/* harmony import */ var _dist_assets_IMG_0239_jpg__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_IMG_0239_jpg__WEBPACK_IMPORTED_MODULE_8__);\n/* harmony import */ var _dist_assets_DSC07728_jpg__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../../dist/assets/DSC07728.jpg */ \"./dist/assets/DSC07728.jpg\");\n/* harmony import */ var _dist_assets_DSC07728_jpg__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_DSC07728_jpg__WEBPACK_IMPORTED_MODULE_9__);\n/* harmony import */ var _dist_assets_DSC07366_jpg__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../../dist/assets/DSC07366.jpg */ \"./dist/assets/DSC07366.jpg\");\n/* harmony import */ var _dist_assets_DSC07366_jpg__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_DSC07366_jpg__WEBPACK_IMPORTED_MODULE_10__);\n/* harmony import */ var _dist_assets_DSC07278_jpg__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../../dist/assets/DSC07278.jpg */ \"./dist/assets/DSC07278.jpg\");\n/* harmony import */ var _dist_assets_DSC07278_jpg__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_DSC07278_jpg__WEBPACK_IMPORTED_MODULE_11__);\n\n\n\n\n\n\n\n\n\n\n // // DSC07143.jpg\n// const images = [\n//   '../../../dist/assets/Nishi_13.jpg',\n//   '../../../dist/assets/Nishi_20.jpg',\n//   '../../../dist/assets/IMG_0545.jpg',\n//   '../../../dist/assets/IMG_0537.jpg',\n//   '../../../dist/assets/IMG_0239.jpg',\n//   '../../../dist/assets/DSC07728.jpg',\n//   '../../../dist/assets/DSC07366.jpg',\n//   '../../../dist/assets/DSC07278.jpg'\n// ]\n// export default class Gallery extends Component {\n//   constructor(props) {\n//     super(props);\n//     this.state = {\n//       photoIndex: 0,\n//       isOpen: false,\n//     };\n//   }\n//   render() {\n//     const { photoIndex, isOpen } = this.state;\n//     return (\n//       <div>\n//         <button type=\"button\" onClick={() => this.setState({ isOpen: true })}>\n//           Open Lightbox\n//         </button>\n//         {isOpen && (\n//           <Lightbox\n//             mainSrc={images[photoIndex]}\n//             nextSrc={images[(photoIndex + 1) % images.length]}\n//             prevSrc={images[(photoIndex + images.length - 1) % images.length]}\n//             onCloseRequest={() => this.setState({ isOpen: false })}\n//             onMovePrevRequest={() =>\n//               this.setState({\n//                 photoIndex: (photoIndex + images.length - 1) % images.length,\n//               })\n//             }\n//             onMoveNextRequest={() =>\n//               this.setState({\n//                 photoIndex: (photoIndex + 1) % images.length,\n//               })\n//             }\n//           />\n//         )}\n//       </div>\n//     );\n//   }\n// }\n\nvar Gallery = function Gallery() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"page-wrap\",\n    className: \"gallery-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"gallery\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"gallery-modal\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_Nishi_13_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_IMG_0537_jpg__WEBPACK_IMPORTED_MODULE_7___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_Nishi_20_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_IMG_0545_jpg__WEBPACK_IMPORTED_MODULE_6___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_IMG_0239_jpg__WEBPACK_IMPORTED_MODULE_8___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_DSC07728_jpg__WEBPACK_IMPORTED_MODULE_9___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_DSC07366_jpg__WEBPACK_IMPORTED_MODULE_10___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_DSC07278_jpg__WEBPACK_IMPORTED_MODULE_11___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }))));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Gallery);\n\n//# sourceURL=webpack:///./src/components/Gallery/index.jsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react_image_lightbox__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-image-lightbox */ \"./node_modules/react-image-lightbox/dist/index.es.js\");\n/* harmony import */ var _gallery_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./gallery.scss */ \"./src/components/Gallery/gallery.scss\");\n/* harmony import */ var _gallery_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_gallery_scss__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _dist_resized_miso_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../dist/resized/miso.jpg */ \"./dist/resized/miso.jpg\");\n/* harmony import */ var _dist_resized_miso_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_dist_resized_miso_jpg__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _dist_resized_poke_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../dist/resized/poke.jpg */ \"./dist/resized/poke.jpg\");\n/* harmony import */ var _dist_resized_poke_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_dist_resized_poke_jpg__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _dist_resized_ton_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../dist/resized/ton.jpg */ \"./dist/resized/ton.jpg\");\n/* harmony import */ var _dist_resized_ton_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_dist_resized_ton_jpg__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _dist_resized_karage_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../../dist/resized/karage.jpg */ \"./dist/resized/karage.jpg\");\n/* harmony import */ var _dist_resized_karage_jpg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_dist_resized_karage_jpg__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var _dist_resized_station_jpg__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../../../dist/resized/station.jpg */ \"./dist/resized/station.jpg\");\n/* harmony import */ var _dist_resized_station_jpg__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_dist_resized_station_jpg__WEBPACK_IMPORTED_MODULE_7__);\n/* harmony import */ var _dist_resized_veggie_jpg__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../../../dist/resized/veggie.jpg */ \"./dist/resized/veggie.jpg\");\n/* harmony import */ var _dist_resized_veggie_jpg__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_dist_resized_veggie_jpg__WEBPACK_IMPORTED_MODULE_8__);\n/* harmony import */ var _dist_resized_soup_jpg__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../../dist/resized/soup.jpg */ \"./dist/resized/soup.jpg\");\n/* harmony import */ var _dist_resized_soup_jpg__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_dist_resized_soup_jpg__WEBPACK_IMPORTED_MODULE_9__);\n/* harmony import */ var _dist_resized_gyoza_jpg__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../../../dist/resized/gyoza.jpg */ \"./dist/resized/gyoza.jpg\");\n/* harmony import */ var _dist_resized_gyoza_jpg__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_dist_resized_gyoza_jpg__WEBPACK_IMPORTED_MODULE_10__);\n\n\n\n\n\n\n\n\n\n\n // // DSC07143.jpg\n// const images = [\n//   '../../../dist/assets/Nishi_13.jpg',\n//   '../../../dist/assets/Nishi_20.jpg',\n//   '../../../dist/assets/IMG_0545.jpg',\n//   '../../../dist/assets/IMG_0537.jpg',\n//   '../../../dist/assets/IMG_0239.jpg',\n//   '../../../dist/assets/DSC07728.jpg',\n//   '../../../dist/assets/DSC07366.jpg',\n//   '../../../dist/assets/DSC07278.jpg'\n// ]\n// export default class Gallery extends Component {\n//   constructor(props) {\n//     super(props);\n//     this.state = {\n//       photoIndex: 0,\n//       isOpen: false,\n//     };\n//   }\n//   render() {\n//     const { photoIndex, isOpen } = this.state;\n//     return (\n//       <div>\n//         <button type=\"button\" onClick={() => this.setState({ isOpen: true })}>\n//           Open Lightbox\n//         </button>\n//         {isOpen && (\n//           <Lightbox\n//             mainSrc={images[photoIndex]}\n//             nextSrc={images[(photoIndex + 1) % images.length]}\n//             prevSrc={images[(photoIndex + images.length - 1) % images.length]}\n//             onCloseRequest={() => this.setState({ isOpen: false })}\n//             onMovePrevRequest={() =>\n//               this.setState({\n//                 photoIndex: (photoIndex + images.length - 1) % images.length,\n//               })\n//             }\n//             onMoveNextRequest={() =>\n//               this.setState({\n//                 photoIndex: (photoIndex + 1) % images.length,\n//               })\n//             }\n//           />\n//         )}\n//       </div>\n//     );\n//   }\n// }\n\nvar Gallery = function Gallery() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"page-wrap\",\n    className: \"gallery-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"gallery\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"gallery-modal\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_resized_miso_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_resized_karage_jpg__WEBPACK_IMPORTED_MODULE_6___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_resized_poke_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_resized_ton_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_resized_station_jpg__WEBPACK_IMPORTED_MODULE_7___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_resized_veggie_jpg__WEBPACK_IMPORTED_MODULE_8___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_resized_soup_jpg__WEBPACK_IMPORTED_MODULE_9___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_resized_gyoza_jpg__WEBPACK_IMPORTED_MODULE_10___default.a,\n    className: \"gallery-item\",\n    alt: \"\"\n  }))));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Gallery);\n\n//# sourceURL=webpack:///./src/components/Gallery/index.jsx?");
 
 /***/ }),
 
@@ -1235,7 +1235,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var reac
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _landing_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./landing.scss */ \"./src/components/Landing/landing.scss\");\n/* harmony import */ var _landing_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_landing_scss__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _dist_assets_logowhite_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../dist/assets/logowhite.png */ \"./dist/assets/logowhite.png\");\n/* harmony import */ var _dist_assets_logowhite_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_logowhite_png__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _dist_assets_cook_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../dist/assets/cook.jpg */ \"./dist/assets/cook.jpg\");\n/* harmony import */ var _dist_assets_cook_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_cook_jpg__WEBPACK_IMPORTED_MODULE_4__);\n\n // import hero from '../../../dist/assets/download1.jpg';\n\n\n\n\nvar Landing = function Landing() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"page-wrap\",\n    className: \"landing\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"home\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"home-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_logowhite_png__WEBPACK_IMPORTED_MODULE_2___default.a,\n    alt: \"\",\n    className: \"hero\"\n  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"about\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"about-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"about-left\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", null, \"Our Story\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", null, \"At Nishi Poke & Ramen Bistro, we see Japanese cuisine as an art.  In every dish we make, we put our love and passion for food to craft the freshest and tastiest dishes. We simmer our broth for 24 hours and create our dishes from scratch everyday. We also selectively choose sushi grade fresh fish daily to offer only the best to our customers. \")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"about-right\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    className: \"about-image\",\n    src: _dist_assets_cook_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,\n    alt: \"\"\n  })))));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Landing);\n\n//# sourceURL=webpack:///./src/components/Landing/index.jsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _landing_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./landing.scss */ \"./src/components/Landing/landing.scss\");\n/* harmony import */ var _landing_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_landing_scss__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _dist_assets_logowhite_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../dist/assets/logowhite.png */ \"./dist/assets/logowhite.png\");\n/* harmony import */ var _dist_assets_logowhite_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_logowhite_png__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _dist_assets_cook_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../dist/assets/cook.jpg */ \"./dist/assets/cook.jpg\");\n/* harmony import */ var _dist_assets_cook_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_cook_jpg__WEBPACK_IMPORTED_MODULE_3__);\n\n // import hero from '../../../dist/assets/download1.jpg';\n\n\n\n\nvar Landing = function Landing() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"page-wrap\",\n    className: \"landing\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"home\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"home-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_logowhite_png__WEBPACK_IMPORTED_MODULE_2___default.a,\n    alt: \"\",\n    className: \"hero\"\n  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"about\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"about-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"about-left\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", null, \"Our Story\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", null, \"At Nishi Poke & Ramen Bistro, we see Japanese cuisine as an art.  In every dish we make, we put our love and passion for food to craft the freshest and tastiest dishes. We simmer our broth for 24 hours and create our dishes from scratch everyday. We also selectively choose sushi grade fresh fish daily to offer only the best to our customers. \")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"about-right\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    className: \"about-image\",\n    src: _dist_assets_cook_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,\n    alt: \"\"\n  })))));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Landing);\n\n//# sourceURL=webpack:///./src/components/Landing/index.jsx?");
 
 /***/ }),
 
@@ -1281,7 +1281,7 @@ eval("\nvar content = __webpack_require__(/*! !../../../node_modules/css-loader/
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _menu_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./menu.scss */ \"./src/components/Menu/menu.scss\");\n/* harmony import */ var _menu_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_menu_scss__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _dist_assets_TATSU_ITE_OLD_SKOOL_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../dist/assets/TATSU-ITE-OLD-SKOOL.jpg */ \"./dist/assets/TATSU-ITE-OLD-SKOOL.jpg\");\n/* harmony import */ var _dist_assets_TATSU_ITE_OLD_SKOOL_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_TATSU_ITE_OLD_SKOOL_jpg__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _dist_assets_TATSU_ITE_BOLD_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../dist/assets/TATSU-ITE-BOLD.jpg */ \"./dist/assets/TATSU-ITE-BOLD.jpg\");\n/* harmony import */ var _dist_assets_TATSU_ITE_BOLD_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_TATSU_ITE_BOLD_jpg__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _dist_assets_TATSU_ITE_HIPPIE_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../dist/assets/TATSU-ITE-HIPPIE.jpg */ \"./dist/assets/TATSU-ITE-HIPPIE.jpg\");\n/* harmony import */ var _dist_assets_TATSU_ITE_HIPPIE_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_TATSU_ITE_HIPPIE_jpg__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _dist_assets_TATSU_ITE_CHEEKY_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../dist/assets/TATSU-ITE-CHEEKY.jpg */ \"./dist/assets/TATSU-ITE-CHEEKY.jpg\");\n/* harmony import */ var _dist_assets_TATSU_ITE_CHEEKY_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_dist_assets_TATSU_ITE_CHEEKY_jpg__WEBPACK_IMPORTED_MODULE_5__);\n\n\n\n\n\n\n\nvar Menu = function Menu() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"page-wrap\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"menu\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"section-header\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"section-title\"\n  }, \"Our Menu\")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", null, \"Ramen\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"ramen\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-item\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_TATSU_ITE_OLD_SKOOL_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,\n    className: \"menu-image\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"menu-title\"\n  }, \"Tonkotsu\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-slide\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", {\n    className: \"menu-description\"\n  }, \"Our Signature Tonkotsu Ramen Homemade Pork broth, braised pork belly, green onion, shitake mushroom and nori\"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-item\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_TATSU_ITE_BOLD_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,\n    className: \"menu-image\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"menu-title\"\n  }, \"Red Miso\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-slide\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", {\n    className: \"menu-description\"\n  }, \"Spicy Ramen Homemade pork broth, spicy pork, chili garlic sauce, green onion, soft boiled egg, wood ear mushroom, crispy onion and nori \"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-item\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_TATSU_ITE_CHEEKY_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,\n    className: \"menu-image\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"menu-title\"\n  }, \"Shoyu\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-slide\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", {\n    className: \"menu-description\"\n  }, \"Black Ramen Homemade pork broth, black garlic oil, sweet umami sauce, braised pork belly, green onion, shitake mushroom and crispy onion\"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-item\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_assets_TATSU_ITE_HIPPIE_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,\n    className: \"menu-image\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"menu-title\"\n  }, \"Veggie\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-slide\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", {\n    className: \"menu-description\"\n  }, \"Green Ramen Homemade pork broth, house pesto, chicken breast, soft boiled egg, grated garlic and nori\")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"poke\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", null, \"Poke\")))));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Menu);\n\n//# sourceURL=webpack:///./src/components/Menu/index.jsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _menu_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./menu.scss */ \"./src/components/Menu/menu.scss\");\n/* harmony import */ var _menu_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_menu_scss__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _dist_resized_pmton_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../dist/resized/pmton.jpg */ \"./dist/resized/pmton.jpg\");\n/* harmony import */ var _dist_resized_pmton_jpg__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_dist_resized_pmton_jpg__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _dist_resized_pmmiso_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../dist/resized/pmmiso.jpg */ \"./dist/resized/pmmiso.jpg\");\n/* harmony import */ var _dist_resized_pmmiso_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_dist_resized_pmmiso_jpg__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _dist_resized_pmveg_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../../dist/resized/pmveg.jpg */ \"./dist/resized/pmveg.jpg\");\n/* harmony import */ var _dist_resized_pmveg_jpg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_dist_resized_pmveg_jpg__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var _dist_resized_pmshoyu_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../../dist/resized/pmshoyu.jpg */ \"./dist/resized/pmshoyu.jpg\");\n/* harmony import */ var _dist_resized_pmshoyu_jpg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_dist_resized_pmshoyu_jpg__WEBPACK_IMPORTED_MODULE_5__);\n\n\n\n\n\n\n\nvar Menu = function Menu() {\n  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"page-wrap\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    id: \"menu\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"section-header\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"section-title\"\n  }, \"Our Menu\")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-container\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", null, \"Ramen\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"ramen\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-item\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_resized_pmton_jpg__WEBPACK_IMPORTED_MODULE_2___default.a,\n    className: \"menu-image\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"menu-title\"\n  }, \"Tonkotsu\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-slide\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", {\n    className: \"menu-description\"\n  }, \"Pork broth, pork chashu, green onion, spinach, bean sprouts, seaweed.\"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-item\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_resized_pmmiso_jpg__WEBPACK_IMPORTED_MODULE_3___default.a,\n    className: \"menu-image\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"menu-title\"\n  }, \"Red Miso\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-slide\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", {\n    className: \"menu-description\"\n  }, \"Miso broth, pork chashu, green onion, spinach, bean sprouts, cabbage, bamboo shoots, seaweed.\"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-item\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_resized_pmshoyu_jpg__WEBPACK_IMPORTED_MODULE_5___default.a,\n    className: \"menu-image\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"menu-title\"\n  }, \"Shoyu\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-slide\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", {\n    className: \"menu-description\"\n  }, \"Chicken Broth, Chasu, White Onions, Bamboo Shoots, Seaweed, Alfalfa Sprouts.\"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-item\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n    src: _dist_resized_pmveg_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,\n    className: \"menu-image\"\n  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", {\n    className: \"menu-title\"\n  }, \"Veggie\"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"menu-slide\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"p\", {\n    className: \"menu-description\"\n  }, \"Sesame miso broth, broccoli, tofu, corn, bean sprouts, spring mix, sesame oil.\")))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n    className: \"poke\"\n  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"h3\", null, \"Poke\")))));\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Menu);\n\n//# sourceURL=webpack:///./src/components/Menu/index.jsx?");
 
 /***/ }),
 

@@ -47,5 +47,5 @@ module.exports = {
     poll: true,
     ignored: /node_modules/
   },
-  mode: 'production'
+  mode: 'development'
 }
