@@ -10,7 +10,9 @@
     "start": "cd server && yarn run start",
     "build": "cd public && yarn run build"
   },
-  "dependencies": {},
+  "dependencies": {
+    "babel-loader": "^8.0.5"
+  },
   "devDependencies": {
     "html-webpack-plugin": "^3.2.0",
     "webpack": "^4.29.0",
