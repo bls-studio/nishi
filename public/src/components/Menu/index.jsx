@@ -5,6 +5,7 @@ import tonkotsu from '../../../dist/resized/pmton.jpg';
 import miso from '../../../dist/resized/pmmiso.jpg';
 import veggie from '../../../dist/resized/pmveg.jpg';
 import shoyu from '../../../dist/resized/pmshoyu.jpg';
+import poke from '../../../dist/resized/pmpoke.jpg';
 
 const Menu = () => (
   <div id="page-wrap" className="menu-box">
@@ -47,7 +48,12 @@ const Menu = () => (
         </div>
         <div className="poke">
           <h3>Poke</h3>
+          <div className="poke-container">
+            <div className="poke-item">
+              <img src={poke} alt="" className="poke-image"/>
 
+            </div>
+          </div>
         </div>
       </div>
     </div>
