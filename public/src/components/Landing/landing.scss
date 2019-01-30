@@ -10,7 +10,7 @@
   // background: url('../../../dist/assets/octo.jpg') 50% 10% no-repeat;
   background: url('../../../dist/resized/holding.jpg') 50% 0 no-repeat fixed;
 
-  background-size: cover;
+  background-size: contain;
   width: 100%;
   height: auto;
 }
