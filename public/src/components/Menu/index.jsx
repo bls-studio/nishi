@@ -9,13 +9,13 @@ import shoyu from '../../../dist/resized/pmshoyu.jpg';
 const Menu = () => (
   <div id="page-wrap">
     <div id="menu">
-      <div className="section-header" data-aos="fade-up">
+      <div className="section-header">
         <h3 className="section-title">Our Menu</h3>
         {/* <p>At Nishi Poke & Ramen Bistro, we see Japanese cuisine as an art.  In every dish we make, we put our love and passion for food to craft the freshest and tastiest dishes. We simmer our broth for 24 hours and create our dishes from scratch everyday. We also selectively choose sushi grade fresh fish daily to offer only the best to our customers. </p> */}
       </div>
-      <div className="menu-container">
+      <div className="menu-container" data-aos="fade-up">
         <h3>Ramen</h3>
-        <div className="ramen" >
+        <div className="ramen">
           <div className="menu-item">
             <img src={tonkotsu} className="menu-image"></img>
             <h3 className="menu-title">Tonkotsu</h3>

@@ -2,7 +2,8 @@
 
 
 .gallery-container {
-  background: url('../../../dist/resized/octo.jpg') 50% 50% no-repeat fixed;
+  background: url('../../../dist/resized/octo.jpg') 50% 50% no-repeat;
+  background-size: cover;
 }
 #gallery {
   // background: rgba(0,0,0,.3);
@@ -32,6 +33,10 @@
 }
 
 @media only screen and (min-width: 768px) {
+  .gallery-container {
+    background: url('../../../dist/resized/octo.jpg') 50% 50% no-repeat fixed;
+  
+  }
   #gallery {
     padding: 10% 0;
   }

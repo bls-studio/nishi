@@ -8,9 +8,9 @@
 }
 #home {
   // background: url('../../../dist/assets/octo.jpg') 50% 10% no-repeat;
-  background: url('../../../dist/resized/holding.jpg') 50% 50% no-repeat fixed;
+  background: url('../../../dist/resized/holding.jpg') 50% 50% no-repeat;
 
-  background-size: contain;
+  background-size: cover;
   width: 100%;
   height: auto;
 }
@@ -64,6 +64,7 @@
 
 @media only screen and (min-width: 678px) {
   #home {
+    background: url('../../../dist/resized/holding.jpg') 50% 50% no-repeat fixed;
     background-size: contain;
   }
   .home-container {
@@ -90,7 +91,6 @@
 }
 @media only screen and (min-width: 1080px) {
   #home {
-    background: url('../../../dist/resized/holding.jpg') 50% 70% no-repeat fixed;
     background-size: cover;
   }
   .home-container {
