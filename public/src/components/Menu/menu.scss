@@ -1,8 +1,12 @@
 @import '../App/global.scss';
 
+.menu-box {
+  width: 100%;
+  background: #ededed;
+
+}
 #menu {
   // background: #857C8D;
-  background: #ededed;
   padding: 5%;
   height: auto;
 }
@@ -12,12 +16,12 @@
   font-weight: 400;
   text-decoration: uppercase;
   font-size: 24px;
+  color: #b5d24b;
 }
 .menu-container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  // justify-content: center;
 
   h3 {
     font-family: $montserrat;
@@ -27,7 +31,7 @@
 .ramen {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-gap: 2%;
+  grid-row-gap: 2%;
 }
 .menu-item {
   box-shadow: 0 0 3px rgba(0,0,0,.15);
@@ -54,14 +58,20 @@
     width: 100%;
     justify-content: center;
     transform: scale(.75);
+    grid-gap: 2%;
   }
   .menu-item {
     // height: auto;
   }
 }
 @media only screen and (min-width: 1080px) {
+  #menu {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+  }
   .ramen {
     grid-template-columns: repeat(4, 1fr);
-    transform: scale(.7);
+    // transform: scale(.7);
   }
 }

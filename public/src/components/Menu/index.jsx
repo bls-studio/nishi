@@ -7,7 +7,7 @@ import veggie from '../../../dist/resized/pmveg.jpg';
 import shoyu from '../../../dist/resized/pmshoyu.jpg';
 
 const Menu = () => (
-  <div id="page-wrap">
+  <div id="page-wrap" className="menu-box">
     <div id="menu">
       <div className="section-header">
         <h3 className="section-title">Our Menu</h3>
