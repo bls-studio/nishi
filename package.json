@@ -6,8 +6,8 @@
   "author": "blake-swl <seulwoolee93@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "webpack": "webpack -w",
     "start": "cd server && yarn run start",
-    "build": "cd public && yarn run build"
+    "build": "cd public && yarn run build",
+    "webpack": "cd public && yarn run webpack"
   }
 }
