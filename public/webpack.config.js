@@ -1,6 +1,6 @@
 
 const path = require('path');
-const HtmlWebpackPlugin = require('html-webpack-plugin');
+// const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
   entry: path.resolve('./src'),
@@ -33,12 +33,12 @@ module.exports = {
     ]
   },
   plugins: [
-    new HtmlWebpackPlugin({
-      // injects bundle.js to our new index.html
-      inject: true,
-      // copys the content of the existing index.html to the new /build index.html
-      template:  path.resolve('./dist/index.html'),
-    }),
+    // new HtmlWebpackPlugin({
+    //   // injects bundle.js to our new index.html
+    //   inject: true,
+    //   // copys the content of the existing index.html to the new /build index.html
+    //   template:  path.resolve('./dist/index.html'),
+    // }),
   ],
   resolve: {
     extensions: ['.js', '.jsx']
