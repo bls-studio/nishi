@@ -56,9 +56,11 @@ table {
 //   z-index: 0;
 // }
 
+@import '../../../node_modules/include-media/dist/_include-media.scss';
 
 * {
-    -webkit-overflow-scrolling: touch;
+		-webkit-overflow-scrolling: touch;
+		// outline: 1px solid red;
 }
 // * {
 // 	outline: 1px solid red;
