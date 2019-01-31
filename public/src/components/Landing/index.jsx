@@ -1,18 +1,41 @@
 import React from 'react';
 import './landing.scss';
+import $ from 'jquery';
 
 // import hero from '../../../dist/assets/download1.jpg';
 import hero from '../../../dist/assets/logowhite.png';
 import cook from '../../../dist/assets/cook.jpg'
+
+const img1 = {
+  background: "url('../../../dist/resized/holding.jpg')"
+}
+const img2 = {
+  background: "url('../../../dist/resized/both.jpg')"
+}
+const img3 = {
+  background: "url('../../../dist/resized/poke.jpg')"
+}
 
 const Landing = () => (
   <div id="page-wrap" className="landing">
     <div id="home">
       <div className="home-container">
         <img src={hero} alt="" className="hero"/>
-        {/* <div>Nishi Poke & Ramen</div> */}
       </div>
     </div>
+{/*   
+    <div className="container">
+      <div className="content"><img src={hero} alt="" className="hero"/></div>
+
+      <div className="slide show" style={img1}></div>
+      <div className="slide" style={img2}></div>
+      <div className="slide" style={img3}></div>
+    </div> */}
+    {/* <div>
+      <div className="v-center">
+        <img src={hero} alt="" className="hero"/>
+      </div>
+    </div> */}
     <div id="about">
       <div className="about-container" data-aos="fade-up">
         <div className="about-left">
