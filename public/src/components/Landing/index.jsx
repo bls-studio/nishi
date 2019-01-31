@@ -1,14 +1,8 @@
 import React from 'react';
 import './landing.scss';
 
-// import hero from '../../../dist/assets/download1.jpg';
 import hero from '../../../dist/assets/logowhite.png';
 import cook from '../../../dist/assets/cook.jpg'
-
-import img1 from '../../../dist/resized/holding.jpg';
-import img2 from '../../../dist/resized/both.jpg';
-import img3 from '../../../dist/resized/poke.jpg';
-
 const Landing = () => (
   <div id="page-wrap" className="landing">
     <div id="home">
