@@ -46,7 +46,7 @@ const Menu = () => (
             </div>
           </div>
         </div>
-        <div className="poke">
+        {/* <div className="poke">
           <h3>Poke</h3>
           <div className="poke-container">
             <div className="poke-item">
@@ -54,7 +54,7 @@ const Menu = () => (
 
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   </div>
