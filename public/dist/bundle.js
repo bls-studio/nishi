@@ -119,28 +119,6 @@ eval("module.exports = __webpack_require__.p + \"1affcf697a9904a94e3b6bfe757c3cd
 
 /***/ }),
 
-/***/ "./dist/resized/Holding2.jpg":
-/*!***********************************!*\
-  !*** ./dist/resized/Holding2.jpg ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"dde08e9bb14a23157db725386e7a960a.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/Holding2.jpg?");
-
-/***/ }),
-
-/***/ "./dist/resized/Ramen_Poke_Shadow_v04.jpg":
-/*!************************************************!*\
-  !*** ./dist/resized/Ramen_Poke_Shadow_v04.jpg ***!
-  \************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"a302d8884a6f952440d2628a24a78a4b.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/Ramen_Poke_Shadow_v04.jpg?");
-
-/***/ }),
-
 /***/ "./dist/resized/gyoza.jpg":
 /*!********************************!*\
   !*** ./dist/resized/gyoza.jpg ***!
@@ -284,17 +262,6 @@ eval("module.exports = __webpack_require__.p + \"542ee6faf781d1cc41d753805596d42
 
 /***/ }),
 
-/***/ "./dist/resized/poke2.jpg":
-/*!********************************!*\
-  !*** ./dist/resized/poke2.jpg ***!
-  \********************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"56d956b4dd7537e92fe3eecf04d6b9e4.jpg\";\n\n//# sourceURL=webpack:///./dist/resized/poke2.jpg?");
-
-/***/ }),
-
 /***/ "./dist/resized/soup.jpg":
 /*!*******************************!*\
   !*** ./dist/resized/soup.jpg ***!
@@ -423,7 +390,7 @@ eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/c
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Montserrat);\", \"\"]);\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto:100,400,700);\", \"\"]);\nvar urlEscape = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/url-escape.js */ \"./node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(__webpack_require__(/*! ../../../dist/resized/Holding2.jpg */ \"./dist/resized/Holding2.jpg\"));\nvar ___CSS_LOADER_URL___1___ = urlEscape(__webpack_require__(/*! ../../../dist/resized/Ramen_Poke_Shadow_v04.jpg */ \"./dist/resized/Ramen_Poke_Shadow_v04.jpg\"));\nvar ___CSS_LOADER_URL___2___ = urlEscape(__webpack_require__(/*! ../../../dist/resized/poke2.jpg */ \"./dist/resized/poke2.jpg\"));\nvar ___CSS_LOADER_URL___3___ = urlEscape(__webpack_require__(/*! ../../../dist/resized/holding.jpg */ \"./dist/resized/holding.jpg\"));\n\n// Module\nexports.push([module.i, \"/* Montserrat */\\nhtml, body {\\n  margin: 0;\\n  padding: 0;\\n  z-index: 0;\\n  max-width: 100%;\\n  height: auto;\\n  overflow-x: hidden; }\\n\\n@keyframes bg {\\n  0% {\\n    background-image: url(\" + ___CSS_LOADER_URL___0___ + \");\\n    background-size: cover; }\\n  33% {\\n    background-image: url(\" + ___CSS_LOADER_URL___1___ + \");\\n    background-size: cover; }\\n  66% {\\n    background-image: url(\" + ___CSS_LOADER_URL___2___ + \");\\n    background-size: cover; }\\n  100% {\\n    background-image: url(\" + ___CSS_LOADER_URL___0___ + \");\\n    background-size: cover; } }\\n\\n.landing {\\n  display: flex;\\n  width: 100%;\\n  flex-direction: column;\\n  align-items: center; }\\n\\n#home {\\n  background-size: cover;\\n  background-position: center center;\\n  background-repeat: no-repeat;\\n  width: 300%;\\n  height: auto;\\n  animation: bg ease-in-out 24s both infinite; }\\n\\n.home-container {\\n  width: 100%;\\n  height: 100vh;\\n  background: rgba(0, 0, 0, 0.2);\\n  font-size: 30px;\\n  color: white;\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  font-weight: 100;\\n  display: flex;\\n  justify-content: center;\\n  align-items: center; }\\n  .home-container .hero {\\n    width: 150px;\\n    height: 150px;\\n    color: white; }\\n\\n#about {\\n  background-size: cover;\\n  padding: 5%; }\\n\\n.about-container {\\n  display: flex;\\n  flex-direction: column;\\n  justify-content: center;\\n  width: 350px;\\n  height: auto;\\n  margin: 0 auto;\\n  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15); }\\n\\n.about-image {\\n  height: auto;\\n  width: 355px; }\\n\\n.about-left {\\n  background: rgba(255, 255, 255, 0.8);\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  line-height: 1.5;\\n  padding: 4%; }\\n  .about-left h3 {\\n    font-size: 20px;\\n    color: #b5d24b;\\n    font-family: \\\"Roboto\\\", sans-serif; }\\n\\n@media only screen and (min-width: 678px) {\\n  #home {\\n    background: url(\" + ___CSS_LOADER_URL___3___ + \") 50% 50% no-repeat fixed; }\\n  .home-container .hero {\\n    width: 250px;\\n    height: 250px;\\n    color: white; }\\n  .about-container {\\n    flex-direction: row;\\n    width: 100%; }\\n  .about-left {\\n    height: 200px;\\n    font-size: 14px;\\n    padding: 2% 2% 0 2%; }\\n  .about-image {\\n    height: 230px; } }\\n\\n@media only screen and (min-width: 1080px) {\\n  #home {\\n    background-size: cover; }\\n  .home-container {\\n    height: 100vh; }\\n  #about {\\n    max-width: 1080px;\\n    margin-left: auto;\\n    margin-right: auto; }\\n  .about-container {\\n    width: 100%; } }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Landing/landing.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
+eval("exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Imports\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Montserrat);\", \"\"]);\nexports.push([module.i, \"@import url(https://fonts.googleapis.com/css?family=Roboto:100,400,700);\", \"\"]);\nvar urlEscape = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/url-escape.js */ \"./node_modules/css-loader/dist/runtime/url-escape.js\");\nvar ___CSS_LOADER_URL___0___ = urlEscape(__webpack_require__(/*! ../../../dist/resized/holding.jpg */ \"./dist/resized/holding.jpg\"));\n\n// Module\nexports.push([module.i, \"/* Montserrat */\\nhtml, body {\\n  margin: 0;\\n  padding: 0;\\n  z-index: 0;\\n  max-width: 100%;\\n  height: auto;\\n  overflow-x: hidden; }\\n\\n.landing {\\n  display: flex;\\n  width: 100%;\\n  flex-direction: column;\\n  align-items: center; }\\n\\n#home {\\n  background: url(\" + ___CSS_LOADER_URL___0___ + \") 50% 50% fixed no-repeat;\\n  width: 300%;\\n  height: auto; }\\n\\n.home-container {\\n  width: 100%;\\n  height: 100vh;\\n  background: rgba(0, 0, 0, 0.1);\\n  font-size: 30px;\\n  color: white;\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  font-weight: 100;\\n  display: flex;\\n  justify-content: center;\\n  align-items: center; }\\n  .home-container .hero {\\n    width: 150px;\\n    height: 150px;\\n    color: white; }\\n\\n#about {\\n  background-size: cover;\\n  padding: 5%; }\\n\\n.about-container {\\n  display: flex;\\n  flex-direction: column;\\n  justify-content: center;\\n  width: 350px;\\n  height: auto;\\n  margin: 0 auto;\\n  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15); }\\n\\n.about-image {\\n  height: auto;\\n  width: 355px; }\\n\\n.about-left {\\n  background: rgba(255, 255, 255, 0.8);\\n  font-family: \\\"Montserrat\\\", sans-serif;\\n  line-height: 1.5;\\n  padding: 4%; }\\n  .about-left h3 {\\n    font-size: 20px;\\n    color: #b5d24b;\\n    font-family: \\\"Roboto\\\", sans-serif; }\\n\\n@media only screen and (min-width: 678px) {\\n  #home {\\n    background: url(\" + ___CSS_LOADER_URL___0___ + \") 50% 50% no-repeat fixed; }\\n  .home-container .hero {\\n    width: 250px;\\n    height: 250px;\\n    color: white; }\\n  .about-container {\\n    flex-direction: row;\\n    width: 100%; }\\n  .about-left {\\n    height: 200px;\\n    font-size: 14px;\\n    padding: 2% 2% 0 2%; }\\n  .about-image {\\n    height: 230px; } }\\n\\n@media only screen and (min-width: 1080px) {\\n  #home {\\n    background-size: cover; }\\n  .home-container {\\n    height: 100vh; }\\n  #about {\\n    max-width: 1080px;\\n    margin-left: auto;\\n    margin-right: auto; }\\n  .about-container {\\n    width: 100%; } }\\n\", \"\"]);\n\n\n\n//# sourceURL=webpack:///./src/components/Landing/landing.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/lib/loader.js");
 
 /***/ }),
 

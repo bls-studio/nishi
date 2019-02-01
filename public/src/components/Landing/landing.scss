@@ -1,23 +1,23 @@
 @import '../App/global.scss';
 
-@keyframes bg {
-  0% {
-    background-image: url('../../../dist/resized/Holding2.jpg');
-    background-size: cover;
-  }
-  33% {
-    background-image: url('../../../dist/resized/Ramen_Poke_Shadow_v04.jpg');
-    background-size: cover;
-  }
-  66% {
-    background-image: url('../../../dist/resized/poke2.jpg');
-    background-size: cover;
-  }
-  100% {
-    background-image: url('../../../dist/resized/Holding2.jpg');
-    background-size: cover;
-  }
-};
+// @keyframes bg {
+//   0% {
+//     background-image: url('../../../dist/resized/Holding2.jpg');
+//     background-size: cover;
+//   }
+//   33% {
+//     background-image: url('../../../dist/resized/Ramen_Poke_Shadow_v04.jpg');
+//     background-size: cover;
+//   }
+//   66% {
+//     background-image: url('../../../dist/resized/poke2.jpg');
+//     background-size: cover;
+//   }
+//   100% {
+//     background-image: url('../../../dist/resized/Holding2.jpg');
+//     background-size: cover;
+//   }
+// };
 
 .landing {
   display: flex;
@@ -27,17 +27,18 @@
 }
 
 #home {
-  background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
+  background: url(../../../dist/resized/holding.jpg) 50% 50% fixed no-repeat;
+  // background-size: cover;
+  // background-position: center center;
+  // background-repeat: no-repeat;
   width: 300%;
   height: auto;
-  animation: bg ease-in-out 24s both infinite;
+  // animation: bg ease-in-out 24s both infinite;
 }
 .home-container {
   width: 100%;
   height: 100vh;
-  background: rgba(0,0,0,.2);
+  background: rgba(0,0,0,.1);
   // background: rgba(107, 156, 129, 0.5);
   font-size: 30px;
   color: white;
