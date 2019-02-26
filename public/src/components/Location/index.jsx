@@ -49,7 +49,7 @@ const Location = () => (
       <div className="location-item midCity">
         <div className="location-overlay">
           <h3>Mid City</h3>
-          <h3>COMING SOON!</h3>
+          <p>COMING SOON</p>
           {/* <p>6242 Beach Blvd. #A</p>
           <p>Buena Park, CA 90621</p>
           <p>(714) 522-2667</p>
