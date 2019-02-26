@@ -26,21 +26,21 @@ const Menu = () => (
           </div>
           <div className="menu-item">
             <img src={miso} className="menu-image"></img>
-            <h3 className="menu-title">Red Miso</h3>
+            <h3 className="menu-title">Spicy Miso</h3>
             <div className="menu-slide">
               <p className="menu-description">Miso broth, pork chashu, green onion, spinach, bean sprouts, cabbage, bamboo shoots, seaweed.</p>
             </div>
           </div>
           <div className="menu-item">
             <img src={shoyu} className="menu-image"></img>
-            <h3 className="menu-title">Shoyu</h3>
+            <h3 className="menu-title">Chicken Shoyu</h3>
             <div className="menu-slide">
               <p className="menu-description">Chicken Broth, Chasu, White Onions, Bamboo Shoots, Seaweed, Alfalfa Sprouts.</p>
             </div>
           </div>
           <div className="menu-item">
             <img src={veggie} className="menu-image"></img>
-            <h3 className="menu-title">Veggie</h3>
+            <h3 className="menu-title">Vegetarian</h3>
             <div className="menu-slide">
               <p className="menu-description">Sesame miso broth, broccoli, tofu, corn, bean sprouts, spring mix, sesame oil.</p>
             </div>

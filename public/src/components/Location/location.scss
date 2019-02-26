@@ -13,6 +13,12 @@
 .culver {
   background: url('../../../dist/resized/location2.jpg') 50% 50% no-repeat;
 }
+.buenaPark {
+  background: url(../../../dist/assets/o.jpg) 50% 50% no-repeat;
+}
+.midCity {
+  background: url(../../../dist/assets/midCity.png) 50% 50% no-repeat;
+}
 .location-item {
   background-size: cover;
   width: 100%;
@@ -70,7 +76,10 @@
 }
 @media only screen and (min-width: 768px) {
   #location {
-    flex-direction: row;
+    // flex-direction: row;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 4px;
   }
   .location-item {
     margin: 2px;
