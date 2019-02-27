@@ -6,6 +6,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  z-index: 1;
 }
 .westLA {
   background: url('../../../dist/resized/location1.jpg') 50% 50% no-repeat;

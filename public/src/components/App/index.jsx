@@ -2,6 +2,7 @@ import React from 'react';
 import 'smoothscroll';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import './global.scss';
 
 
 import Navigation from '../Navigation';
@@ -34,13 +35,13 @@ AOS.init({
 
 });
 const App = () => (
-  <div id="outer-container">
+  <div id="outer-container" className="parallax">
     <Navigation />
     <Landing />
-    {/* <Menu />
+    <Menu />
     <Location />
     <Gallery />
-    <Contact /> */}
+    <Contact />
   </div>
 );
 

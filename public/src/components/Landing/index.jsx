@@ -1,17 +1,14 @@
 import React from 'react';
 import './landing.scss';
-
-import Menu from '../Menu';
-import Location from '../Location';
-import Gallery from '../Gallery';
-import Contact from '../Contact';
+import '../Menu/menu.scss';
+import '../Location/location.scss';
+import '../Gallery/gallery.scss';
+import '../Contact/contact.scss';
 
 import hero from '../../../dist/assets/logowhite.png';
 import cook from '../../../dist/assets/cook.jpg'
 // import poke from '../../../dist/assets/pokeTransLarge.png';
 // import ramen from '../../../dist/assets/ramenTrans.png';
-
-
 
 const Landing = () => (
   <div id="page-wrap" className="landing">
@@ -31,14 +28,9 @@ const Landing = () => (
             </div>
           </div>
         </div>
-        <Menu />
-        <Location />
-        <Gallery />
-        <Contact />
       </div>
     </div>
   </div>
 );
 
 export default Landing;
-  

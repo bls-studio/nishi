@@ -9,7 +9,7 @@ import shoyu from '../../../dist/resized/pmshoyu.jpg';
 import poke from '../../../dist/resized/pmpoke.jpg';
 
 const Menu = () => (
-  <div id="page-wrap" className="menu-box">
+  <div id="page-wrap" className="menu-box parallax__group">
     <div id="menu">
       <div className="section-header">
         <h3 className="section-title">Our Menu</h3>
