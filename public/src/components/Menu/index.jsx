@@ -9,8 +9,8 @@ import shoyu from '../../../dist/resized/pmshoyu.jpg';
 import poke from '../../../dist/resized/pmpoke.jpg';
 
 const Menu = () => (
-  <div id="page-wrap" className="menu-box MainContainer">
-    <div id="menu" className="ContentContainer">
+  <div id="page-wrap" className="menu-box">
+    <div id="menu">
       <div className="section-header">
         <h3 className="section-title">Our Menu</h3>
         {/* <p>At Nishi Poke & Ramen Bistro, we see Japanese cuisine as an art.  In every dish we make, we put our love and passion for food to craft the freshest and tastiest dishes. We simmer our broth for 24 hours and create our dishes from scratch everyday. We also selectively choose sushi grade fresh fish daily to offer only the best to our customers. </p> */}

@@ -7,33 +7,6 @@
   align-items: center;
   position: relative;
 }
-// .MainContainer {
-//   perspective: 1px;
-//   transform-style: preserve-3d;
-//   height: 100vh;
-//   width: 100%;
-//   overflow-x: hidden;
-//   overflow-y: scroll;
-// }
-
-// .ParallaxContainer {
-//   display: flex;
-//   flex: 1 0 auto;
-//   position: relative;
-//   z-index: -1;
-//   height: 100vh;
-//   justify-content: center;
-//   align-items: center;
-//   transform: translateZ(-1px) scale(2);
-//   background: url(../../../dist/resized/holding.jpg) 50% 50% no-repeat;
-//   background-size: cover;
-// }
-// .ContentContainer {
-//   display: block;
-//   position: relative;
-//   // background-color: white;
-//   z-index: 1;
-// }
 
 .hero {
   width: 150px;
@@ -79,20 +52,13 @@
     perspective: 1px;
     // background: url('../../../dist/resized/holding.jpg') 50% 50% no-repeat;
   }
-  .home-container {
-    // height: 60vh;
-    // // height: 50vh;
-    perspective: 1px;
-    overflow-x: hidden;
-    overflow-y: auto;
-    transform: translateZ(0);
-
+  // .ParallaxContainer {
     .hero {
-      width: 30px;
-      height: 30px;
+      width: 250px;
+      height: 250px;
       color: white;
     }
-  }
+  // }
   .about-container {
     flex-direction: row;
     width: 100%;

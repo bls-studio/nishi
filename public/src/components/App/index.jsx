@@ -37,10 +37,10 @@ const App = () => (
   <div id="outer-container">
     <Navigation />
     <Landing />
-    {/* <Menu /> */}
+    {/* <Menu />
     <Location />
     <Gallery />
-    <Contact />
+    <Contact /> */}
   </div>
 );
 
