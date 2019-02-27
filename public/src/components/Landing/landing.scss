@@ -57,6 +57,7 @@
 #about {
   background-size: cover;
   padding: 5%;
+  background: white;
 }
 .about-container {
   display: flex;
@@ -86,7 +87,8 @@
 
 @media only screen and (min-width: 678px) {
   #home {
-    background: url('../../../dist/resized/holding.jpg') 50% 50% no-repeat fixed;
+    background-attachment: fixed;
+    // background: url('../../../dist/resized/holding.jpg') 50% 50% no-repeat;
   }
   .home-container {
     // height: 60vh;

@@ -1,15 +1,17 @@
 import React from 'react';
 import './landing.scss';
+import { ParallaxBanner } from 'react-scroll-parallax';
 
+import holding from '../../../dist/resized/holding.jpg';
 import hero from '../../../dist/assets/logowhite.png';
 import cook from '../../../dist/assets/cook.jpg'
 const Landing = () => (
-  <div id="page-wrap" className="landing">
-    <div id="home">
-      <div className="home-container">
-        <img src={hero} alt="" className="hero"/>
+  <div id="page-wrap" className="landing" >
+      <div id="home">
+        <div className="home-container">
+          <img src={hero} alt="" className="hero"/>
+        </div>
       </div>
-    </div>
     <div id="about">
       <div className="about-container" data-aos="fade-up">
         <div className="about-left">
@@ -22,6 +24,24 @@ const Landing = () => (
       </div>
     </div>
   </div>
+
 );
 
 export default Landing;
+
+    // <ParallaxBanner
+    // className="custom-class landing"
+    // layers={[
+    //     {
+    //         image: {holding},
+    //         amount: 0.1,
+    //         slowerScrollRate: false,
+    //     },
+    //     {
+    //         image: {hero},
+    //         amount: 0.2,
+    //         slowerScrollRate: false,
+    //     },
+    // ]}
+    //       >
+    // </ParallaxBanner>
