@@ -40,10 +40,13 @@ html, body {
   background-size: cover;
 }
 .ContentContainer {
-  display: block;
+  // display: block;
+  display: flex;
   position: relative;
   background-color: white;
   z-index: 1;
+  flex-direction: column;
+  align-items: center;
 }
 
 // html, body {
