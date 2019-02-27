@@ -49,11 +49,11 @@ const Location = () => (
       <div className="location-item midCity">
         <div className="location-overlay">
           <h3>Mid City</h3>
-          <p>COMING SOON!</p>
+          <h3>COMING SOON!</h3>
+        </div>
         </div>
       </div>
-    </div>
-  </div>
+      </div>
 );
 export default Location;
           {/* <p>6242 Beach Blvd. #A</p>
