@@ -22,7 +22,7 @@ const Contact = () => (
         <div>P: (424) 361-5001</div>
         <div>E: info@nishipokeramen.com</div>
       </div>
-      <div className="plug">Web design by BLS Studio</div>
+      <div className="plug">Web design by <a href="https://www.blakeswl.me/" target="_blank">BLS Studio</a></div>
     </div>
   </div>
 );
