@@ -1,0 +1,70 @@
+@import '../App/global.scss';
+
+#pokeMenu {
+  width: 100vw;
+  height: 100vh;
+  background: #E5E5E5;
+  // position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  * {
+    font-family: "finland";
+  }
+}
+
+.pokeImage1 {
+  // position: absolute;
+  width: 500px;
+  height: auto;
+  // top: -21%;
+  z-index: 0;
+  left: 3%;
+  filter: drop-shadow(40px 40px 20px #C0C0C0);
+}
+.pokeTitle {
+  // position: absolute;
+  font-size: 80px;
+  font-weight: 1000;
+  // color: #1D1D1B;
+  bottom: 32%;
+  left: 8%;
+  text-transform: uppercase;
+  text-align: center;
+}
+.leftItems {
+  // position: absolute;
+  // height: 90%;
+  // width: 45%;
+  // right: 5%;
+  // top: 5%;
+  background: url(https://c1.staticflickr.com/3/2767/4030906858_69ccce05c8_b.jpg) 50% 50% no-repeat;
+  background-size: cover;
+  box-shadow: 20px 20px 20px #A9A9A9;
+}
+.left_left {
+  // width: 94%;
+  // height: 95%;
+  // height: 95%;
+  padding: 3%;
+  margin: 0 auto;
+
+}
+#pokeItems {
+  margin: 0 auto;
+  .itemNprice {
+    display: flex;
+    justify-content: space-between;
+    h3 {
+      color: white;
+      font-size: 40px;
+      font-weight: 600;
+    }
+  }
+  p {
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+  }
+}

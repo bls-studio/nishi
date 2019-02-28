@@ -2,11 +2,14 @@ import React from 'react';
 import './menu.scss';
 import '../Landing/landing.scss';
 
+import PokeMenu from '../PokeMenu';
+
 import tonkotsu from '../../../dist/resized/pmton.jpg';
 import miso from '../../../dist/resized/pmmiso.jpg';
 import veggie from '../../../dist/resized/pmveg.jpg';
 import shoyu from '../../../dist/resized/pmshoyu.jpg';
 import poke from '../../../dist/resized/pmpoke.jpg';
+import midCity from '../../../dist/assets/midCity.png';
 
 const Menu = () => (
   <div id="page-wrap" className="menu-box parallax__group">
@@ -16,6 +19,11 @@ const Menu = () => (
         {/* <p>At Nishi Poke & Ramen Bistro, we see Japanese cuisine as an art.  In every dish we make, we put our love and passion for food to craft the freshest and tastiest dishes. We simmer our broth for 24 hours and create our dishes from scratch everyday. We also selectively choose sushi grade fresh fish daily to offer only the best to our customers. </p> */}
       </div>
       <div className="menu-container">
+        {/* <img src={midCity} alt=""/> */}
+        <h3 className="menu-category">Poke</h3>
+        <div className="poke-container">
+          <PokeMenu />
+        </div>
         <h3 className="menu-category">Ramen</h3>
         <div className="ramen">
           <div className="menu-item" data-aos="fade-up">
@@ -27,7 +35,7 @@ const Menu = () => (
           </div>
           <div className="menu-item" data-aos="fade-up">
             <img src={miso} className="menu-image"></img>
-            <h3 className="menu-title">Spicy Miso</h3>
+            <h3 className="menu-title">Spicy Miso 🌶</h3>
             <div className="menu-slide">
               <p className="menu-description">Miso broth, pork chashu, green onion, spinach, bean sprouts, cabbage, bamboo shoots, seaweed.</p>
             </div>
@@ -47,10 +55,6 @@ const Menu = () => (
             </div>
           </div>
         </div>
-      </div>
-      <div className="menu-container">
-        <h3 className="menu-category">Poke</h3>
-       
       </div>
     </div>
   </div>
