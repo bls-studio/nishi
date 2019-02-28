@@ -28,7 +28,7 @@ module.exports = {
       //   loader: 'url-loader?limit=100000' 
       // },
       {
-        test: /\.(gif|png|jpe?g|svg|pdf)$/i,
+        test: /\.(gif|png|jpe?g|svg|pdf|ttf)$/i,
         loader: 'file-loader'
       }
     ]

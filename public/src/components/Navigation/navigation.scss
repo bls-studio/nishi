@@ -24,6 +24,7 @@
     box-shadow: 0 0 3px rgba(0,0,0,.4);
     // box-shadow: 1px 1px 5px black;
   }
+  
 
   /* Position and sizing of clickable cross button */
   .bm-cross-button {
@@ -51,7 +52,8 @@
     color: #484848;
     padding-top: 1em;
     padding-left: 1em;
-    font-family: $montserrat;
+    // font-family: $montserrat;
+    font-family: "finland";
     // font-family: $roboto;
 
   }
@@ -60,13 +62,9 @@
     text-transform: uppercase;
     outline: none;
     color: white;
-    font-family: $montserrat;
-    // font-size: 12px;
+    // font-family: $montserrat;
+    font-family: "finland";
     padding: 5px;
-    // margin-left: 5px;
-    // border: 1px solid #B5D24B;
-    // border-radius: 50% 5;
-    // height: 
     background: #B5D24B;
   }
   .order:hover {
@@ -108,7 +106,6 @@
     visibility: visible;
     height: 64px;
     z-index: 999;
-    background: white;
     width: 100%;
     position: fixed;
   }
@@ -133,12 +130,14 @@
     width: auto;
   }
   .order {
-    padding: 23px;
-    // margin: 5
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 1000;
   }
   .bm-item-list {
-    // padding-left: 2em;
     padding-right: 1.5em;
     text-transform: uppercase;
+    font-weight: 1000;
+    font-size: 30px;
   }
 }

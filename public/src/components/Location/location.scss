@@ -19,7 +19,8 @@
   background: url(../../../dist/assets/o.jpg) 50% 50% no-repeat;
 }
 // .midCity {
-//   background: url(../../../dist/assets/midCity.png) 50% 50% no-repeat;
+//   background: url(../../../dist/assets/ramenicon.png) 50% 50% no-repeat;
+//   background-size: contain;
 // }
 .location-item {
   background-size: cover;
@@ -38,10 +39,11 @@
 
   h3 {
     // padding-top: 5%;
-    font-family: $roboto;
-    font-weight: 400;
+    // font-family: $roboto;
+    font-family: "finland";
+    font-weight: 1000;
     text-transform: uppercase;
-    font-size: 20px;
+    font-size: 40px;
     color: white;
   }
   p {

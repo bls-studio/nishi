@@ -7,7 +7,7 @@
   background: {
     // image: url(../../../dist/assets/pattern.png);
     color: #E5E5E5;
-    size: 3%;
+    size: 10%;
     // attachment: fixed;
   }
 }
@@ -15,25 +15,26 @@
   // background: #857C8D;
   padding: 5%;
   height: auto;
+
+  h3 {
+    color: $black;
+    font-family: "finland";
+  }
 }
 .section-title {
   // font-family: $roboto;
-  font-family: $roboto;
-  font-weight: 400;
-  text-decoration: uppercase;
-  font-size: 24px;
-  color: #b5d24b;
+  font-weight:1000;
+  text-transform: uppercase;
+  font-size: 40px;
 }
 .menu-container {
   display: flex;
   flex-direction: column;
   align-items: center;
-
-  // h3 {
-  //   font-family: $montserrat;
-  //   // font-weight: 500;
-  //   font-size: 20px;
-  // }
+}
+.menu-category {
+  font-weight: 800;
+  font-size: 30px;
 }
 .ramen {
   display: grid;
@@ -49,12 +50,10 @@
   height: auto;
 }
 .menu-title {
-  // font-family: $montserrat;
-  font-family: $roboto;
-  font-size: 16px;
+  font-size: 24px;
   padding: 4% 0;
   text-align: center;
-  font-weight: 400;
+  font-weight: 800;
   text-transform: uppercase;
 }
 .menu-description {

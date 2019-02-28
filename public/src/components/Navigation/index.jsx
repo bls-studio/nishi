@@ -13,18 +13,19 @@ export default class Navigation extends Component {
         background: "none"
       },
       order: {
-        background: "none"
+        background: "none",
+        color: "#484848",
+        height: "0"
       }
-      // boxShadow: "none"
     }
     this.listenScrollEvent = this.listenScrollEvent.bind(this);
   }
   listenScrollEvent(e) {
     if (window.scrollY > 900) {
-      this.setState({header: {background:'white', boxShadow: "0 0 3px rgba(0,0,0,.15)", transition: ".1s ease-in"}, order: {background: "#B5D24B", transition: ".1s ease-in"}
+      this.setState({header: {background:'white', boxShadow: "0 0 3px rgba(0,0,0,.15)", transition: ".1s ease-in"}, order: {background: "#B5D24B", transition: ".1s ease-in", color: "white", height: "100%"}
     })
     } else {
-      this.setState({header: {background: 'none', boxShadow: "none", transition: ".1s ease-in"}, order: {background: "none", transition: ".1s ease-in"}})
+      this.setState({header: {background: 'none', boxShadow: "none", transition: ".1s ease-in"}, order: {background: "none", transition: ".1s ease-in", color: "#484848"}})
     }
   }
   componentDidMount() {

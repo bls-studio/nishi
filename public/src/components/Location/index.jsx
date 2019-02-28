@@ -42,7 +42,7 @@ const Location = () => (
           <p>Sun CLOSED</p>
           <div className="location-buttons">
             <a href="https://ordering.chownow.com/order/9755/locations?add_cn_ordering_class=true" target="_blank" className="location-order">Order Now</a>
-            <a href="https://maps.google.com/?q=2536 Overland Ave, Los Angeles, CA 90064" target="_blank" className="location-directions">Get Directions</a>
+            <a href="https://maps.google.com/?q=6242 Beach Blvd. #A, Buena Park, CA 90621" target="_blank" className="location-directions">Get Directions</a>
           </div>
         </div>
       </div>
