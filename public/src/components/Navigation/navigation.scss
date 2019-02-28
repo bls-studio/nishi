@@ -51,7 +51,8 @@
     color: #484848;
     padding-top: 1em;
     padding-left: 1em;
-    font-family: $roboto;
+    font-family: $montserrat;
+    // font-family: $roboto;
 
   }
   .order {
@@ -59,12 +60,13 @@
     text-transform: uppercase;
     outline: none;
     color: white;
-    font-family: $roboto;
-    font-size: 12px;
+    font-family: $montserrat;
+    // font-size: 12px;
     padding: 5px;
-    margin-left: 5px;
-    border: 1px solid #B5D24B;
+    // margin-left: 5px;
+    // border: 1px solid #B5D24B;
     // border-radius: 50% 5;
+    // height: 
     background: #B5D24B;
   }
   .order:hover {
@@ -104,23 +106,23 @@
   #navbar-desktop {
     display: flex;
     visibility: visible;
+    height: 64px;
+    z-index: 999;
+    background: white;
     width: 100%;
     position: fixed;
-    height: 7vh;
-    background: white;
-    z-index: 999;
-    box-shadow: 0 0 3px rgba(0,0,0,.15);
   }
   .navbar, .navbar-item {
-    padding: 1%;
+    padding-left: 10%;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
   }
   .navbar {
-    width: 1080px;
-    margin: 0 auto;
+    position: sticky;
+    top: 0;
+    width: 100%;
   }
   .navbar-item {
     width: 100%;
@@ -129,11 +131,14 @@
   .nishi-logo {
     height: 40px;
     width: auto;
-    left: 0;
-    // top: 0;
   }
-  // .order {
-  //   outline: none;
-  //   // border: 
-  // }
+  .order {
+    padding: 23px;
+    // margin: 5
+  }
+  .bm-item-list {
+    // padding-left: 2em;
+    padding-right: 1.5em;
+    text-transform: uppercase;
+  }
 }

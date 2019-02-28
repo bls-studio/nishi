@@ -3,8 +3,8 @@ import './location.scss';
 
 const Location = () => (
   <div id="page-wrap">
-    <div id="location" data-aos="fade-up">
-      <div className="location-item westLA">
+    <div id="location">
+      <div className="location-item westLA" data-aos="fade-up">
         <div className="location-overlay">
           <h3>West LA</h3>
           <p>2536 Overland Ave.</p>
@@ -18,7 +18,7 @@ const Location = () => (
           </div>
         </div>
       </div>
-      <div className="location-item culver">
+      <div className="location-item culver" data-aos="fade-up">
         <div className="location-overlay">
           <h3>Culver City</h3>
           <p>4263 Overland Ave.</p>
@@ -32,7 +32,7 @@ const Location = () => (
           </div>
         </div>
       </div>
-      <div className="location-item buenaPark">
+      <div className="location-item buenaPark" data-aos="fade-up">
         <div className="location-overlay">
           <h3>Buena Park</h3>
           <p>6242 Beach Blvd. #A</p>
@@ -46,7 +46,7 @@ const Location = () => (
           </div>
         </div>
       </div>
-      <div className="location-item midCity">
+      <div className="location-item midCity" data-aos="fade-up">
         <div className="location-overlay">
           <h3>Mid City</h3>
           <h3>COMING SOON</h3>

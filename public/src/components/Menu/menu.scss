@@ -1,9 +1,15 @@
 @import '../App/global.scss';
 
 .menu-box {
+  position: relative;
+  z-index: 1;
   width: 100%;
-  background: #ededed;
-
+  background: {
+    // image: url(../../../dist/assets/pattern.png);
+    color: #E5E5E5;
+    size: 3%;
+    // attachment: fixed;
+  }
 }
 #menu {
   // background: #857C8D;
@@ -23,10 +29,11 @@
   flex-direction: column;
   align-items: center;
 
-  h3 {
-    font-family: $montserrat;
-    font-size: 20px;
-  }
+  // h3 {
+  //   font-family: $montserrat;
+  //   // font-weight: 500;
+  //   font-size: 20px;
+  // }
 }
 .ramen {
   display: grid;
@@ -42,14 +49,20 @@
   height: auto;
 }
 .menu-title {
-  font-family: $montserrat;
-  font-size: 20px;
-  padding: 2% 4% 0 4%;;
+  // font-family: $montserrat;
+  font-family: $roboto;
+  font-size: 16px;
+  padding: 4% 0;
+  text-align: center;
+  font-weight: 400;
+  text-transform: uppercase;
 }
 .menu-description {
   font-family: $montserrat;
+  font-size: 14px;
   line-height: 1.5;
-  padding: 4%;
+  padding: 0 4% 4%;
+  text-align: center;
 }
 .poke-image {
   width: 350px;
@@ -61,7 +74,7 @@
     grid-template-columns: repeat(3, 1fr);
     width: 100%;
     justify-content: center;
-    transform: scale(.75);
+    // transform: scale(.75);
     grid-gap: 2%;
   }
   .menu-item {
@@ -71,11 +84,10 @@
 @media only screen and (min-width: 1080px) {
   #menu {
     width: 1080px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
   }
   .ramen {
-    grid-template-columns: repeat(4, 1fr);
+    // grid-template-columns: repeat(4, 1fr);
     // transform: scale(.7);
   }
 }
