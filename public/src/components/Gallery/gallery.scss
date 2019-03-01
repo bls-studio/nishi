@@ -18,7 +18,7 @@
   // height: 100%;
 }
 .gallery-modal {
-  // scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
   display: flex;
   overflow-x: scroll;
   overflow-y: hidden;
@@ -30,7 +30,7 @@
     height: auto;
     flex: 0 0 auto;
     margin: 4%;
-    // scroll-snap-align: center;
+    scroll-snap-align: center;
   }
 }
 
