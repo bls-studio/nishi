@@ -11,6 +11,8 @@ import Menu from '../Menu';
 import Location from '../Location';
 import Gallery from '../Gallery';
 import Contact from '../Contact';
+import PokeMenu from '../PokeMenu';
+import RamenMenu from '../RamenMenu';
 
 AOS.init({
   // Global settings:
@@ -39,6 +41,8 @@ const App = () => (
     <Navigation />
     <Landing />
     <Menu />
+    <PokeMenu />
+    <RamenMenu />
     <Location />
     <Gallery />
     <Contact />
