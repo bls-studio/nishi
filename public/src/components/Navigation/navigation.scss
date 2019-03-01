@@ -1,10 +1,6 @@
 @import '../App/global.scss';
 
 
-// @media only screen and (max-width: 768px) {
-  // .nav-container {
-
-
   #burger * {
     outline: none;
   }
@@ -19,10 +15,8 @@
 
   /* Color/shape of burger icon bars */
   .bm-burger-bars {
-    // background: #1C5D99;
     background: white;
     box-shadow: 0 0 3px rgba(0,0,0,.4);
-    // box-shadow: 1px 1px 5px black;
   }
   
 
@@ -51,22 +45,16 @@
     text-decoration: none;
     color: #484848;
     font-size: 30px;
-    font-weight: 800;
-    // padding-top: 1em;
     padding-left: 3%;
     text-transform: uppercase;
-    // font-family: $montserrat;
-    font-family: "finland";
-    // font-family: $roboto;
-
+    font-family: "finland-bold";
   }
   .order {
     text-decoration: none;
     text-transform: uppercase;
     outline: none;
     color: white;
-    // font-family: $montserrat;
-    font-family: "finland";
+    font-family: "finland-bold";
     padding: 5px;
     background: #B5D24B;
   }

@@ -5,18 +5,21 @@
   background: #E5E5E5;
   padding-bottom: 10%;
   * {
-    font-family: "finland";
+    color: $black;
   }
 }
 .section-title {
   padding: 5%;
   color: $black;
+  font-size: 40px;
+  font-family: "finland-bold";
+  text-transform: uppercase;
 }
-// .poke-title {
-//   text-align: center;
-//   font-weight: 800;
-//   font-size: 60px;
-// }
+.menu-category {
+  font-family: "finland";
+  font-size: 60px;
+  text-align: center;
+}
 #pokeMenu {
   z-index: 1;
   display: flex;
@@ -30,12 +33,15 @@
   height: auto;
   z-index: 0;
   filter: drop-shadow(40px 40px 20px #C0C0C0);
+  -webkit-filter: drop-shadow(40px 40px 20px #C0C0C0);
 }
 .pokeTitle {
   font-size: 80px;
-  font-weight: 1000;
+  font-family: "finland-bold";
+  font-weight: 800;
   text-transform: uppercase;
   text-align: center;
+  color: $black;
 }
 
 .left_left {
@@ -53,26 +59,28 @@
     h3 {
       color: $white;
       font-size: 40px;
-      font-weight: 600;
+      font-family: "finland-bold";
+      // font-weight: 600;
     }
   }
   p {
     color: $white;
     font-size: 30px;
-    font-weight: 400;
+    font-family: "finland";
+    // font-weight: 400;
   }
 }
 
 @media only screen and (min-width: 1024px) {
   .section-title {
-    width: 70%;
+    max-width: 1080px;
     margin: 0 auto;
     // padding: 5% 10% 0;
   }
   #pokeMenu {
     flex-direction: row;
     justify-content: center;
-    width: 70%;
+    max-width: 1080px;
     margin: 0 auto;
   }
   .pokeLeft {

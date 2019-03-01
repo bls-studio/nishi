@@ -1,140 +1,140 @@
-@import '../App/global.scss';
+// @import '../App/global.scss';
 
-.menu-box {
-  position: relative;
-  z-index: 1;
-  width: 100%;
-  background: #E5E5E5;
-}
-#menu {
-  padding: 5%;
-  height: auto;
+// .menu-box {
+//   position: relative;
+//   z-index: 1;
+//   width: 100%;
+//   background: #E5E5E5;
+// }
+// #menu {
+//   padding: 5%;
+//   height: auto;
 
-  h3 {
-    color: $black;
-    font-family: "finland";
-  }
-}
-.section-title {
-  font-weight:1000;
-  text-transform: uppercase;
-  font-size: 40px;
-}
-.menu-container {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.menu-category {
-  font-weight: 800;
-  font-size: 60px;
-  text-align: center;
-}
-.ramen {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  grid-row-gap: 2%;
-}
-.menu-item {
-  background: white;
-  box-shadow: 0 0 3px rgba(0,0,0,.15);
-  
-}
-.menu-con {
-  box-shadow: 10px 10px 20px #A9A9A9;
-
-//   // background: white;
-//   background: url(https://c1.staticflickr.com/3/2767/4030906858_69ccce05c8_b.jpg) 50% 50% no-repeat;
-//   background-size: cover;
-
-//   * {
-//     color: white;
+//   h3 {
+//     color: $black;
+//     font-family: "finland";
 //   }
+// }
+// .section-title {
+//   // font-weight:1000;
+//   text-transform: uppercase;
+//   font-size: 40px;
+// }
+// .menu-container {
+//   width: 100%;
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+// }
+// .menu-category {
+//   font-weight: 800;
+//   font-size: 60px;
+//   text-align: center;
+// }
+// .ramen {
+//   display: grid;
+//   grid-template-columns: repeat(1, 1fr);
+//   grid-row-gap: 2%;
+// }
+// .menu-item {
+//   background: white;
+//   box-shadow: 0 0 3px rgba(0,0,0,.15);
+  
+// }
+// .menu-con {
+//   box-shadow: 10px 10px 20px #A9A9A9;
 
-}
-.menu-image {
-  background: #E5E5E5;
+// //   // background: white;
+// //   background: url(https://c1.staticflickr.com/3/2767/4030906858_69ccce05c8_b.jpg) 50% 50% no-repeat;
+// //   background-size: cover;
+
+// //   * {
+// //     color: white;
+// //   }
+
+// }
+// .menu-image {
+//   background: #E5E5E5;
 
 
-  // img {
-    width: 350px;
-    height: auto;
-    // filter: drop-shadow(40px 40px 20px #C0C0C0);
-    // width: 250px;
-    // height: auto;
-    // filter: drop-shadow(15px 15px 20px #C0C0C0);
+//   // img {
+//     width: 350px;
+//     height: auto;
+//     // filter: drop-shadow(40px 40px 20px #C0C0C0);
+//     // width: 250px;
+//     // height: auto;
+//     // filter: drop-shadow(15px 15px 20px #C0C0C0);
 
-  // }
-}
-.menu-title {
-  font-size: 24px;
-  padding: 4% 0;
-  text-align: center;
-  font-weight: 800;
-  text-transform: uppercase;
-  color: white;
-}
-.menu-description {
-  font-family: $montserrat;
-  font-size: 14px;
-  line-height: 1.5;
-  padding: 0 4% 4%;
-  text-align: center;
-}
-.poke-image {
-  width: 350px;
-  height: auto;
-}
-.menu-download {
-  display: flex;
-  text-align: center;
-  padding: 5% 0;
+//   // }
+// }
+// .menu-title {
+//   font-size: 24px;
+//   padding: 4% 0;
+//   text-align: center;
+//   font-weight: 800;
+//   text-transform: uppercase;
+//   color: white;
+// }
+// .menu-description {
+//   font-family: $montserrat;
+//   font-size: 14px;
+//   line-height: 1.5;
+//   padding: 0 4% 4%;
+//   text-align: center;
+// }
+// .poke-image {
+//   width: 350px;
+//   height: auto;
+// }
+// .menu-download {
+//   display: flex;
+//   text-align: center;
+//   padding: 5% 0;
 
-  h3, a {
-    font-size: 30px;
-    font-weight: 800;
-    color: $black;
-    font-family: "finland";
-    padding: 5% 3px;
-  }
-  a:hover {
-    color: #B5D24B;
-  }
-}
+//   h3, a {
+//     font-size: 30px;
+//     font-weight: 800;
+//     color: $black;
+//     font-family: "finland";
+//     padding: 5% 3px;
+//   }
+//   a:hover {
+//     color: #B5D24B;
+//   }
+// }
 
-@media only screen and (min-width: 426px) {
-  .ramen {
-    grid-template-columns: repeat(3, 1fr);
-    width: 100%;
-    justify-content: center;
-    // transform: scale(.75);
-    grid-gap: 2%;
-  }
-  .menu-download {
-    h3, a  {
-      font-size: 60px;
-    }
-    // height: auto;
-  }
-}
-@media only screen and (min-width: 1080px) {
-  #menu {
-    width: 1080px;
-    margin: 0 auto;
-  }
-  .menu-image {
-    width: 100%;
-    height: auto;
-  }
-  .menu-item {
-    margin-top: 10%;
-  }
-  .ramen {
-    grid-template-columns: repeat(4, 1fr);
-    // transform: scale(.);
-  }
-  .menu-category {
-    padding-top: 5%;
-  }
-}
+// @media only screen and (min-width: 426px) {
+//   .ramen {
+//     grid-template-columns: repeat(3, 1fr);
+//     width: 100%;
+//     justify-content: center;
+//     // transform: scale(.75);
+//     grid-gap: 2%;
+//   }
+//   .menu-download {
+//     h3, a  {
+//       font-size: 60px;
+//     }
+//     // height: auto;
+//   }
+// }
+// @media only screen and (min-width: 1080px) {
+//   #menu {
+//     width: 1080px;
+//     margin: 0 auto;
+//   }
+//   .menu-image {
+//     width: 100%;
+//     height: auto;
+//   }
+//   .menu-item {
+//     margin-top: 10%;
+//   }
+//   .ramen {
+//     grid-template-columns: repeat(4, 1fr);
+//     // transform: scale(.);
+//   }
+//   .menu-category {
+//     padding-top: 5%;
+//   }
+// }

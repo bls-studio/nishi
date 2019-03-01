@@ -14,9 +14,9 @@ const Contact = () => (
     <div className="contact-container" >
       <img src={logo} alt=""/>
       <div className="icons">
-        <Icon icon={instagram} size={30}/>
-        <Icon icon={yelp} size={30} />
-        <Icon icon={facebookSquare} size={30}/>
+        <a href="https://www.instagram.com/nishipokeramen/" target="_blank"><Icon icon={instagram} size={30}/></a>
+        <a href="https://www.yelp.com/biz/nishi-poke-and-ramen-bistro-los-angeles-3" target="_blank"><Icon icon={yelp} size={30} /></a>
+        <a href="https://www.facebook.com/nishipokeramen/" target="_blank"><Icon icon={facebookSquare} size={30}/></a>
       </div>
       <div className="contact-info">
         <div>P: (424) 361-5001</div>

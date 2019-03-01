@@ -27,11 +27,8 @@
 }
 #about {
   background-size: cover;
-  // width: 100%;
   padding: 5%;
-  // opacity: 0;
   background: white;
-  // background: url(../../../dist/resized/octo.jpg) 0 50% no-repeat fixed;
   z-index: 1;
 }
 .about-container {
@@ -56,11 +53,10 @@
   padding: 4%;  
 
   h3 {
-    font-size: 30px;
+    font-size: 40px;
     color: $black;
     // color: #b5d24b;
-    font-family: "finland";
-    font-weight: 800;
+    font-family: "finland-bold";
     text-transform: uppercase;
   }
 }

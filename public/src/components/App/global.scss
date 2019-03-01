@@ -8,13 +8,22 @@ $roboto: 'Roboto', sans-serif;
 
 
 @font-face {
+  font-family: 'finland-thin';
+  src: url('../../../dist/Fonts/FinlandRoundedThin.ttf');
+}
+@font-face {
   font-family: 'finland';
-  src: url('../../../dist/assets/FinlandRoundedThin.ttf');
+  src: url('../../../dist/Fonts/FinlandRoundedRegular.ttf');
+}
+@font-face {
+  font-family: 'finland-bold';
+  src: url('../../../dist/Fonts/FinlandRoundedBold.ttf');
 }
 // @import '../../../node_modules/include-media/dist/_include-media.scss';
 
 $black: #484848;
 $white: #FFF7EC;
+$green: #B5D24B;
 
 
 html, body {

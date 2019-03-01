@@ -21,18 +21,23 @@
 .tonkatsu {
   text-decoration: underline;
 }
+.menu-category {
+  color: $black;
+}
 .ramenImage1 {
   width: 500px;
   overflow: hidden;
   height: auto;
   z-index: 0;
   filter: drop-shadow(40px 40px 20px #C0C0C0);
+  -webkit-filter: drop-shadow(40px 40px 20px #C0C0C0);
 }
 .ramenTitle {
   font-size: 80px;
   font-weight: 1000;
   text-transform: uppercase;
   text-align: center;
+  color: $black;
 }
 
 .left_left {
@@ -60,16 +65,41 @@
   }
 }
 
+// .menu-download {
+//   width: 100%;
+//   display: flex;
+//   justify-content: center;
+//   font-size: 30px;
+  
+//   a {
+//     color: $black;
+//     padding: 3px;
+//   }
+//   a:hover {
+//     color: $green;
+//   }
+// }
 .menu-download {
-  width: 100%;
   display: flex;
   justify-content: center;
+  padding: 3% 0;
+
+  h3, a {
+    font-size: 30px;
+    font-weight: 800;
+    color: $black;
+    // font-family: "finland";
+    padding: 5% 3px;
+  }
+  a:hover {
+    color: #B5D24B;
+  }
 }
 @media only screen and (min-width: 1024px) {
   #ramenMenu {
     flex-direction: row;
     justify-content: center;
-    width: 70%;
+    max-width: 1080px;
     margin: 0 auto;
   }
   .ramenLeft {
@@ -88,5 +118,11 @@
   }
   .left_left {
     width: 80%;
+  }
+  .menu-download {
+    padding: 1% 0;
+    h3, a {
+      font-size: 60px;
+    }
   }
 }

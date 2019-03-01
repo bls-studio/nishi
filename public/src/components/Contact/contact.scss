@@ -9,6 +9,7 @@
     font-family: "finland";
     font-weight: 600;
     font-size: 20px;
+    // color: $white;
   }
 }
 
@@ -19,7 +20,7 @@
   align-items: center;
   background: #1f242e;
   padding: 10% 0;
-  color: white;
+  color: $white;
   width: 100%;
 
   img {
@@ -28,16 +29,17 @@
   }
 }
 .icons {
-  width: 100%;
-  margin: 5%;
+  width: 30%;
+  margin: 5% auto;
   text-align: center;
-  * {
+  a{
+    color: $white;
     cursor: pointer;
     margin: 0 2%;
   }
-}
-.icons *:hover {
-  color: #B5D24B;
+  a:hover {
+    color: $green;
+  }
 }
 .contact-info {
   text-align: center;
@@ -45,8 +47,7 @@
 .plug {
   margin-top: 5%;
   a {
-    color: white;
-    // text-decoration: none;
+    color: $white;
   }
 }
 
