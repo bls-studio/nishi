@@ -65,7 +65,7 @@
   text-align: center;
 
   h3, a {
-    font-size: 60px;
+    font-size: 30px;
     font-weight: 800;
     color: $black;
     font-family: "finland";
@@ -84,7 +84,10 @@
     // transform: scale(.75);
     grid-gap: 2%;
   }
-  .menu-item {
+  .menu-download {
+    h3, a  {
+      font-size: 60px;
+    }
     // height: auto;
   }
 }
