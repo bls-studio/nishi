@@ -25,11 +25,11 @@
   -webkit-overflow-scrolling: touch;
   height: 40vh;
 
-  img {
+  // img {
+  // }
+  .gallery-item {
     width: 320px;
     height: auto;
-  }
-  .gallery-item {
     flex: 0 0 auto;
     margin: 4%;
     scroll-snap-align: center;
