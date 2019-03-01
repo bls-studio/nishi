@@ -6,6 +6,10 @@ import './ramenMenu.scss';
 
 const RamenMenu = () => (
   <div id="ramenMenu">
+    <div className="ramenLeft">
+      <img src={transpoke} className="ramenImage1"/>
+      <h3 className="ramenTitle">Tonkatsu</h3>
+    </div>
     <div className="ramenRight">
       <div className="left_left">
         <div id="ramenItems">
@@ -33,10 +37,6 @@ const RamenMenu = () => (
           <p>Sesame miso broth, broccoli, tofu, corn, bean sprouts, spring mix, sesame oil.</p>
         </div>
       </div>
-    </div>
-    <div className="ramenLeft">
-      <img src={transpoke} className="ramenImage1"/>
-      <h3 className="ramenTitle">Tonkatsu</h3>
     </div>
   </div>
 );

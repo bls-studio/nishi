@@ -6,11 +6,6 @@ import './pokeMenu.scss';
 
 const PokeMenu = () => (
   <div id="pokeMenu">
-    <div className="pokeLeft">
-      <img src={transPoke} className="pokeImage1"/>
-      <h3 className="pokeTitle">Signature &</h3>
-      <h3 className="pokeTitle">Build Your Own Bowls</h3>
-    </div>
     <div className="pokeRight">
       <div className="left_left">
         <div id="pokeItems">
@@ -44,6 +39,11 @@ const PokeMenu = () => (
           <p>Hawaiian Salmon, Hawaiian Tuna, Spicy Tuna, Shrimp, Crabmeat, Avocado, Spicy Mayo, Eel Sauce, Sesame Oil</p>
         </div>
       </div>
+    </div>
+    <div className="pokeLeft">
+      <img src={transPoke} className="pokeImage1"/>
+      <h3 className="pokeTitle">Signature &</h3>
+      <h3 className="pokeTitle">Build Your Own Bowls</h3>
     </div>
   </div>
 );
