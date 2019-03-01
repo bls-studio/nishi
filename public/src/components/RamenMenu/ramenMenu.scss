@@ -2,9 +2,7 @@
 
 #ramenMenu {
   width: 100vw;
-  // height: 100vh;
   background: #E5E5E5;
-  // position: relative;
   z-index: 1;
   display: flex;
   flex-direction: column;
@@ -18,21 +16,14 @@
   text-decoration: underline;
 }
 .ramenImage1 {
-  // position: absolute;
   width: 500px;
   height: auto;
-  // top: -21%;
   z-index: 0;
-  // left: 3%;
   filter: drop-shadow(40px 40px 20px #C0C0C0);
 }
 .ramenTitle {
-  // position: absolute;
   font-size: 80px;
   font-weight: 1000;
-  // color: #1D1D1B;
-  // bottom: 32%;
-  // left: 8%;
   text-transform: uppercase;
   text-align: center;
 }

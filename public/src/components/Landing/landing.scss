@@ -46,6 +46,8 @@
 .about-image {
   height: auto;
   width: 355px;
+  visibility: hidden;
+  display: none;
 }
 .about-left {
   background: rgba(255, 255, 255, 0.8);
@@ -94,6 +96,8 @@
   }
   .about-image {
     height: 230px;
+    visibility: visible;
+    display: block;
   }
 }
 @media only screen and (min-width: 1080px) {
