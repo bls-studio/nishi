@@ -1,7 +1,7 @@
 @import '../App/global.scss';
 
 #ramenMenu {
-  width: 100%;
+  // width: 100%;
   background: #E5E5E5;
   z-index: 1;
   display: flex;
@@ -57,10 +57,10 @@
   #ramenMenu {
     flex-direction: row;
     justify-content: center;
-    width: 100%;
+    // width: 100%;
   }
   .ramenLeft {
-    width: 100%;
+    // width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -68,7 +68,7 @@
   }
   .ramenRight {
     display: flex;
-    width: 100%;
+    // width: 100%;
     flex-direction: column;
     justify-content: center;
     align-items: center;
