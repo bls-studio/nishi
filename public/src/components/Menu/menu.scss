@@ -1,13 +1,13 @@
 @import '../App/global.scss';
 
 .menu-box {
-  position: relative;
+  // position: relative;
   z-index: 1;
   // width: 100%;
   background: #E5E5E5;
 }
 #menu {
-  padding: 5%;
+  // padding: 5%;
   height: auto;
 
   h3 {
@@ -19,8 +19,10 @@
   font-weight:1000;
   text-transform: uppercase;
   font-size: 40px;
+  padding: 5%;
 }
 .menu-container {
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
