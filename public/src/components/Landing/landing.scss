@@ -30,6 +30,13 @@
   padding: 5%;
   background: white;
   z-index: 1;
+  h3 {
+    font-size: 40px;
+    color: $black;
+    // color: #b5d24b;
+    font-family: "finland-bold";
+    text-transform: uppercase;
+  }
 }
 .about-container {
   display: flex;
@@ -52,13 +59,6 @@
   line-height: 1.5;
   padding: 4%;  
 
-  h3 {
-    font-size: 40px;
-    color: $black;
-    // color: #b5d24b;
-    font-family: "finland-bold";
-    text-transform: uppercase;
-  }
 }
 
 @media only screen and (min-width: 678px) {
