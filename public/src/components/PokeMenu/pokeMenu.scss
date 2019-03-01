@@ -15,6 +15,7 @@
 
 .pokeImage1 {
   width: 500px;
+  overflow: hidden;
   height: auto;
   z-index: 0;
   filter: drop-shadow(40px 40px 20px #C0C0C0);
@@ -31,7 +32,7 @@
   background-size: cover;
   box-shadow: 20px 20px 20px #A9A9A9;
   padding: 3%;
-  // margin: 0 1%;
+  margin: 0 1%;
 }
 #pokeItems {
   margin: 0 auto;
