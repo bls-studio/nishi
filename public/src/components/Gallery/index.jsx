@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import Lightbox from 'react-image-lightbox';
+import React from 'react';
 import './gallery.scss';
 
 import img1 from '../../../dist/resized/miso.jpg';
