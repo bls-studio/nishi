@@ -21,7 +21,7 @@
 .gallery-modal {
   scroll-snap-type: x mandatory;
   display: flex;
-  overflow-x: scroll;
+  overflow-x: auto;
   overflow-y: hidden;
   -webkit-overflow-scrolling: touch;
   height: 40vh;
