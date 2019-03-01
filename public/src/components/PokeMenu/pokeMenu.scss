@@ -1,16 +1,27 @@
 @import '../App/global.scss';
 
-#pokeMenu {
+#pokeCon {
   width: 100%;
   background: #E5E5E5;
+  padding-bottom: 10%;
+  * {
+    font-family: "finland";
+  }
+}
+.section-title {
+  padding: 5%;
+  color: $black;
+}
+// .poke-title {
+//   text-align: center;
+//   font-weight: 800;
+//   font-size: 60px;
+// }
+#pokeMenu {
   z-index: 1;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 5%;
-  * {
-    font-family: "finland";
-  }
 }
 
 .pokeImage1 {
@@ -53,10 +64,16 @@
 }
 
 @media only screen and (min-width: 1024px) {
+  .section-title {
+    width: 70%;
+    margin: 0 auto;
+    // padding: 5% 10% 0;
+  }
   #pokeMenu {
     flex-direction: row;
     justify-content: center;
-    width: 100%;
+    width: 70%;
+    margin: 0 auto;
   }
   .pokeLeft {
     width: 100%;

@@ -40,9 +40,9 @@ const App = () => (
   <div id="outer-container" className="parallax">
     <Navigation />
     <Landing />
-    <Menu />
+    {/* <Menu /> */}
     <PokeMenu />
-    {/* <RamenMenu /> */}
+    <RamenMenu />
     <Location />
     <Gallery />
     <Contact />

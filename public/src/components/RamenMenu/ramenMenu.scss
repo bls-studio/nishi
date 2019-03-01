@@ -1,13 +1,19 @@
 @import '../App/global.scss';
 
-#ramenMenu {
+#ramenCon {
   width: 100%;
   background: #E5E5E5;
+  padding-bottom: 5%;
+  * {
+    font-family: "finland";
+  }
+}
+
+#ramenMenu {
   z-index: 1;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-bottom: 5%;
   * {
     font-family: "finland";
   }
@@ -54,11 +60,17 @@
   }
 }
 
+.menu-download {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
 @media only screen and (min-width: 1024px) {
   #ramenMenu {
     flex-direction: row;
     justify-content: center;
-    width: 100%;
+    width: 70%;
+    margin: 0 auto;
   }
   .ramenLeft {
     width: 100%;

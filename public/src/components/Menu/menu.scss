@@ -1,48 +1,48 @@
 @import '../App/global.scss';
 
 .menu-box {
-  // position: relative;
+  position: relative;
   z-index: 1;
-  // width: 100%;
+  width: 100%;
   background: #E5E5E5;
+}
+#menu {
+  padding: 5%;
+  height: auto;
+
   h3 {
     color: $black;
     font-family: "finland";
   }
 }
-#menu {
-  // padding: 5%;
-  height: auto;
-
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
 .section-title {
   font-weight:1000;
   text-transform: uppercase;
   font-size: 40px;
-  padding: 5%;
 }
-// .menu-container {
-//   width: 100vw;
-// }
+.menu-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .menu-category {
   font-weight: 800;
   font-size: 60px;
+  text-align: center;
 }
-// .ramen {
-//   display: grid;
-//   grid-template-columns: repeat(1, 1fr);
-//   grid-row-gap: 2%;
-// }
-// .menu-item {
-//   background: white;
-//   box-shadow: 0 0 3px rgba(0,0,0,.15);
+.ramen {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-row-gap: 2%;
+}
+.menu-item {
+  background: white;
+  box-shadow: 0 0 3px rgba(0,0,0,.15);
   
-// }
-// .menu-con {
-//   box-shadow: 10px 10px 20px #A9A9A9;
+}
+.menu-con {
+  box-shadow: 10px 10px 20px #A9A9A9;
 
 //   // background: white;
 //   background: url(https://c1.staticflickr.com/3/2767/4030906858_69ccce05c8_b.jpg) 50% 50% no-repeat;
@@ -52,7 +52,7 @@
 //     color: white;
 //   }
 
-// }
+}
 .menu-image {
   background: #E5E5E5;
 
