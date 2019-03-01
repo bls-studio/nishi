@@ -1,6 +1,5 @@
 import React from 'react';
 import './menu.scss';
-import '../Landing/landing.scss';
 
 import PokeMenu from '../PokeMenu';
 import RamenMenu from '../RamenMenu';
@@ -21,7 +20,7 @@ const Menu = () => (
       <div className="menu-container">
         <h3 className="menu-category">Poke</h3>
         <div className="poke-container">
-          {/* <PokeMenu /> */}
+          <PokeMenu />
         </div>
         <h3 className="menu-category">Ramen</h3>
           <RamenMenu />
