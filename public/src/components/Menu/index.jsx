@@ -21,7 +21,7 @@ const Menu = () => (
       <div className="menu-container">
         <h3 className="menu-category">Poke</h3>
         <div className="poke-container">
-          <PokeMenu />
+          {/* <PokeMenu /> */}
         </div>
         <h3 className="menu-category">Ramen</h3>
           <RamenMenu />
