@@ -41,7 +41,7 @@ const App = () => (
     <Navigation />
     <Landing />
     <Menu />
-    {/* <PokeMenu /> */}
+    <PokeMenu />
     {/* <RamenMenu /> */}
     <Location />
     <Gallery />
