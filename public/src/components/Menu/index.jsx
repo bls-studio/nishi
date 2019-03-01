@@ -3,6 +3,7 @@ import './menu.scss';
 import '../Landing/landing.scss';
 
 import PokeMenu from '../PokeMenu';
+import RamenMenu from '../RamenMenu';
 
 import tonkotsu from '../../../dist/resized/pmton.jpg';
 import miso from '../../../dist/resized/pmmiso.jpg';
@@ -23,7 +24,8 @@ const Menu = () => (
           <PokeMenu />
         </div>
         <h3 className="menu-category">Ramen</h3>
-        <div className="ramen">
+          <RamenMenu />
+        {/* <div className="ramen">
           <div className="menu-item" data-aos="fade-up">
             <img src={tonkotsu} className="menu-image"></img>
             <h3 className="menu-title">Tonkotsu</h3>
@@ -52,7 +54,7 @@ const Menu = () => (
               <p className="menu-description">Sesame miso broth, broccoli, tofu, corn, bean sprouts, spring mix, sesame oil.</p>
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="menu-download"><h3>View our full menu </h3>{' '}<a href={menuPDF} target="_blank">HERE</a></div>
       </div>
     </div>
