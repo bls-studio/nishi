@@ -4,6 +4,12 @@
   width: 100%;
   position: relative;
   z-index: 1;
+
+  * {
+    font-family: "finland";
+    font-weight: 600;
+    font-size: 20px;
+  }
 }
 
 .contact-container {

@@ -8,18 +8,16 @@ import tonkotsu from '../../../dist/resized/pmton.jpg';
 import miso from '../../../dist/resized/pmmiso.jpg';
 import veggie from '../../../dist/resized/pmveg.jpg';
 import shoyu from '../../../dist/resized/pmshoyu.jpg';
-import poke from '../../../dist/resized/pmpoke.jpg';
-import midCity from '../../../dist/assets/midCity.png';
+
+import menuPDF from '../../../dist/assets/menu.pdf';
 
 const Menu = () => (
   <div id="page-wrap" className="menu-box parallax__group">
     <div id="menu">
       <div className="section-header">
         <h3 className="section-title">Our Menu</h3>
-        {/* <p>At Nishi Poke & Ramen Bistro, we see Japanese cuisine as an art.  In every dish we make, we put our love and passion for food to craft the freshest and tastiest dishes. We simmer our broth for 24 hours and create our dishes from scratch everyday. We also selectively choose sushi grade fresh fish daily to offer only the best to our customers. </p> */}
       </div>
       <div className="menu-container">
-        {/* <img src={midCity} alt=""/> */}
         <h3 className="menu-category">Poke</h3>
         <div className="poke-container">
           <PokeMenu />
@@ -55,6 +53,7 @@ const Menu = () => (
             </div>
           </div>
         </div>
+        <div className="menu-download"><h3>View our full menu </h3>{' '}<a href={menuPDF} target="_blank">HERE</a></div>
       </div>
     </div>
   </div>

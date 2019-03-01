@@ -4,15 +4,9 @@
   position: relative;
   z-index: 1;
   width: 100%;
-  background: {
-    // image: url(../../../dist/assets/yellow-striped-background-2.jpg);
-    color: #E5E5E5;
-    size: cover;
-    // attachment: fixed;
-  }
+  background: #E5E5E5;
 }
 #menu {
-  // background: #857C8D;
   padding: 5%;
   height: auto;
 
@@ -22,7 +16,6 @@
   }
 }
 .section-title {
-  // font-family: $roboto;
   font-weight:1000;
   text-transform: uppercase;
   font-size: 40px;
@@ -34,7 +27,7 @@
 }
 .menu-category {
   font-weight: 800;
-  font-size: 30px;
+  font-size: 60px;
 }
 .ramen {
   display: grid;
@@ -67,6 +60,21 @@
   width: 350px;
   height: auto;
 }
+.menu-download {
+  display: flex;
+  text-align: center;
+
+  h3, a {
+    font-size: 60px;
+    font-weight: 800;
+    color: $black;
+    font-family: "finland";
+    padding: 5% 3px;
+  }
+  a:hover {
+    color: #B5D24B;
+  }
+}
 
 @media only screen and (min-width: 768px) {
   .ramen {
@@ -85,8 +93,15 @@
     width: 1080px;
     margin: 0 auto;
   }
+  .menu-image {
+    width: 100%;
+    height: auto;
+  }
   .ramen {
-    // grid-template-columns: repeat(4, 1fr);
-    // transform: scale(.7);
+    grid-template-columns: repeat(4, 1fr);
+    // transform: scale(.);
+  }
+  .menu-category {
+    padding-top: 5%;
   }
 }
