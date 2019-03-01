@@ -42,7 +42,7 @@ const Menu = () => (
             <img src={shoyu} className="menu-image"></img>
             <h3 className="menu-title">Chicken Shoyu</h3>
             <div className="menu-slide">
-              <p className="menu-description">Chicken Broth, Chasu, White Onions, Bamboo Shoots, Seaweed, Alfalfa Sprouts.</p>
+              <p className="menu-description">Chicken Broth, Chicken, White Onions, Bamboo Shoots, Seaweed, Alfalfa Sprouts.</p>
             </div>
           </div>
           <div className="menu-item" data-aos="fade-up">
@@ -68,3 +68,15 @@ export default Menu;
             </div>
           </div>
         </div> */}
+
+                {/* <div className="menu-item" data-aos="fade-up">
+            <div className="menu-image">
+              <img src={tonkotsu}></img>
+            </div>
+            <div className="menu-con">
+              <h3 className="menu-title">Tonkotsu</h3>
+              <div className="menu-slide">
+                <p className="menu-description">Pork broth, pork chashu, green onion, spinach, bean sprouts, seaweed.</p>
+              </div>
+            </div>
+          </div> */}

@@ -9,7 +9,7 @@ const PokeMenu = () => (
     <div className="pokeLeft">
       <img src={transPoke} className="pokeImage1"/>
       <h3 className="pokeTitle">Signature &</h3>
-      <h3 className="pokeTitle">BYO Bowls</h3>
+      <h3 className="pokeTitle">Build Your Own Bowls</h3>
     </div>
     <div className="pokeRight">
       <div className="left_left">
