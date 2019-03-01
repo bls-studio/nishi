@@ -36,9 +36,9 @@
   -webkit-filter: drop-shadow(40px 40px 20px #C0C0C0);
 }
 .pokeTitle {
-  font-size: 80px;
+  font-size: 60px;
   font-family: "finland-bold";
-  font-weight: 800;
+  // font-weight: 800;
   text-transform: uppercase;
   text-align: center;
   color: $black;
@@ -82,6 +82,9 @@
     justify-content: center;
     max-width: 1080px;
     margin: 0 auto;
+  }
+  .pokeTitle {
+    font-size: 80px;
   }
   .pokeLeft {
     width: 100%;
