@@ -19,13 +19,9 @@ const Menu = () => (
       </div>
       <div className="menu-container">
         <h3 className="menu-category">Poke</h3>
-        <div className="poke-container">
-          <PokeMenu />
-        </div>
+        <PokeMenu />
         <h3 className="menu-category">Ramen</h3>
-        <div className="poke-container">
-          <RamenMenu />
-        </div>
+        <RamenMenu />
         {/* <div className="ramen">
           <div className="menu-item" data-aos="fade-up">
             <img src={tonkotsu} className="menu-image"></img>
