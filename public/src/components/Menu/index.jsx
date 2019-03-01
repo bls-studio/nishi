@@ -13,11 +13,11 @@ import menuPDF from '../../../dist/assets/menu.pdf';
 
 const Menu = () => (
   <div id="page-wrap" className="menu-box parallax__group">
+    <div className="section-header">
+      <h3 className="section-title">Our Menu</h3>
+    </div>
     <div id="menu">
-      <div className="section-header">
-        <h3 className="section-title">Our Menu</h3>
-      </div>
-      <div className="menu-container">
+      {/* <div className="menu-container"> */}
         <h3 className="menu-category">Poke</h3>
         <PokeMenu />
         <h3 className="menu-category">Ramen</h3>
@@ -54,7 +54,7 @@ const Menu = () => (
         </div> */}
         <div className="menu-download"><h3>View our full menu </h3>{' '}<a href={menuPDF} target="_blank">HERE</a></div>
       </div>
-    </div>
+    {/* </div> */}
   </div>
 );
 export default Menu;

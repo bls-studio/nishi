@@ -5,15 +5,18 @@
   z-index: 1;
   // width: 100%;
   background: #E5E5E5;
+  h3 {
+    color: $black;
+    font-family: "finland";
+  }
 }
 #menu {
   // padding: 5%;
   height: auto;
 
-  h3 {
-    color: $black;
-    font-family: "finland";
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .section-title {
   font-weight:1000;
@@ -21,12 +24,9 @@
   font-size: 40px;
   padding: 5%;
 }
-.menu-container {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
+// .menu-container {
+//   width: 100vw;
+// }
 .menu-category {
   font-weight: 800;
   font-size: 60px;
