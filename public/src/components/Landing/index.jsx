@@ -2,9 +2,9 @@ import React from 'react';
 import './landing.scss';
 import { Parallax } from 'react-scroll-parallax';
 
-import holding from '../../../dist/resized/holding.jpg';
-import hero from '../../../dist/assets/logowhite.png';
-import cook from '../../../dist/assets/cook.jpg'
+const hero = 'https://s3.amazonaws.com/nishi-blakeswl/logowhite.png';
+const  cook = 'https://s3.amazonaws.com/nishi-blakeswl/cook.jpg';
+
 const Landing = () => (
   <div id="page-wrap" className="landing" >
     <div id="home">

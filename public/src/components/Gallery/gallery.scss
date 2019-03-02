@@ -2,21 +2,18 @@
 
 
 .gallery-container {
-  background: url('../../../dist/resized/octo.jpg') 50% 50% no-repeat;
+  background: url(https://s3.amazonaws.com/nishi-blakeswl/octo.jpg) 50% 50% no-repeat;
   background-size: cover;
   position: relative;
   z-index: 1;
   overflow-x: none;
 }
 #gallery {
-  // background: rgba(0,0,0,.3);
   background: rgba(255,255,255, .9);
   display: flex;
   width: 100%;
   justify-content: center;
   z-index: 1;
-
-  // height: 100%;
 }
 .gallery-modal {
   scroll-snap-type: x mandatory;
@@ -39,9 +36,8 @@
 
 @media only screen and (min-width: 768px) {
   .gallery-container {
-    background: url('../../../dist/resized/octo.jpg') 50% 50% no-repeat fixed;
     background-size: cover;
-  
+    background-attachment: fixed;
   }
   #gallery {
     padding: 10% 0;
@@ -50,9 +46,6 @@
   .gallery-modal {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    // max-width: 1080px;
-    // margin: 0 auto;
-    // grid-gap: 1px;
     justify-items: center;
     height: auto;
     overflow: none;

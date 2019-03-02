@@ -1,14 +1,14 @@
 import React from 'react';
 import './gallery.scss';
 
-import img1 from '../../../dist/resized/miso.jpg';
-import img2 from '../../../dist/resized/poke.jpg';
-import img3 from '../../../dist/resized/ton.jpg';
-import img4 from '../../../dist/resized/karage.jpg';
-import img5 from '../../../dist/resized/station.jpg';
-import img6 from '../../../dist/resized/veggie.jpg';
-import img7 from '../../../dist/resized/soup.jpg';
-import img8 from '../../../dist/resized/gyoza.jpg';
+const img1 = 'https://s3.amazonaws.com/nishi-blakeswl/miso.jpg';
+const img2 = 'https://s3.amazonaws.com/nishi-blakeswl/poke.jpg';
+const img3 = 'https://s3.amazonaws.com/nishi-blakeswl/ton.jpg';
+const img4 = 'https://s3.amazonaws.com/nishi-blakeswl/karage.jpg';
+const img5 = 'https://s3.amazonaws.com/nishi-blakeswl/station.jpg';
+const img6 = 'https://s3.amazonaws.com/nishi-blakeswl/veggie.jpg';
+const img7 = 'https://s3.amazonaws.com/nishi-blakeswl/soup.jpg';
+const img8 = 'https://s3.amazonaws.com/nishi-blakeswl/gyoza.jpg';
 
 const Gallery = () => (
   <div id="page-wrap" className="gallery-container">

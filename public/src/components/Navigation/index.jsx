@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './navigation.scss';
 import { push as Menu } from 'react-burger-menu';
 
-import logo from '../../../dist/assets/download.png';
+const logo = 'https://s3.amazonaws.com/nishi-blakeswl/download.png';
 
 export default class Navigation extends Component {
   constructor() {

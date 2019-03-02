@@ -1,9 +1,10 @@
 import React from 'react';
-import transpoke from '../../../dist/assets/ramenTrans.png';
+
+const transpoke = 'https://s3.amazonaws.com/nishi-blakeswl/ramenTrans.png';
 
 import './ramenMenu.scss';
 
-import menuPDF from '../../../dist/assets/menu.pdf';
+const menuPDF = 'https://s3.amazonaws.com/nishi-blakeswl/menu.pdf';
 
 
 const RamenMenu = () => (

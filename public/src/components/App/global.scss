@@ -19,7 +19,11 @@ $roboto: 'Roboto', sans-serif;
   font-family: 'finland-bold';
   src: url('../../../dist/Fonts/FinlandRoundedBold.ttf');
 }
-// @import '../../../node_modules/include-media/dist/_include-media.scss';
+@font-face {
+  font-family: 'finland-italic';
+  src: url('../../../dist/Fonts/FinlandRoundedItalic.ttf');
+}
+
 
 $black: #484848;
 $white: #FFF7EC;

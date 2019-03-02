@@ -1,5 +1,7 @@
 import React from 'react';
-import transPoke from '../../../dist/assets/pokeTransLarge.png';
+
+
+const transPoke = 'https://s3.amazonaws.com/nishi-blakeswl/pokeTransLarge.png';
 
 import './pokeMenu.scss';
 
