@@ -40,7 +40,7 @@ const RamenMenu = () => (
         </div>
       </div>
       <div className="ramenLeft">
-        <img src={transpoke} className="ramenImage1"/>
+        <img src={transpoke} className="ramenImage1" alt="ramen"/>
         <h3 className="ramenTitle">Tonkatsu</h3>
       </div>
     </div>

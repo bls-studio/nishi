@@ -49,7 +49,7 @@ export default class Navigation extends Component {
         <div id="navbar-desktop" style={this.state.header}>
           <nav className="navbar">
             <div className="navbar-left">
-              <img src={logo} alt="" className="nishi-logo"/>
+              <img src={logo} alt="nishi-logo" className="nishi-logo"/>
             </div>
             <ul className="navbar-item">
               <li><a href="#" className="bm-item-list">Home</a></li>

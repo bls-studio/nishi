@@ -14,14 +14,14 @@ const Gallery = () => (
   <div id="page-wrap" className="gallery-container">
     <div id="gallery">
       <div className="gallery-modal" data-aos="fade-up">
-        <img src={img1} className="gallery-item" alt=""/>   
-        <img src={img4} className="gallery-item" alt=""/>
-        <img src={img2} className="gallery-item" alt=""/>        
-        <img src={img3} className="gallery-item" alt=""/>
-        <img src={img5} className="gallery-item" alt=""/>
-        <img src={img6} className="gallery-item" alt=""/>
-        <img src={img7} className="gallery-item" alt=""/>        
-        <img src={img8} className="gallery-item" alt=""/>
+        <img src={img1} className="gallery-item" alt="spicy-miso-ramen"/>   
+        <img src={img4} className="gallery-item" alt="chicken-karage"/>
+        <img src={img2} className="gallery-item" alt="poke"/>        
+        <img src={img3} className="gallery-item" alt="tonkatsu-ramen"/>
+        <img src={img5} className="gallery-item" alt="poke-station"/>
+        <img src={img6} className="gallery-item" alt="vegetarian-ramen"/>
+        <img src={img7} className="gallery-item" alt="broth"/>        
+        <img src={img8} className="gallery-item" alt="gyoza"/>
       </div>
     </div>
   </div>

@@ -27,8 +27,10 @@
 }
 #about {
   background-size: cover;
+  width: 100%;
+  // margin: 5%;
+  // background: white;
   padding: 5%;
-  background: white;
   z-index: 1;
   h3 {
     font-size: 40px;
@@ -36,6 +38,7 @@
     font-family: "finland-bold";
     text-transform: uppercase;
   }
+  // background: $white;
 }
 .about-container {
   display: flex;
@@ -56,8 +59,9 @@
   background: rgba(255, 255, 255, 0.8);
   font-family: $montserrat;
   line-height: 1.5;
-  padding: 4%;  
-
+  padding: 4%;
+  font-size: 20px;  
+  display: flex;
 }
 
 @media only screen and (min-width: 678px) {
@@ -80,9 +84,10 @@
 
   }
   .about-left {
-    height: 200px;
-    font-size: 14px;
-    padding: 2% 2% 0 2%;
+    // height: 200px;
+    // font-size: 14px;
+    // padding: 2% 2% 0 2%;
+    padding: 2%;
   }
   .about-image {
     height: 230px;
@@ -99,8 +104,7 @@
   }
   #about {
     max-width: 1080px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
   }
   .about-container {
     width: 100%;
