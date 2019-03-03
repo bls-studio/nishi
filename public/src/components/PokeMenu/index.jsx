@@ -1,4 +1,5 @@
 import React from 'react';
+import { Parallax, ParallaxBanner } from 'react-scroll-parallax';
 
 
 const transPoke = 'https://s3.amazonaws.com/nishi-blakeswl/pokeTransLarge.png';
@@ -14,7 +15,7 @@ const PokeMenu = () => (
     <h3 className="menu-category">Poke</h3>
     <div id="pokeMenu">
       <div className="pokeLeft">
-        <img src={transPoke} className="pokeImage1" alt="poke" data-aos="fade-right"/>
+        <img src={transPoke} className="pokeImage1" alt="poke" data-aos="fade-right" data-aos-offset="500" data-aos-duration="800" data-aos-easing="linear"/>
         <h3 className="pokeTitle">Signature &</h3>
         <h3 className="pokeTitle">Build Your Own Bowls</h3>
       </div>

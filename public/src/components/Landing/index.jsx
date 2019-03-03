@@ -3,7 +3,6 @@ import './landing.scss';
 import { Parallax, ParallaxBanner } from 'react-scroll-parallax';
 
 const hero = 'https://s3.amazonaws.com/nishi-blakeswl/cream.png';
-import heroSmall from '../../../dist/resized/creamSmall.png';
 // const  cook = 'https://s3.amazonaws.com/nishi-blakeswl/cook.jpg';
 
 const Landing = () => (
@@ -41,6 +40,5 @@ const Landing = () => (
   </div>
 
 );
-{/* <img className="about-image" src={cook} alt=""/> */}
 
 export default Landing;

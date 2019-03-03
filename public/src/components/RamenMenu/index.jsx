@@ -40,7 +40,7 @@ const RamenMenu = () => (
         </div>
       </div>
       <div className="ramenLeft">
-        <img src={transpoke} className="ramenImage1" alt="ramen"/>
+        <img src={transpoke} className="ramenImage1" alt="ramen" data-aos="fade-left" data-aos-offset="500" data-aos-duration="800" data-aos-easing="linear"/>
         <h3 className="ramenTitle">Tonkatsu</h3>
       </div>
     </div>
