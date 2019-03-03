@@ -46,7 +46,7 @@ const RamenMenu = () => (
     </div>
       {/* <div className="menu-download"><a href={menuPDF} target="_blank">↠ View our full menu HERE ↞</a></div> */}
 
-    <div className="menu-download"><h3>↠ View our full</h3>{'  '}<a href={menuPDF} target="_blank">MENU HERE</a><h3>↞</h3></div>
+    <div className="menu-download"><h3>↠ View our full</h3>{'  '}<a href={menuPDF} target="_blank" rel="alternate">MENU HERE</a><h3>↞</h3></div>
   </div>
 );
 
