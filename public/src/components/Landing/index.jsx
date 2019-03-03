@@ -7,26 +7,11 @@ const hero = 'https://s3.amazonaws.com/nishi-blakeswl/cream.png';
 
 const Landing = () => (
   <div id="page-wrap" className="landing" >
-    <ParallaxBanner
-    className="custom-class landing"
-    layers={[
-        {
-            image: 'https://s3.amazonaws.com/nishi-blakeswl/holdingWhite.jpg',
-            amount: 0.60,
-            slowerScrollRate: true,
-        },
-    ]}
-    style={{
-        height: '100vh',
-    }}
-          >
-          <img src={hero} alt="nishi logo" className="hero"/>
-    </ParallaxBanner>
-    {/* <div id="home">
+    <div id="home">
       <div className="home-container">
         <img src={hero} alt="nishi logo" className="hero"/>
       </div>
-    </div> */}
+    </div>
     <div id="about">
       <h3>Our Story</h3>
       <div className="about-container" data-aos="fade-up">
@@ -42,3 +27,19 @@ const Landing = () => (
 );
 
 export default Landing;
+
+    {/* <ParallaxBanner
+    className="custom-class landing"
+    layers={[
+        {
+            image: 'https://s3.amazonaws.com/nishi-blakeswl/holdingWhite.jpg',
+            amount: 0.60,
+            slowerScrollRate: true,
+        },
+    ]}
+    style={{
+        height: '100vh',
+    }}
+          >
+          <img src={hero} alt="nishi logo" className="hero"/>
+    </ParallaxBanner> */}
