@@ -14,7 +14,7 @@ const PokeMenu = () => (
     <h3 className="menu-category">Poke</h3>
     <div id="pokeMenu">
       <div className="pokeLeft">
-        <img src={transPoke} className="pokeImage1" alt="poke"/>
+        <img src={transPoke} className="pokeImage1" alt="poke" data-aos="fade-right"/>
         <h3 className="pokeTitle">Signature &</h3>
         <h3 className="pokeTitle">Build Your Own Bowls</h3>
       </div>
