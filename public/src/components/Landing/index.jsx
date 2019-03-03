@@ -3,7 +3,6 @@ import './landing.scss';
 import { Parallax } from 'react-scroll-parallax';
 
 const hero = 'https://s3.amazonaws.com/nishi-blakeswl/cream.png';
-// import hero from '../../../dist/resized/cream.png';
 // const  cook = 'https://s3.amazonaws.com/nishi-blakeswl/cook.jpg';
 
 const Landing = () => (
