@@ -8,7 +8,7 @@ import './pokeMenu.scss';
 
 
 const PokeMenu = () => (
-  <div id="pokeCon">
+  <div id="menun" className="menu">
     <div className="section-header">
       <h3 className="section-title">Our Menu</h3>
     </div>
