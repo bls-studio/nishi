@@ -14,14 +14,14 @@ const Landing = () => (
         {
             image: 'https://s3.amazonaws.com/nishi-blakeswl/holdingWhite.jpg',
             amount: 0.60,
-            slowerScrollRate: false,
+            slowerScrollRate: true,
         },
     ]}
     style={{
         height: '100vh',
     }}
           >
-          <img src={heroSmall} alt="nishi logo" className="hero"/>
+          <img src={hero} alt="nishi logo" className="hero"/>
     </ParallaxBanner>
     {/* <div id="home">
       <div className="home-container">
