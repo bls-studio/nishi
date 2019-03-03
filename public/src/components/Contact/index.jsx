@@ -12,7 +12,7 @@ import {facebookSquare} from 'react-icons-kit/fa/facebookSquare'
 const Contact = () => (
   <div id="contact">
     <div className="contact-container" >
-      <img src={hero} alt="nishi-logo"/>
+      <img src={hero} alt="nishi logo"/>
       <div className="icons">
         <a href="https://www.instagram.com/nishipokeramen/" target="_blank"><Icon icon={instagram} size={30}/></a>
         <a href="https://www.yelp.com/biz/nishi-poke-and-ramen-bistro-los-angeles-3" target="_blank"><Icon icon={yelp} size={30} /></a>

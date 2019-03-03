@@ -9,7 +9,7 @@ const Landing = () => (
   <div id="page-wrap" className="landing" >
     <div id="home">
       <div className="home-container">
-        <img src={hero} alt="nishi-logo" className="hero"/>
+        <img src={hero} alt="nishi logo" className="hero"/>
       </div>
     </div>
     <div id="about">
