@@ -48,8 +48,10 @@ const Location = () => (
       </div>
       <div className="location-item midCity" data-aos="fade-up">
         <div className="location-overlay">
-          <h3>Mid City</h3>
+          <h3>La Cienaga/Jefferson</h3>
           <h3>COMING SOON</h3>
+          {/* <p>3338 S. La Cienaga Blvd.</p>
+          <p></p> */}
         </div>
       </div>
     </div>

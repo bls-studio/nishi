@@ -18,10 +18,10 @@
 .buenaPark {
   background: url(https://s3.amazonaws.com/nishi-blakeswl/buenaPark.jpg) 50% 50% no-repeat;
 }
-// .midCity {
-//   background: url(../../../dist/assets/ramenicon.png) 50% 50% no-repeat;
-//   background-size: contain;
-// }
+.midCity {
+  background: url(../../../dist/resized/newLogo.png) 50% 50% no-repeat;
+  background-size: cover;
+}
 .location-item {
   background-size: cover;
   width: 100%;
@@ -38,10 +38,7 @@
   justify-content: center;
 
   h3 {
-    // padding-top: 5%;
-    // font-family: $roboto;
     font-family: "finland";
-    // font-weight: 1000;
     text-transform: uppercase;
     font-size: 40px;
     color: white;
