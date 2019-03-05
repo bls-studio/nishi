@@ -6,13 +6,8 @@
   align-items: center;
   justify-content: center;
   position: relative;
+  width: 100%;
 }
-// .hero {
-//   position: absolute;
-//   width: 150px;
-//   height: 150px;
-// }
-
 #home {
   width: 100%;
   background: url(https://s3.amazonaws.com/nishi-blakeswl/holding.jpg) 50% 50% no-repeat;
@@ -28,7 +23,6 @@
   .hero {
     width: 150px;
     height: 150px;
-
   }
 }
 #about {
@@ -43,31 +37,36 @@
     color: $black;
     font-family: "finland-bold";
     text-transform: uppercase;
+    margin-bottom: 3%;
   }
   // background: $white;
 }
-.about-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  width: 350px;
-  height: auto;
-  margin: auto auto;
+// .about-container {
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: center;
+//   // width: 350px;
+//   // height: auto;
+//   // margin: auto auto;
+// }
+// .about-image {
+  //   height: auto;
+  //   width: 355px;
+  //   visibility: hidden;
+  //   display: none;
+  // }
+  .about-left {
   box-shadow: 0 0 3px rgba(0,0,0,.15);
-}
-.about-image {
-  height: auto;
-  width: 355px;
-  visibility: hidden;
-  display: none;
-}
-.about-left {
   background: rgba(255, 255, 255, 0.8);
-  font-family: $montserrat;
   line-height: 1.5;
   padding: 4%;
-  font-size: 20px;  
   display: flex;
+  flex-direction: column;
+  // text-align: center;
+  p {
+    font-family: $montserrat;
+    font-size: 16px;  
+  }
 }
 
 @media only screen and (min-width: 678px) {
@@ -91,6 +90,11 @@
 
   }
   .about-left {
+
+    p {
+      font-size: 20px;
+
+    }
     // height: 200px;
     // font-size: 14px;
     // padding: 2% 2% 0 2%;

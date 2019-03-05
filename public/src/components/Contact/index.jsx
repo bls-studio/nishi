@@ -22,7 +22,13 @@ const Contact = () => (
         <div>P: (424) 361-5001</div>
         <div>E: info@nishipokeramen.com</div>
       </div>
-      <div className="plug">Web design by <a href="https://www.blakeswl.me/" target="_blank" >BLS Studio</a></div>
+      {/* <h4>Find us </h4>
+      <div className="icons">
+        <a href="https://www.instagram.com/nishipokeramen/" target="_blank"><Icon icon={instagram} size={30}/></a>
+        <a href="https://www.yelp.com/biz/nishi-poke-and-ramen-bistro-los-angeles-3" target="_blank"><Icon icon={yelp} size={30} /></a>
+        <a href="https://www.facebook.com/nishipokeramen/" target="_blank"><Icon icon={facebookSquare} size={30}/></a>
+      </div> */}
+      <div className="plug">Designed and developed by <a href="https://www.blakeswl.me/" target="_blank" >BLS Studio</a></div>
     </div>
   </div>
 );
