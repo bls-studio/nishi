@@ -1,6 +1,7 @@
 import React from 'react';
 
-const transpoke = 'https://s3.amazonaws.com/nishi-blakeswl/ramenTrans.png';
+const tonRamen = 'https://s3.amazonaws.com/nishi-blakeswl/ramenTrans.png';
+
 
 import './ramenMenu.scss';
 
@@ -40,7 +41,7 @@ const RamenMenu = () => (
         </div>
       </div>
       <div className="ramenLeft">
-        <img src={transpoke} className="ramenImage1" alt="ramen"  data-aos-offset="500" data-aos-duration="200" data-aos-easing="linear"/>
+        <img src={tonRamen} className="ramenImage1" alt="ramen"  data-aos-offset="500" data-aos-duration="200" data-aos-easing="linear"/>
         <h3 className="ramenTitle">Tonkatsu</h3>
       </div>
     </div>
