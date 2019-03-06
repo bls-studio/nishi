@@ -1,54 +1,99 @@
-import React from 'react';
-
-const tonRamen = 'https://s3.amazonaws.com/nishi-blakeswl/ramenTrans.png';
-
-
+import React, { Component } from 'react';
 import './ramenMenu.scss';
+
+// Icons
+import { Icon } from 'react-icons-kit';
+import {circleRight} from 'react-icons-kit/icomoon/circleRight';
+import {circleLeft} from 'react-icons-kit/icomoon/circleLeft';
+
+// Images
+const tonRamen = 'https://s3.amazonaws.com/nishi-blakeswl/ramenTrans.png';
+const misoRamen = 'https://s3.amazonaws.com/nishi-blakeswl/pmmiso_clipped_rev_1.png';
+const shoyuRamen = 'https://s3.amazonaws.com/nishi-blakeswl/pmshoyu_clipped_rev_1.png';
+const veggieRamen = 'https://s3.amazonaws.com/nishi-blakeswl/pmveg_clipped_rev_1.png';
+
 
 const menuPDF = 'https://s3.amazonaws.com/nishi-blakeswl/menu.pdf';
 
 
-const RamenMenu = () => (
-  <div id="ramenCon">
-    <h3 className="menu-category">Ramen</h3>
-    <div id="ramenMenu">
-      <div className="ramenRight">
-        <div className="left_left">
-          <div id="ramenItems">
-            <div className="itemNprice">
-              <h3 className="item tonkatsu">Tonkatsu</h3>
-            </div>
-            <p>Pork broth, pork chashu, green onion, spinach, bean sprouts, seaweed.</p>
-          </div>
-          <div id="ramenItems">
-            <div className="itemNprice">
-                <h3 className="item">Spicy Miso 🌶</h3>
+export default class RamenMenu extends Component {
+  constructor() {
+    super();
+    
+    this.state = {
+      // ramenImg: [tonRamen, misoRamen, shoyuRamen, veggieRamen]
+      // tonkatsu: [tonRamen, "Tonkatsu"], 
+      // miso: [misoRamen, "Spicy Miso"], 
+      // shoyu: [shoyuRamen, "Shoyu"], 
+      // vegetarian: [veggieRamen, "Vegetarian"]
+    }
+    // this.handleClick = this.handleClick.bind(this);
+  }
+
+  // handleNext() {
+  //   let ramen = this.state.ramenImg, ramenImage;
+  //   for (let i = 0; i < ramen.length; i++) {
+  //     ramenImage = ramen[3];
+  //     console.log(ramenImage)
+  //   }
+  //   return ramenImage;
+  // }
+  // handleClick() {
+  //   console.log('clicked')
+  // }
+  render() {
+    return(
+      <div id="ramenCon">
+        <h3 className="menu-category">Ramen</h3>
+        <div id="ramenMenu">
+          <div className="ramenRight">
+            <div className="left_left">
+              <div id="ramenItems">
+                <div className="itemNprice">
+                  <h3 className="item tonkatsu" onClick={this.handleClick}>Tonkatsu</h3>
+                </div>
+                <p>Pork broth, pork chashu, green onion, spinach, bean sprouts, seaweed.</p>
               </div>
-              <p>Miso broth, pork chashu, green onion, spinach, bean sprouts, cabbage, bamboo shoots, seaweed.</p>
+              <div id="ramenItems">
+                <div className="itemNprice">
+                    <h3 className="item">Spicy Miso 🌶</h3>
+                  </div>
+                  <p>Miso broth, pork chashu, green onion, spinach, bean sprouts, cabbage, bamboo shoots, seaweed.</p>
+                </div>
+              <div id="ramenItems">
+                <div className="itemNprice">
+                  <h3 className="item">Chicken Shoyu</h3>
+                </div>
+                <p>Chicken Broth, Chicken, White Onions, Bamboo Shoots, Seaweed, Alfalfa Sprouts.</p>
+              </div>
+              <div id="ramenItems">
+                <div className="itemNprice">
+                  <h3 className="item">Vegetarian</h3>
+                </div>
+                <p>Sesame miso broth, broccoli, tofu, corn, bean sprouts, spring mix, sesame oil.</p>
+              </div>
             </div>
-          <div id="ramenItems">
-            <div className="itemNprice">
-              <h3 className="item">Chicken Shoyu</h3>
-            </div>
-            <p>Chicken Broth, Chicken, White Onions, Bamboo Shoots, Seaweed, Alfalfa Sprouts.</p>
           </div>
-          <div id="ramenItems">
-            <div className="itemNprice">
-              <h3 className="item">Vegetarian</h3>
-            </div>
-            <p>Sesame miso broth, broccoli, tofu, corn, bean sprouts, spring mix, sesame oil.</p>
+          <div className="ramenLeft">
+            <img src={tonRamen} className="ramenImage1" alt="ramen"/>
+            <h3 className="ramenTitle">Tonkatsu</h3>
+
+            {/* {this.state.ramenImg.forEach(ramen => { */}
+              {/* <img src={this.handleNext()} alt="" className="ramenImage1"/> */}
+            {/* })} */}
+              {/* <Icon icon={circleRight} /> */}
           </div>
         </div>
+          {/* <div className="menu-download"><a href={menuPDF} target="_blank">↠ View our full menu HERE ↞</a></div> */}
+    
+        <div className="menu-download"><h3>↠ View our full</h3>{'  '}<a href={menuPDF} target="_blank" rel="alternate">MENU HERE</a><h3>↞</h3></div>
       </div>
-      <div className="ramenLeft">
-        <img src={tonRamen} className="ramenImage1" alt="ramen"  data-aos-offset="500" data-aos-duration="200" data-aos-easing="linear"/>
-        <h3 className="ramenTitle">Tonkatsu</h3>
-      </div>
-    </div>
-      {/* <div className="menu-download"><a href={menuPDF} target="_blank">↠ View our full menu HERE ↞</a></div> */}
+    )
+  }
+};
+  // {/* <img src={this.handleNext} className="ramenImage1" alt="ramen"  data-aos-offset="500" data-aos-duration="200" data-aos-easing="linear"/> */} */}
+  // {/* <h3 className="ramenTitle">{this.state.ramenImg}</h3>
+  // {/* <button onClick={this.handleNext.bind(this)} > */}
 
-    <div className="menu-download"><h3>↠ View our full</h3>{'  '}<a href={menuPDF} target="_blank" rel="alternate">MENU HERE</a><h3>↞</h3></div>
-  </div>
-);
-
-export default RamenMenu;
+{/* </button> */}
+// onClick={this.handleNext.bind(this)}

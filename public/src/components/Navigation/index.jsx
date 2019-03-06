@@ -57,7 +57,10 @@ export default class Navigation extends Component {
               <li><a href="#location" className="bm-item-list">Location</a></li>
               <li><a href="#gallery" className="bm-item-list">Gallery</a></li>
               <li><a href="#contact" className="bm-item-list">Contact</a></li>
-              <li><a href="https://ordering.chownow.com/order/9755/locations?add_cn_ordering_class=true" target="_blank" className="order" style={this.state.order}>Order Now</a></li>
+              <div className="order" style={this.state.order}>
+              <li><a href="https://ordering.chownow.com/order/9755/locations?add_cn_ordering_class=true" target="_blank" >Order Now</a></li>
+
+              </div>
             </ul>
           </nav>
         </div>
