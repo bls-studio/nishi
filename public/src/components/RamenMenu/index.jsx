@@ -21,13 +21,14 @@ export default class RamenMenu extends Component {
     super();
     
     this.state = {
-      // ramenImg: [tonRamen, misoRamen, shoyuRamen, veggieRamen]
+      ramenName: ["Tonkotsu", "Spicy Miso 🌶", "Chicken Shoyu", "Vegetarian"],
+      // ramenImg: [tonRamen: , misoRamen, shoyuRamen, veggieRamen]
       // tonkatsu: [tonRamen, "Tonkatsu"], 
       // miso: [misoRamen, "Spicy Miso"], 
       // shoyu: [shoyuRamen, "Shoyu"], 
       // vegetarian: [veggieRamen, "Vegetarian"]
     }
-    // this.handleClick = this.handleClick.bind(this);
+    this.handleClick = this.handleClick.bind(this);
   }
 
   // handleNext() {
@@ -38,10 +39,19 @@ export default class RamenMenu extends Component {
   //   }
   //   return ramenImage;
   // }
-  // handleClick() {
-  //   console.log('clicked')
-  // }
+  handleClick() {
+    let ramenName = this.state.ramenName;
+    for (let i = 0; i < ramenName.length; i++) {
+      if (ramenName[i] === "Tonkotsu") {
+        console.log('yes', ramenName[i])
+      } else {
+        console.log('no')
+      }
+    }
+    // console.log('clicked', this.state.ramenName)
+  }
   render() {
+    let ramen = this.state.ramenName
     return(
       <div id="ramenCon">
         <h3 className="menu-category">Ramen</h3>
@@ -50,25 +60,25 @@ export default class RamenMenu extends Component {
             <div className="left_left">
               <div id="ramenItems">
                 <div className="itemNprice">
-                  <h3 className="item tonkatsu" onClick={this.handleClick}>Tonkatsu</h3>
+                  <h3 className="item tonkatsu" onClick={this.handleClick}>{this.state.ramenName[0]}</h3>
                 </div>
                 <p>Pork broth, pork chashu, green onion, spinach, bean sprouts, seaweed.</p>
               </div>
               <div id="ramenItems">
                 <div className="itemNprice">
-                    <h3 className="item">Spicy Miso 🌶</h3>
+                    <h3 className="item" onClick={this.handleClick}>{this.state.ramenName[1]}</h3>
                   </div>
                   <p>Miso broth, pork chashu, green onion, spinach, bean sprouts, cabbage, bamboo shoots, seaweed.</p>
                 </div>
               <div id="ramenItems">
                 <div className="itemNprice">
-                  <h3 className="item">Chicken Shoyu</h3>
+                  <h3 className="item">{this.state.ramenName[2]}</h3>
                 </div>
                 <p>Chicken Broth, Chicken, White Onions, Bamboo Shoots, Seaweed, Alfalfa Sprouts.</p>
               </div>
               <div id="ramenItems">
                 <div className="itemNprice">
-                  <h3 className="item">Vegetarian</h3>
+                  <h3 className="item">{this.state.ramenName[3]}</h3>
                 </div>
                 <p>Sesame miso broth, broccoli, tofu, corn, bean sprouts, spring mix, sesame oil.</p>
               </div>
@@ -76,7 +86,7 @@ export default class RamenMenu extends Component {
           </div>
           <div className="ramenLeft">
             <img src={tonRamen} className="ramenImage1" alt="ramen"/>
-            <h3 className="ramenTitle">Tonkatsu</h3>
+            <h3 className="ramenTitle">Tonkotsu</h3>
 
             {/* {this.state.ramenImg.forEach(ramen => { */}
               {/* <img src={this.handleNext()} alt="" className="ramenImage1"/> */}
