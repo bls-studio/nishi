@@ -36,7 +36,7 @@ export default class Navigation extends Component {
         <Menu left id="burger" pageWrapId={ "page-wrap" } outerContainerId={ "outer-container" }>
           <nav className="nav">
             <ul>
-              <li><a href="#" className="bm-item-list">Home</a></li>
+              <li><a href="#home" className="bm-item-list">Home</a></li>
               <li><a href="#menu" className="bm-item-list">Menu</a></li>
               <li><a href="#location" className="bm-item-list">Location</a></li>
               <li><a href="#gallery" className="bm-item-list">Gallery</a></li>
@@ -51,7 +51,7 @@ export default class Navigation extends Component {
               <img src={logo} alt="nishi logo" className="nishi-logo"/>
             </div>
             <ul className="navbar-item">
-              <li><a href="#" className="bm-item-list">Home</a></li>
+              <li><a href="#home" className="bm-item-list">Home</a></li>
               <li><a href="#menu" className="bm-item-list">Menu</a></li>
               <li><a href="#location" className="bm-item-list">Location</a></li>
               <li><a href="#gallery" className="bm-item-list">Gallery</a></li>
