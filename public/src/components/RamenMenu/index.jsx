@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './ramenMenu.scss';
-import axios from 'axios'; 
 
 // Icons
 import { Icon } from 'react-icons-kit';
@@ -89,17 +88,9 @@ export default class RamenMenu extends Component {
             {/* })} */}
               {/* <Icon icon={circleRight} /> */}
           </div>
-        </div>
-          {/* <div className="menu-download"><a href={menuPDF} target="_blank">↠ View our full menu HERE ↞</a></div> */}
-    
+        </div>    
         <div className="menu-download"><h3>↠ View our full</h3>{'  '}<a href={menuPDF} target="_blank" rel="alternate">MENU HERE</a><h3>↞</h3></div>
       </div>
     )
   }
 };
-  // {/* <img src={this.handleNext} className="ramenImage1" alt="ramen"  data-aos-offset="500" data-aos-duration="200" data-aos-easing="linear"/> */} */}
-  // {/* <h3 className="ramenTitle">{this.state.ramenImg}</h3>
-  // {/* <button onClick={this.handleNext.bind(this)} > */}
-
-{/* </button> */}
-// onClick={this.handleNext.bind(this)}
