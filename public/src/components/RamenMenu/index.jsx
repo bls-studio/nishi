@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './ramenMenu.scss';
+import axios from 'axios'; 
 
 // Icons
 import { Icon } from 'react-icons-kit';
@@ -21,44 +22,32 @@ export default class RamenMenu extends Component {
     super();
     
     this.state = {
-      value: "Spicy Miso"
-      // ramenName: ["Tonkotsu", "Spicy Miso 🌶", "Chicken Shoyu", "Vegetarian"],
-      // ramenImg: [tonRamen, misoRamen, shoyuRamen, veggieRamen]
-      // tonkatsu: [tonRamen, "Tonkatsu"], 
-      // miso: [misoRamen, "Spicy Miso"], 
-      // shoyu: [shoyuRamen, "Shoyu"], 
-      // vegetarian: [veggieRamen, "Vegetarian"]
+      ramenName: "Tonkotsu 🐷",
+      ramenImg: tonRamen,
     }
-    this.handleClick = this.handleClick.bind(this);
+    this.tonkotsu = this.tonkotsu.bind(this);
+    this.spicy = this.spicy.bind(this);
+    this.shoyu = this.shoyu.bind(this);
+    this.vegetarian = this.vegetarian.bind(this);
   }
-  handleClick(e) {
-    e.preventDefault();
-    this.setState({value: e.target.value})
-    console.log(e.target.value, 'hello')
+  // componentDidMount() {
+  //   this.handleClick();
+  // }
+  tonkotsu(e) {
+    this.setState({ramenName: "Tonkotsu 🐷", ramenImg: tonRamen})
   }
-  // handleNext() {
-  //   let ramen = this.state.ramenImg, ramenImage;
-  //   for (let i = 0; i < ramen.length; i++) {
-  //     ramenImage = ramen[3];
-  //     console.log(ramenImage)
-  //   }
-  //   return ramenImage;
-  // }
-  // handleClick(e) {
-  //   e = this.state.ramenName;
-  //   console.log('ramen name clicked')
-  //   let ramenName = this.state.ramenName;
-  //   for (let i = 0; i < ramenName.length; i++) {
-  //     if (ramenName[i] === "Tonkotsu") {
-  //       console.log('yes', ramenName[i])
-  //     } else {
-  //       console.log('no')
-  //     }
-  //   }
-  //   // console.log('clicked', this.state.ramenName)
-  // }
+  spicy() {
+    this.setState({ramenName: "Spicy Miso 🌶", ramenImg: misoRamen})
+  }
+  shoyu() {
+    this.setState({ramenName: "Chicken Shoyu 🐔", ramenImg: shoyuRamen})
+  }
+  vegetarian() {
+    this.setState({ramenName: "Vegetarian 🥦", ramenImg: veggieRamen})
+  } 
+
   render() {
-    // let ramen = this.state.ramenName
+    let tonkotsu = this.state.ramenName[0];
     return(
       <div id="ramenCon">
         <h3 className="menu-category">Ramen</h3>
@@ -67,33 +56,33 @@ export default class RamenMenu extends Component {
             <div className="left_left">
               <div id="ramenItems">
                 <div className="itemNprice">
-                  <h3 className="item tonkotsu" value="Tonkotsu" onClick={this.handleClick}>Tonkotsu</h3>
+                  <h3 className="ramen" ref="title" onClick={this.tonkotsu}>Tonkotsu</h3>
                 </div>
                 <p>Pork broth, pork chashu, green onion, spinach, bean sprouts, seaweed.</p>
               </div>
               <div id="ramenItems">
                 <div className="itemNprice">
-                  <h3 className="item" onClick={this.handleClick} value="Spicy Miso">Spicy Miso</h3>
+                  <h3 className="ramen" onClick={this.spicy} value="Spicy Miso">Spicy Miso 🌶</h3>
                 </div>
                 <p>Miso broth, pork chashu, green onion, spinach, bean sprouts, cabbage, bamboo shoots, seaweed.</p>
               </div>
               <div id="ramenItems">
                 <div className="itemNprice">
-                  <h3 className="item">Chicken Shoyu</h3>
+                  <h3 className="ramen" onClick={this.shoyu}>Chicken Shoyu</h3>
                 </div>
                 <p>Chicken Broth, Chicken, White Onions, Bamboo Shoots, Seaweed, Alfalfa Sprouts.</p>
               </div>
               <div id="ramenItems">
                 <div className="itemNprice">
-                  <h3 className="item">Vegetarian</h3>
+                  <h3 className="ramen" onClick={this.vegetarian}>Vegetarian</h3>
                 </div>
                 <p>Sesame miso broth, broccoli, tofu, corn, bean sprouts, spring mix, sesame oil.</p>
               </div>
             </div>
           </div>
           <div className="ramenLeft">
-            <img src={tonRamen} className="ramenImage1" alt="ramen"/>
-            <h3 className="ramenTitle">{this.state.value}</h3>
+            <img src={this.state.ramenImg} className="ramenImage1" alt="ramen" ref="img"/>
+            <h3 className="ramenTitle">{this.state.ramenName}</h3>
 
             {/* {this.state.ramenImg.forEach(ramen => { */}
               {/* <img src={this.handleNext()} alt="" className="ramenImage1"/> */}

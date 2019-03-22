@@ -9,5 +9,7 @@
     "build": "cd public && yarn run build",
     "webpack": "cd public && yarn run webpack"
   },
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
