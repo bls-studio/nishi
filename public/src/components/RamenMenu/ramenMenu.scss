@@ -31,8 +31,9 @@
   -webkit-filter: drop-shadow(40px 40px 20px #C0C0C0);
 }
 .ramenTitle {
-  font-size: 80px;
-  font-family: "finland-bold";
+  font-size: 55px;
+  font-family: "finland";
+  font-weight: 1000;
   text-transform: uppercase;
   text-align: center;
   color: $black;
@@ -109,5 +110,8 @@
     h3, a {
       font-size: 60px;
     }
+  }
+  .ramenTitle {
+    font-size: 80px;
   }
 }
