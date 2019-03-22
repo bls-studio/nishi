@@ -46,7 +46,6 @@ export default class RamenMenu extends Component {
   } 
 
   render() {
-    let tonkotsu = this.state.ramenName[0];
     return(
       <div id="ramenCon">
         <h3 className="menu-category">Ramen</h3>
