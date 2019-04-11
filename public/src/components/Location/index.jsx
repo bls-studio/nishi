@@ -23,7 +23,7 @@ const Location = () => (
           <h3>Culver City</h3>
           <p>4263 Overland Ave.</p>
           <p>Culver City, CA 90230</p>
-          <p>(424) 361-5001</p>
+          <p>(310) 837-5001</p>
           <p>M-Sat 11:30a - 9:00p</p>
           <p>Sun 12:00p - 7:30p</p>
           <div className="location-buttons">
