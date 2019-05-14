@@ -3,6 +3,7 @@ import { Parallax, ParallaxBanner } from 'react-scroll-parallax';
 
 
 const transPoke = 'https://s3.amazonaws.com/nishi-blakeswl/pokeTransLarge.png';
+import pokegif from '../../../dist/resized/pokegif3.gif';
 
 import './pokeMenu.scss';
 

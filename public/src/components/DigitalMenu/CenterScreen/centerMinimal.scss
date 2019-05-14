@@ -1,0 +1,137 @@
+// @import '../../App/global.scss';
+
+
+@media only screen and (min-width: 1080px) {
+
+  #digitalCenter {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background: #E5E5E5;
+    // width: 100%;
+    // height: 100vh;
+    // background: #E5E5E5;
+    // display: flex;
+    // align-items: center;
+    // justify-content: center;
+  
+    * {
+      // font-family: "finland";
+      color: #484848;
+    }
+  
+  }
+  .digital_middle_left {
+    position: absolute;
+    left: 112px;
+    bottom: 92px;
+    filter: drop-shadow(40px 40px 20px #C0C0C0);
+  }
+  .digital_middle_right {
+    width: 50%;
+    position: absolute;
+    right: 0px;
+    bottom: 50px;
+    h1 {
+      text-align: center;
+      font-size: 140px;
+      font-weight: 1000;
+      text-transform: uppercase;
+      position: absolute;
+      top: -250px;
+      right: 30px;
+    }
+    .digital_prices {
+      position: absolute;
+      display: flex;
+      width: 90%;
+      justify-content: space-evenly;
+      right: 34px;
+      top: -100px;
+      text-align: center;
+  
+      h3 {
+        font-weight: 1000;
+        font-size: 70px;
+      }
+    }
+    img {
+      filter: drop-shadow(40px 40px 20px #C0C0C0);
+      width: 100%;
+      height: auto;
+    }
+  }
+}
+
+    // img {
+    //   width: 100%;
+    //   height: 100%;
+    // }
+
+// .logo {
+//   position: absolute;
+//   width: 400px;
+//   height: auto;
+//   z-index: 0;
+//   right: 0;
+//   transform: rotate(30deg);
+// }
+// // .center-container {
+// //   background: #1D1D1B33;
+// //   width: 100%;
+// //   height: 100%;
+// // }
+// .header {
+//   position: absolute;
+//   top: 10%;
+//   right: 2%;
+
+//   h1 {
+//     text-align: center;
+//     font-size: 140px;
+//     font-weight: 1000;
+//     color: $black;
+//     text-transform: uppercase;
+//   }
+// }
+// .animatingImg {
+//   position: absolute;
+//   top: 22%;
+//   right: 6%;
+//   width: 800px;
+//   height: auto;
+//   filter: drop-shadow(40px 40px 20px #C0C0C0);
+
+//   // background: white;
+//   // border-radius: 50% 50%
+// }
+// #centerRight {
+//   // position: absolute;
+//   // background: url(https://cdn.pixabay.com/photo/2014/11/05/12/08/chalkboard-517818_960_720.jpg) 50% 50% no-repeat;
+//   // background-size: cover;
+//   // box-shadow: 20px 20px 20px #A9A9A9;
+//   // color: $white;
+//   left: 5%;
+//   // top: 5%;
+//   // height: 90%;
+//   // width: 45%;
+//   // padding: 3%;
+// }
+// .steps {
+//   h3 {
+//     color: $white;
+//     font-size: 60px;
+//     font-weight: 600;
+//   }
+//   p {
+//     color: $white;
+//     font-size: 50px;
+//     font-weight: 400;
+//   }
+// }
+// .extras {
+//   position: absolute;
+//   right: 3%;
+//   bottom: 3%;
+// }

@@ -1,0 +1,66 @@
+// @import '../../App/global.scss';
+
+#digitalLeft {
+  width: 100vw;
+  height: 100vh;
+  background: #E5E5E5;
+  position: relative;
+  z-index: 1;
+
+  * {
+    // font-family: "finland";
+  }
+}
+
+// .pokeImage1 {
+//   position: absolute;
+//   width: 800px;
+//   height: auto;
+//   top: -21%;
+//   z-index: 0;
+//   left: 3%;
+//   filter: drop-shadow(40px 40px 20px #C0C0C0);
+// }
+// .leftHeader h3 {
+//   position: absolute;
+//   font-size: 140px;
+//   font-weight: 1000;
+//   color: #484848;
+//   bottom: 32%;
+//   left: 8%;
+//   text-transform: uppercase;
+// }
+// .leftItems {
+//   position: absolute;
+//   height: 90%;
+//   width: 45%;
+//   right: 5%;
+//   top: 5%;
+//   background: url(https://images.unsplash.com/photo-1506968430777-bf7784a87f23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2251&q=80) 50% 50% no-repeat;
+//   background-size: cover;
+//   box-shadow: 20px 20px 20px #A9A9A9;
+// }
+// .left_left {
+//   width: 94%;
+//   height: 95%;
+//   background: rgba(0,0,0,.4);
+//   padding: 3%;
+//   margin: 0 auto;
+// }
+// .itemNprice {
+//   display: flex;
+//   justify-content: space-between;
+// }
+// .items {
+//   margin: 0 auto;
+//   h3 {
+//     color: #FFF7EC;
+//     font-size: 65px;
+//     font-weight: 600;
+//   }
+//   p {
+//     color: #FFF7EC;
+//     font-size: 55px;
+//     // font-weight: 400;
+//   }
+// }

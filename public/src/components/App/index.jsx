@@ -3,6 +3,8 @@ import 'smoothscroll';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import './global.scss';
+import { Route, Switch } from 'react-router-dom';
+
 
 
 import Navigation from '../Navigation';
@@ -13,6 +15,10 @@ import Gallery from '../Gallery';
 import Contact from '../Contact';
 import PokeMenu from '../PokeMenu';
 import RamenMenu from '../RamenMenu';
+
+import Left from '../DigitalMenu/LeftScreen';
+import Center from '../DigitalMenu/CenterScreen';
+import Right from '../DigitalMenu/RightScreen';
 
 AOS.init({
   // Global settings:
@@ -40,13 +46,19 @@ const App = () => (
   <div id="outer-container" className="parallax">
     <Navigation />
     <Landing />
-    {/* <Menu /> */}
     <PokeMenu />
     <RamenMenu />
     <Location />
     <Gallery />
     <Contact />
+    
+    <Switch>
+      <Route exact path="/left" component={Left}/>
+      <Route exact path="/middle" component={Center}/>
+      <Route exact path="/right" component={Right}/>
+    </Switch>
   </div>
 );
+{/* <Menu /> */}
 
 export default App;

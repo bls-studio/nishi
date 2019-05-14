@@ -1,5 +1,9 @@
 import React from 'react';
 import './landing.scss';
+import { Slide } from 'react-slideshow-image';
+
+
+
 import { Parallax, ParallaxBanner } from 'react-scroll-parallax';
 
 const hero = 'https://s3.amazonaws.com/nishi-blakeswl/cream.png';

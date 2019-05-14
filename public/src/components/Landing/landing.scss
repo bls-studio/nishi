@@ -27,6 +27,8 @@
 }
 #about {
   background-size: cover;
+  // background: url(https://s3.amazonaws.com/nishi-blakeswl/chalk.jpg) 50% 50% no-repeat;
+
   // width: 100%;
   // margin: 5%;
   // background: white;
@@ -107,6 +109,9 @@
   }
 }
 @media only screen and (min-width: 1080px) {
+  .landing {
+    width: 100%;
+  }
   #home {
     background-size: cover;
   }
@@ -114,6 +119,7 @@
     height: 100vh;
   }
   #about {
+    // width: 100%;
     max-width: 1080px;
     margin: 0 auto;
   }
