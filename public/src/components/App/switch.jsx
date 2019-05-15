@@ -14,7 +14,7 @@ import Contact from '../Contact';
 import PokeMenu from '../PokeMenu';
 import RamenMenu from '../RamenMenu';
 
-import Digital from '../DigitalMenu';
+// import Digital from '../DigitalMenu';
 // import Left from '../DigitalMenu/LeftScreen';
 // import Center from '../DigitalMenu/CenterScreen';
 // import Right from '../DigitalMenu/RightScreen';
@@ -50,7 +50,6 @@ const Switch = () => (
     <Location />
     <Gallery />
     <Contact />
-    <Digital />
   </div>
   );
   {/* </div> */}

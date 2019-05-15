@@ -7,7 +7,7 @@ import Left from '../DigitalMenu/LeftScreen';
 import Center from '../DigitalMenu/CenterScreen';
 import Right from '../DigitalMenu/RightScreen';
 // import Digital from '../DigitalMenu';
-import Home from './switch'
+import Home from './switch.jsx';
 
 const App = () => (
   <div id="outer-container" className="parallax">
