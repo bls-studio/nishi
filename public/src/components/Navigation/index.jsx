@@ -6,6 +6,7 @@ import { HashLink as Link } from 'react-router-hash-link';
 
 
 
+
 const logo = 'https://s3.amazonaws.com/nishi-blakeswl/download.png';
 
 export default class Navigation extends Component {
@@ -36,6 +37,7 @@ export default class Navigation extends Component {
   }
   render() {
     return (
+
       <div>
         <Menu left id="burger" pageWrapId={ "page-wrap" } outerContainerId={ "outer-container" }>
           <nav className="nav">
