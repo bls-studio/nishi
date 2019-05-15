@@ -47,16 +47,16 @@ const App = () => (
       <Route exact path="/left" component={Left}/>
       <Route exact path="/middle" component={Center}/>
       <Route exact path="/right" component={Right}/>
-    </Switch>
 
-    <Navigation />
-    <Landing />
-    <PokeMenu />
-    <RamenMenu />
-    <Location />
-    <Gallery />
-    <Contact />
+      <Navigation />
+      <Landing />
+      <PokeMenu />
+      <RamenMenu />
+      <Location />
+      <Gallery />
+      <Contact />
     
+    </Switch>
   </div>
 );
 {/* <Menu /> */}
