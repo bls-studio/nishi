@@ -2,7 +2,7 @@ import React from 'react';
 import './leftMinimal.scss';
 
 import transPoke from '../../../../dist/assets/pokeTransLarge.png';
-import left from '../../../../dist/assets/Artboard1.png';
+import left from '../../../../dist/assets/resizedRight.png';
 // import transPoke from '../../../dist/assets/sideview.png';
 
 

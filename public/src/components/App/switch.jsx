@@ -52,8 +52,6 @@ const Switch = () => (
     <Contact />
   </div>
   );
-  {/* </div> */}
-        {/* <div id="outer-container" className="parallax"> */}
-{/* <Menu /> */}
+
 
 export default Switch;

@@ -3,7 +3,7 @@ import './centerMinimal.scss';
 
 // images
 
-import middle from '../../../../dist/assets/Artboard17.png';
+import middle from '../../../../dist/assets/resizedByob.png';
 import poke1 from '../../../../dist/assets/steps/pokegif3.gif';
 
 
