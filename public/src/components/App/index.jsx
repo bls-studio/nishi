@@ -15,9 +15,10 @@ import Contact from '../Contact';
 import PokeMenu from '../PokeMenu';
 import RamenMenu from '../RamenMenu';
 
-import Left from '../DigitalMenu/LeftScreen';
-import Center from '../DigitalMenu/CenterScreen';
-import Right from '../DigitalMenu/RightScreen';
+import Digital from '../DigitalMenu';
+// import Left from '../DigitalMenu/LeftScreen';
+// import Center from '../DigitalMenu/CenterScreen';
+// import Right from '../DigitalMenu/RightScreen';
 
 AOS.init({
   // Global settings:
@@ -43,20 +44,14 @@ AOS.init({
 });
 const App = () => (
   <div id="outer-container" className="parallax">
-    <Switch>
-      <Route exact path="/left" component={Left}/>
-      <Route exact path="/middle" component={Center}/>
-      <Route exact path="/right" component={Right}/>
-
-      <Navigation />
-      <Landing />
-      <PokeMenu />
-      <RamenMenu />
-      <Location />
-      <Gallery />
-      <Contact />
-    
-    </Switch>
+    <Navigation />
+    <Landing />
+    <PokeMenu />
+    <RamenMenu />
+    <Location />
+    <Gallery />
+    <Contact />
+    <Digital />
   </div>
 );
 {/* <Menu /> */}
