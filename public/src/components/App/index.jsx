@@ -3,13 +3,12 @@ import 'smoothscroll';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import './global.scss';
-import { Route, Switch } from 'react-router-dom';
+import { Route, Switch  } from 'react-router-dom';
 
 
 
 import Navigation from '../Navigation';
 import Landing from '../Landing';
-import Menu from '../Menu';
 import Location from '../Location';
 import Gallery from '../Gallery';
 import Contact from '../Contact';
@@ -44,6 +43,12 @@ AOS.init({
 });
 const App = () => (
   <div id="outer-container" className="parallax">
+    <Switch>
+      <Route exact path="/left" component={Left}/>
+      <Route exact path="/middle" component={Center}/>
+      <Route exact path="/right" component={Right}/>
+    </Switch>
+
     <Navigation />
     <Landing />
     <PokeMenu />
@@ -52,11 +57,6 @@ const App = () => (
     <Gallery />
     <Contact />
     
-    <Switch>
-      <Route exact path="/left" component={Left}/>
-      <Route exact path="/middle" component={Center}/>
-      <Route exact path="/right" component={Right}/>
-    </Switch>
   </div>
 );
 {/* <Menu /> */}
