@@ -31,10 +31,18 @@
   height: 80%;
   // filter: drop-shadow(40px 40px 20px #C0C0C0);
   margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 
-  // img {
-  //   width: 100%;
-  // }
+ .right__title {
+   font-size: 120px;
+   text-align: center;
+   color: #484848;
+   font-weight: 1000;
+   text-transform: uppercase;
+   padding-top: 15%;
+  }
 }
 // .top {
 //   height: 40%;
@@ -52,7 +60,9 @@
 
 .slide-container {
   width: 70%;
-  margin: auto; }
+  margin: auto; 
+  filter: drop-shadow(40px 40px 20px #C0C0C0);
+}
 
 h3 {
   text-align: center; }
@@ -63,7 +73,7 @@ h3 {
   justify-content: center;
   background-size: cover;
   background-position: center 30%;
-  height: 600px;
+  height: 300px;
 }
 
 .each-slide span {
