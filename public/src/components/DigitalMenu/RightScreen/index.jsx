@@ -48,10 +48,6 @@ import right from '../../../../dist/assets/Artboard11.png';
 
 const Right = () => (
   <div id="digitalRight">
-    <div className="digital_slideshow">
-      {/* <img src={bowl} alt=""/> */}
-      <img src={sushiMenu} alt=""/>
-    </div>
     <div className="digital_right_screen">
       <h1 className="right__title">Signature Rolls</h1>
       {/* <img src={sushiMenu} alt=""/> */}
@@ -74,6 +70,10 @@ const Right = () => (
         </div>
 
       </Slide>
+    </div>
+    <div className="digital_slideshow">
+      {/* <img src={bowl} alt=""/> */}
+      <img src={sushiMenu} alt=""/>
     </div>
   </div>
 );
