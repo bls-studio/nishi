@@ -11,7 +11,7 @@ import Soon from '../ComingSoon';
 
 const App = () => (
   <div id="outer-container" className="parallax">
-    <Right />
+    <Center />
     {/* <Switch>
       <Route exact path="/" component={Home}/>
       <Route exact path="/right" component={Left}/>

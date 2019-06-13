@@ -2,9 +2,7 @@ import React from 'react';
 import './right.scss';
 import { Slide, Fade } from 'react-slideshow-image';
 import sushi from '../../../../dist/assets/IMG_2563.jpg'
-import poke from '../../../../dist/assets/don-daskalo-738393-unsplash.jpg';
-import bowl from '../../../../dist/assets/hussain-ibrahim-1487946-unsplash.jpg';
-import veggie from '../../../../dist/assets/jonathan-borba-1397924-unsplash.jpg'
+
 
 
 const tunaRoll = 'https://images.unsplash.com/photo-1559410545-0bdcd187e0a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80';
@@ -44,22 +42,16 @@ const fadeImages = [
 ];
  
 
-import right from '../../../../dist/assets/Artboard11.png';
 
 const Right = () => (
   <div id="digitalRight">
     <div className="digital_right_screen">
       <h1 className="right__title">Signature Rolls</h1>
-      {/* <img src={sushiMenu} alt=""/> */}
       <Slide {...properties}>
         <div className="each-slide">
           <div style={{'backgroundImage': `url(${slideImages[0]})`}}>
           </div>
         </div>
-        {/* <div className="each-slide">
-          <div style={{'backgroundImage': `url(${slideImages[3]})`}}>
-          </div>
-        </div> */}
         <div className="each-slide">
           <div style={{'backgroundImage': `url(${slideImages[1]})`}}>
           </div>
@@ -68,52 +60,13 @@ const Right = () => (
           <div style={{'backgroundImage': `url(${slideImages[2]})`}}>
           </div>
         </div>
-
       </Slide>
     </div>
     <div className="digital_slideshow">
-      {/* <img src={bowl} alt=""/> */}
       <img src={sushiMenu} alt=""/>
     </div>
   </div>
 );
 export default Right;
-{/* <img src={right} alt=""/> */}
-    {/* <img src={roll} className="roll" alt=""/>
-    <img src={coke} className="coke" alt=""/> */}
-    {/* <div className="rightHeader">
-      <h1>Drinks & Snacks on the Go</h1>
-    </div> */}
-    {/* <div className="snackItems">
-      <h2>Premade Rolls</h2>
-      <div className="item">
-        <div className="itemNprice">
-          <h3>Cup Ramen</h3>
-          <h3>$$$</h3>
-        </div>
-        <div className="itemNprice">
-          <h3>California Roll</h3>
-          <h3>$$$</h3>
-        </div>
-        <div className="itemNprice">
-          <h3>Spicy Tuna Roll</h3>
-          <h3>$$$</h3>
-        </div>
-        <div className="itemNprice">
-          <h3>Salmon Roll</h3>
-          <h3>$$$</h3>
-        </div>
-      </div>
-      <h2>Drinks</h2>
-      <div className="item">
-        <div className="itemNprice">
-          <h3>Can soda</h3>
-          <h3>$$$</h3>
-        </div>
-        <div className="itemNprice">
-          <h3>Thai Tea</h3>
-          <h3>$$$</h3>
-        </div>
-      </div>
-    </div> */}
+
     
