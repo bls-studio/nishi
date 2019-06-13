@@ -14,10 +14,7 @@ import Contact from '../Contact';
 import PokeMenu from '../PokeMenu';
 import RamenMenu from '../RamenMenu';
 
-// import Digital from '../DigitalMenu';
-// import Left from '../DigitalMenu/LeftScreen';
-// import Center from '../DigitalMenu/CenterScreen';
-// import Right from '../DigitalMenu/RightScreen';
+
 
 AOS.init({
   // Global settings:
