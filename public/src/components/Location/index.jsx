@@ -4,6 +4,17 @@ import './location.scss';
 const Location = () => (
   <div id="page-wrap">
     <div id="location">
+    <div className="location-item midCity" data-aos="fade-up">
+        <div className="location-overlay">
+          <h3>La Cienaga/Jefferson</h3>
+          <h3>OPEN NOW!</h3>
+          <p>3338 S. La Cienaga Blvd.</p>
+          <p>(323) 413-2223</p>
+          <p>M-Fri 11:00a - 9p</p>
+          <p>Sat 11:00a - 8:30p</p>
+          <p>Sun CLOSED</p>
+        </div>
+      </div>
       <div className="location-item westLA" data-aos="fade-up">
         <div className="location-overlay">
           <h3>West LA</h3>
@@ -46,14 +57,7 @@ const Location = () => (
           </div>
         </div>
       </div>
-      <div className="location-item midCity" data-aos="fade-up">
-        <div className="location-overlay">
-          <h3>La Cienaga/Jefferson</h3>
-          <h3>COMING SOON</h3>
-          {/* <p>3338 S. La Cienaga Blvd.</p>
-          <p></p> */}
-        </div>
-      </div>
+
     </div>
   </div>
 );
