@@ -10,13 +10,13 @@ import Home from './switch.jsx';
 
 const App = () => (
   <div id="outer-container" className="parallax">
-    <Right />
-    {/* <Switch>
+    {/* <Right /> */}
+    <Switch>
       <Route exact path="/" component={Home}/>
       <Route exact path="/right" component={Left}/>
       <Route exact path="/center" component={Center}/>
       <Route exact path="/left" component={Right}/>
-    </Switch> */}
+    </Switch>
   </div>
 );
 {/* <Menu /> */}
