@@ -8,6 +8,7 @@ const Location = () => (
         <div className="location-overlay">
           <h3>La Cienaga/Jefferson</h3>
           <h3>OPEN NOW!</h3>
+          <p>***POKE & ROLLS ONLY***</p>
           <p>3338 S. La Cienaga Blvd.</p>
           <p>(323) 413-2223</p>
           <p>M-Fri 11:00a - 9p</p>
