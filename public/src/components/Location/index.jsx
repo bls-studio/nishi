@@ -7,13 +7,16 @@ const Location = () => (
     <div className="location-item midCity" data-aos="fade-up">
         <div className="location-overlay">
           <h3>La Cienaga/Jefferson</h3>
-          <h3>OPEN NOW!</h3>
           <p>***POKE & ROLLS ONLY***</p>
           <p>3338 S. La Cienaga Blvd.</p>
           <p>(323) 413-2223</p>
           <p>M-Fri 11:00a - 9p</p>
           <p>Sat 11:00a - 8:30p</p>
           <p>Sun CLOSED</p>
+          <div className="location-buttons">
+            {/* <a href="https://ordering.chownow.com/order/9755/locations?add_cn_ordering_class=true" target="_blank" className="location-order" rel="external noreferrer">Order Now</a> */}
+            <a href="https://maps.google.com/?q=3338 S. La Cienaga Blvd., Los Angeles, CA 90016" target="_blank" className="location-directions" rel="external noreferrer">Get Directions</a>
+          </div>
         </div>
       </div>
       <div className="location-item westLA" data-aos="fade-up">
@@ -51,7 +54,7 @@ const Location = () => (
           <p>Buena Park, CA 90621</p>
           <p>(714) 522-2667</p>
           <p>M-Sat 11:00a - 9:00p</p>
-          <p>Sun CLOSED</p>
+          <p>Sun 12:00p - 7:00p</p>
           <div className="location-buttons">
             <a href="https://ordering.chownow.com/order/9755/locations?add_cn_ordering_class=true" target="_blank" className="location-order" rel="external noreferrer">Order Now</a>
             <a href="https://maps.google.com/?q=6242 Beach Blvd. #A, Buena Park, CA 90621" target="_blank" className="location-directions" rel="external noreferrer">Get Directions</a>

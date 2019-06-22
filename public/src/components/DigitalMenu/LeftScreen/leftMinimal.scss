@@ -7,6 +7,9 @@
   position: relative;
   z-index: 1;
 
+  img {
+    transform: scale(.6)
+  }
   * {
     font-family: "finland";
   }
