@@ -1,14 +1,16 @@
 // @import '../../App/global.scss';
 
 #digitalLeft {
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  // height: 100vh;
   background: #E5E5E5;
   position: relative;
   z-index: 1;
 
   img {
-    transform: scale(.6)
+    transform: scale(0.71) translate(-394px, -218px);
+      // top: 0;
+    // left: 0;
   }
   * {
     font-family: "finland";
