@@ -10,8 +10,7 @@ const Location = () => (
           <p>***POKE & ROLLS ONLY***</p>
           <p>3338 S. La Cienaga Blvd.</p>
           <p>(323) 413-2223</p>
-          <p>M-Fri 11:00a - 9p</p>
-          <p>Sat 11:00a - 8:30p</p>
+          <p>M-Sat 11:00a - 9p</p>
           <p>Sun CLOSED</p>
           <div className="location-buttons">
             {/* <a href="https://ordering.chownow.com/order/9755/locations?add_cn_ordering_class=true" target="_blank" className="location-order" rel="external noreferrer">Order Now</a> */}
