@@ -44,9 +44,9 @@ export default class Navigation extends Component {
             <ul>
               <li><Link smooth to="#home" className="bm-item-list">Home</Link></li>
               <li><Link smooth to="#menu" className="bm-item-list">Menu</Link></li>
-              <li><Link smooth to="#location" className="bm-item-list">Location</Link></li>
+              <li><Link smooth to="#location" className="bm-item-list">Locations</Link></li>
               <li><Link smooth to="#gallery" className="bm-item-list">Gallery</Link></li>
-              <li><Link smooth to="#contact" className="bm-item-list">Contact</Link></li>
+              {/* <li><Link smooth to="#contact" className="bm-item-list">Contact</Link></li> */}
               <li className="order"><a href="https://ordering.chownow.com/order/9755/locations?add_cn_ordering_class=true" target="_blank">Order Now</a></li>
             </ul>
           </nav>
@@ -59,9 +59,9 @@ export default class Navigation extends Component {
             <ul className="navbar-item">
               <li><Link smooth to="#home" className="bm-item-list">Home</Link></li>
               <li><Link smooth to="#menu" className="bm-item-list">Menu</Link></li>
-              <li><Link smooth to="#location" className="bm-item-list">Location</Link></li>
+              <li><Link smooth to="#location" className="bm-item-list">Locations</Link></li>
               <li><Link smooth to="#gallery" className="bm-item-list">Gallery</Link></li>
-              <li><Link smooth to="#contact" className="bm-item-list">Contact</Link></li>
+              {/* <li><Link smooth to="#contact" className="bm-item-list">Contact</Link></li> */}
               <div className="order" style={this.state.order}>
                 <li><a href="https://ordering.chownow.com/order/9755/locations?add_cn_ordering_class=true" target="_blank" >Order Now</a></li>
               </div>
