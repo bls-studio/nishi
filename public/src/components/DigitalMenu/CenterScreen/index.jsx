@@ -3,7 +3,7 @@ import './centerMinimal.scss';
 import '../../DigitalMenu/snow.scss';
 // images
 
-import middle from '../../../../dist/assets/byobResized2.png';
+import middle from '../../../../dist/assets/fixedByob.png';
 import poke1 from '../../../../dist/assets/steps/pokegif3.gif';
 
 const Center = () => (

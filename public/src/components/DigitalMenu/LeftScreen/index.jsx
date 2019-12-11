@@ -4,7 +4,7 @@ import '../../DigitalMenu/snow.scss';
 
 
 // import left from '../../../../dist/assets/resizedRight.png';
-import left from '../../../../dist/assets/Artboard1.png';
+import left from '../../../../dist/assets/nishi_left_redblue.png';
 
 
 const Left = () => (
