@@ -4,19 +4,19 @@ import '../../DigitalMenu/snow.scss';
 
 
 // import left from '../../../../dist/assets/resizedRight.png';
-import left from '../../../../dist/assets/nishi_left_redblue.png';
+import left from '../../../../dist/assets/nishi_left.png';
 
 
 const Left = () => (
   <div id="digitalLeft">
-  <div class="winter-is-coming">
+  {/* <div class="winter-is-coming">
     <div class="snow snow--near"></div>
     <div class="snow snow--near snow--alt"></div>
     <div class="snow snow--mid"></div>
     <div class="snow snow--mid snow--alt"></div>
     <div class="snow snow--far"></div>
     <div class="snow snow--far snow--alt"></div>
-  </div>
+  </div> */}
     <img src={left} alt=""/>
   </div>
 );
