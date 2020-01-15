@@ -13,7 +13,7 @@ const Location = () => (
           <p>M-Sat 11:00a - 9p</p>
           <p>Sun CLOSED</p>
           <div className="location-buttons">
-            {/* <a href="https://ordering.chownow.com/order/9755/locations?add_cn_ordering_class=true" target="_blank" className="location-order" rel="external noreferrer">Order Now</a> */}
+            <a href="https://ordering.chownow.com/order/9755/locations/25651" target="_blank" className="location-order" rel="external noreferrer">Order Now</a>
             <a href="https://maps.google.com/?q=3338 S. La Cienaga Blvd., Los Angeles, CA 90016" target="_blank" className="location-directions" rel="external noreferrer">Get Directions</a>
           </div>
         </div>
