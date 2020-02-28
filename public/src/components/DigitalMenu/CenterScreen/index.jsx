@@ -3,8 +3,10 @@ import './centerMinimal.scss';
 import '../../DigitalMenu/snow.scss';
 // images
 
-import middle from '../../../../dist/assets/fixedByob.png';
+// import middle from '../../../../dist/assets/fixedByob.png';
 import poke1 from '../../../../dist/assets/steps/pokegif3.gif';
+import middle from '../../../../dist/assets/step-by-step.png';
+
 
 const Center = () => (
   <div id="digitalCenter">

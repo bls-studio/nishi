@@ -10,7 +10,9 @@ import Home from './switch.jsx';
 
 const App = () => (
   <div id="outer-container" className="parallax">
+    {/* <Right /> */}
     {/* <Left /> */}
+    {/* <Center /> */}
     <Switch>
       <Route exact path="/" component={Home}/>
       <Route exact path="/right" component={Left}/>

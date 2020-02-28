@@ -12,6 +12,8 @@ const roll = 'https://images.unsplash.com/photo-1559589311-5f288a90d311?ixlib=rb
 const salmon = 'https://images.unsplash.com/photo-1499125562588-29fb8a56b5d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3289&q=80';
 
 import sushiMenu from '../../../../dist/assets/sushi.png'
+import sushilist from '../../../../dist/assets/sushiList.png'
+import right from '../../../../dist/assets/Right-theme-simple.png'
 
 
 const properties = {
@@ -33,6 +35,16 @@ const slideImages = [
 
 const Right = () => (
   <div id="digitalRight">
+    <img src={right} alt=""/>
+    {/* <div className="digital_right_screen">
+    </div>
+    <div className="digital_slideshow">
+      <h1 className="right__title">Signature Rolls</h1>
+      <img src={sushilist} alt=""/>
+    </div> */}
+  </div>
+);
+export default Right;
     {/* <div class="winter-is-coming">
       <div class="snow snow--near"></div>
       <div class="snow snow--near snow--alt"></div>
@@ -41,9 +53,9 @@ const Right = () => (
       <div class="snow snow--far"></div>
       <div class="snow snow--far snow--alt"></div>
     </div> */}
-    <div className="digital_right_screen">
-      <h1 className="right__title">Signature Rolls</h1>
-      <Slide {...properties}>
+
+    
+      {/* <Slide {...properties}>
         <div className="each-slide">
           <div style={{'backgroundImage': `url(${slideImages[0]})`}}>
           </div>
@@ -56,13 +68,4 @@ const Right = () => (
           <div style={{'backgroundImage': `url(${slideImages[2]})`}}>
           </div>
         </div>
-      </Slide>
-    </div>
-    <div className="digital_slideshow">
-      <img src={sushiMenu} alt=""/>
-    </div>
-  </div>
-);
-export default Right;
-
-    
+      </Slide> */}

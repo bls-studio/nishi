@@ -2,32 +2,61 @@
 
 #digitalRight {
   width: 100%;
-  height: 100vh;
+  // height: 100vh;
   // background: #E5E5E5;
-  background: rgb(93,183,239);
-  background: linear-gradient(rgba(93,183,239,0.25) 0%, rgba(120,47,92,0.25) 100%);
+  // background: url('../../../../dist/assets/newbackground.png');
+  // background-size: cover;
+  position: relative;
+  z-index: 1;
 
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-
-
+  img {
+    transform: scale(0.71) translate(-394px, -218px);
+      // top: 0;
+    // left: 0;
+  }
   * {
     font-family: "finland";
-    // outline: 1px solid red;
   }
+  // width: 100%;
+  // height: 100vh;
+  // // background: #E5E5E5;
+  // // background: rgb(93,183,239);
+  // // background: linear-gradient(rgba(93,183,239,0.25) 0%, rgba(120,47,92,0.25) 100%);
+  // background: url('../../../../dist/assets/newbackground.png');
+  // background-size: cover;
+  // display: flex;
+  // align-items: center;
+  // justify-content: center;
+
+
+
+  // * {
+  //   font-family: "finland";
+  //   // outline: 1px solid red;
+  // }
 }
 .digital_slideshow {
   width: 45%;
   height: 80%;
   margin: auto;
   filter: drop-shadow(40px 40px 20px #C0C0C0);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
   img {
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: 90%;
   }
+  .right__title {
+    font-size: 120px;
+    text-align: center;
+    color: #484848;
+    font-weight: 1000;
+    text-transform: uppercase;
+    // padding-top: 15%;
+   }
 }
 .digital_right_screen {
   width: 45%;
@@ -38,14 +67,7 @@
   flex-direction: column;
   justify-content: space-between;
 
- .right__title {
-   font-size: 120px;
-   text-align: center;
-   color: #484848;
-   font-weight: 1000;
-   text-transform: uppercase;
-   padding-top: 15%;
-  }
+ 
 }
 // .top {
 //   height: 40%;

@@ -4,7 +4,10 @@ import '../../DigitalMenu/snow.scss';
 
 
 // import left from '../../../../dist/assets/resizedRight.png';
-import left from '../../../../dist/assets/nishi_left.png';
+// import left from '../../../../dist/assets/nishi_left.png';
+// import left from '../../../../dist/assets/left-theme-ocean.png';
+import left from '../../../../dist/assets/left-theme-simple.png';
+
 
 
 const Left = () => (
