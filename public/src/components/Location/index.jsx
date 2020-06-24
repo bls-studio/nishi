@@ -15,6 +15,7 @@ const Location = () => (
           <div className="location-buttons">
             <a href="https://ordering.chownow.com/order/9755/locations/25651" target="_blank" className="location-order" rel="external noreferrer">Order Now</a>
             <a href="https://maps.google.com/?q=3338 S. La Cienaga Blvd., Los Angeles, CA 90016" target="_blank" className="location-directions" rel="external noreferrer">Get Directions</a>
+            <a href="https://www.ezcater.com/brand/pvt/nishi-poke-and-sushi-roll" className="location-order" target="_blank">Catering</a>
           </div>
         </div>
       </div>
