@@ -58,6 +58,7 @@ const Location = () => (
           <div className="location-buttons">
             <a href="https://ordering.chownow.com/order/9755/locations?add_cn_ordering_class=true" target="_blank" className="location-order" rel="external noreferrer">Order Now</a>
             <a href="https://maps.google.com/?q=6242 Beach Blvd. #A, Buena Park, CA 90621" target="_blank" className="location-directions" rel="external noreferrer">Get Directions</a>
+            <a href="https://www.ezcater.com/catering/pvt/nishi-poke-and-ramen-3?fcv=1" className="location-order" target="_blank">Catering</a>
           </div>
         </div>
       </div>
