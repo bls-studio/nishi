@@ -13,7 +13,7 @@ const salmon = 'https://images.unsplash.com/photo-1499125562588-29fb8a56b5d5?ixl
 
 import sushiMenu from '../../../../dist/assets/sushi.png'
 import sushilist from '../../../../dist/assets/sushiList.png'
-import right from '../../../../dist/assets/Right-theme-simple.png'
+import right from '../../../../dist/assets/Right-theme-simple.jpg'
 
 
 const properties = {
