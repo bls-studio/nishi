@@ -23,7 +23,7 @@ const Center = () => (
     </div>
     <div className="digital_middle_right">
       <h1>Build Your Own Bowl</h1>
-      <div className="digital_prices"><h3>Reg | $13.25</h3><h3>Lg | $15.50</h3><h3>Prm | $17.75</h3></div>
+      <div className="digital_prices"><h3>Reg | $13.25</h3><h3>Lg | $15.75</h3><h3>Prm | $17.95</h3></div>
       <img src={poke1} alt=""/>
     </div>
   </div>
