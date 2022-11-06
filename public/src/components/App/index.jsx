@@ -9,14 +9,14 @@ import Right from '../DigitalMenu/RightScreen';
 
 const App = () => (
   <div id="outer-container" className="parallax">
-    {/* <Right />
+    <Right />
     <Left />
-    <Center /> */}
-    <Switch>
+    <Center />
+    {/* <Switch>
       <Route exact path="/right" component={Left}/>
       <Route exact path="/center" component={Center}/>
       <Route exact path="/left" component={Right}/>
-    </Switch>
+    </Switch> */}
   </div>
 );
 {/* <Menu /> */}
