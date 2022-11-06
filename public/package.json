@@ -15,7 +15,7 @@
     "file-loader": "^3.0.1",
     "image-webpack-loader": "^4.6.0",
     "include-media": "^1.4.9",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "node-sass": "^7.0.3",
     "react": "18.2.0",
     "react-burger-menu": "^2.6.1",
