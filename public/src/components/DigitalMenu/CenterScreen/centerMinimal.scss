@@ -1,4 +1,17 @@
-// @import '../../App/global.scss';
+// // @import '../../App/global.scss';
+@font-face {
+  font-family: 'finland-thin';
+  src: url('../../../../dist/Fonts/FinlandRoundedThin.ttf');
+}
+@font-face {
+  font-family: 'finland';
+  src: url('..//../../../dist/Fonts/FinlandRoundedRegular.ttf')
+  // src: url('../../../dist/Fonts/FinlandRoundedRegular.ttf');
+}
+@font-face {
+  font-family: 'finland-bold';
+  src: url('../../../../dist/Fonts/FinlandRoundedBold.ttf');
+}
 
 
 @media only screen and (min-width: 768px) {
