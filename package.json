@@ -6,7 +6,7 @@
   "author": "blake-swl <seulwoolee93@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "cd public && yarn run build",
+    "build": "cd public && npm run build",
     "webpack": "cd public && yarn run webpack"
   },
   "dependencies": {
